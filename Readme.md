@@ -1,4 +1,4 @@
-    # Federal Registry Assistant
+## Federal Registry Assistant
 
 A comprehensive system for querying and retrieving information from the U.S. Federal Registry, featuring a modern web interface and real-time chat capabilities.
 
@@ -75,7 +75,7 @@ The system uses a MySQL database with the following main tables:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/SushainDevi/-Federal-Registry-Assistant.git]
 cd federal-registry-assistant
 ```
 
