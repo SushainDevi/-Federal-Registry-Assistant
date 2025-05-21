@@ -1,0 +1,189 @@
+{
+  "abstract": "NMFS' Office of Protected Resources (OPR), upon request from NMFS' Pacific Islands Fisheries Science Center (PIFSC), hereby issues regulations to govern the unintentional taking of marine mammals incidental to fisheries research conducted in multiple specified geographical regions over the course of 5 years. These regulations, which allow for the issuance of Letters of Authorization (LOAs) for the incidental take of marine mammals during the described activities and specified timeframes, prescribe the permissible methods of taking and other means of effecting the least practicable adverse impact on marine mammal species or stocks and their habitat, as well as requirements pertaining to the monitoring and reporting of such taking. Upon publication of this final rule, NMFS will issue an LOA to PIFSC for the effective period of the final rule.",
+  "action": "Final rule; notice of issuance of letter of authorization.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "name": "Commerce Department",
+      "id": 54,
+      "url": "https://www.federalregister.gov/agencies/commerce-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "parent_id": null,
+      "slug": "commerce-department"
+    },
+    {
+      "raw_name": "National Oceanic and Atmospheric Administration",
+      "name": "National Oceanic and Atmospheric Administration",
+      "id": 361,
+      "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+      "parent_id": 54,
+      "slug": "national-oceanic-and-atmospheric-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/16/2025-08349.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 219,
+      "title": 50
+    }
+  ],
+  "citation": "90 FR 21134",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective May 16, 2025, the sunset date of January 15, 2026, for part 219 added at 86 FR 3868, Jan. 15, 2021, is removed. This rule is effective as of May 16, 2025, except for amendatory instruction 4, which is effective from May 16, 2025 through May 15, 2030.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 250505-0076"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "Programmatic Environmental Assessment (pdf, 425 pages)",
+          "document_id": "NOAA-NMFS-2021-0026-0010"
+        },
+        {
+          "title": "Final FONSI (pdf, 7 pages)",
+          "document_id": "NOAA-NMFS-2021-0026-0009"
+        },
+        {
+          "title": "Biological Opinion (pdf, 165 pages)",
+          "document_id": "NOAA-NMFS-2021-0026-0008"
+        },
+        {
+          "title": "Letter of Authorization (pdf, 14 pages)",
+          "document_id": "NOAA-NMFS-2021-0026-0007"
+        },
+        {
+          "title": "Application for LOA",
+          "document_id": "NOAA-NMFS-2021-0026-0003"
+        },
+        {
+          "title": "References",
+          "document_id": "NOAA-NMFS-2021-0026-0002"
+        }
+      ],
+      "agency_name": "NOAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-16",
+          "updated_at": "2025-05-16T10:56:51.442-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/NOAA-NMFS-2021-0026-0006",
+          "allow_late_comments": false,
+          "id": "NOAA-NMFS-2021-0026-0006",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 6,
+      "id": "NOAA-NMFS-2021-0026",
+      "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Pacific Islands Fisheries Science Center Fisheries Research"
+    }
+  ],
+  "document_number": "2025-08349",
+  "effective_on": "2025-05-16",
+  "end_page": 21179,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/16/2025-08349.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08349/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-pacific-islands-fisheries",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08349?publication_date=2025-05-16",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-16/2025-08349/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 46,
+  "page_views": {
+    "count": 37,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08349.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08349.pdf?1747313110",
+  "publication_date": "2025-05-16",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/16/2025-08349.txt",
+  "regulation_id_number_info": {
+    "0648-BG31": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/0648-BG31/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-pacific-islands-fisheries-sc",
+      "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Pacific Islands Fisheries Science Center Fisheries Research",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=0648-BG31&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "0648-BG31"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "Programmatic Environmental Assessment (pdf, 425 pages)",
+        "document_id": "NOAA-NMFS-2021-0026-0010"
+      },
+      {
+        "title": "Final FONSI (pdf, 7 pages)",
+        "document_id": "NOAA-NMFS-2021-0026-0009"
+      },
+      {
+        "title": "Biological Opinion (pdf, 165 pages)",
+        "document_id": "NOAA-NMFS-2021-0026-0008"
+      },
+      {
+        "title": "Letter of Authorization (pdf, 14 pages)",
+        "document_id": "NOAA-NMFS-2021-0026-0007"
+      },
+      {
+        "title": "Application for LOA",
+        "document_id": "NOAA-NMFS-2021-0026-0003"
+      },
+      {
+        "title": "References",
+        "document_id": "NOAA-NMFS-2021-0026-0002"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0648-BG31/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-pacific-islands-fisheries-sc",
+      "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Pacific Islands Fisheries Science Center Fisheries Research"
+    },
+    "comments_count": 0,
+    "agency_id": "NOAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NOAA-NMFS-2021-0026",
+    "supporting_documents_count": 6,
+    "docket_id": "NOAA-NMFS-2021-0026",
+    "document_id": "NOAA-NMFS-2021-0026-0006",
+    "regulation_id_number": "0648-BG31",
+    "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Pacific Islands Fisheries Science Center Fisheries Research",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 21134,
+  "subtype": null,
+  "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Pacific Islands Fisheries Science Center Fisheries Research",
+  "toc_doc": "Pacific Islands Fisheries Science Center Fisheries Research",
+  "toc_subject": "Taking or Importing of Marine Mammals",
+  "topics": [
+    "Exports",
+    "Fish",
+    "Imports",
+    "Indians",
+    "Labeling",
+    "Marine mammals",
+    "Penalties",
+    "Reporting and recordkeeping requirements",
+    "Seafood",
+    "Transportation"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08349"
+}

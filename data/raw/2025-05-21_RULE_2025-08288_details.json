@@ -1,0 +1,135 @@
+{
+  "abstract": "The Coast Guard is establishing a temporary safety zone for certain waters of the Atlantic Ocean near Cocoa Beach, Florida. This safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with the Thunder on Cocoa Beach powerboat racing event. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port Jacksonville or a designated representative.",
+  "action": "Temporary final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "name": "Homeland Security Department",
+      "id": 227,
+      "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+      "parent_id": null,
+      "slug": "homeland-security-department"
+    },
+    {
+      "raw_name": "Coast Guard",
+      "name": "Coast Guard",
+      "id": 53,
+      "url": "https://www.federalregister.gov/agencies/coast-guard",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+      "parent_id": 227,
+      "slug": "coast-guard"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/12/2025-08288.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 165,
+      "title": 33
+    }
+  ],
+  "citation": "90 FR 20108",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective daily from 8 a.m. until 6:30 p.m. on May 16, 2025, through May 18, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket Number USCG-2025-0321"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "USCG",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-05-12T08:58:22.835-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/USCG-2025-0321-0001",
+          "allow_late_comments": false,
+          "id": "USCG-2025-0321-0001",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "USCG-2025-0321",
+      "title": "Safety Zone; Atlantic Ocean, Cocoa Beach, FL"
+    }
+  ],
+  "document_number": "2025-08288",
+  "effective_on": "2025-05-16",
+  "end_page": 20110,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/12/2025-08288.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08288/safety-zone-atlantic-ocean-cocoa-beach-fl",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08288?publication_date=2025-05-12",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-12/2025-08288/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 44,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08288.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08288.pdf?1746794725",
+  "publication_date": "2025-05-12",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/12/2025-08288.txt",
+  "regulation_id_number_info": {
+    "1625-AA00": {
+      "issue": "201104",
+      "html_url": "https://www.federalregister.gov/regulations/1625-AA00/safety-zone-regulations",
+      "title": "Safety Zone Regulations",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201104&RIN=1625-AA00&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "1625-AA00"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/1625-AA00/safety-zone-regulations",
+      "title": "Safety Zone Regulations"
+    },
+    "comments_count": 0,
+    "agency_id": "USCG",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=USCG-2025-0321",
+    "supporting_documents_count": 0,
+    "docket_id": "USCG-2025-0321",
+    "document_id": "USCG-2025-0321-0001",
+    "regulation_id_number": "1625-AA00",
+    "title": "Safety Zone; Atlantic Ocean, Cocoa Beach, FL",
+    "checked_regulationsdotgov_at": "2025-05-13T15:55:05Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20108,
+  "subtype": null,
+  "title": "Safety Zone; Atlantic Ocean, Cocoa Beach, FL",
+  "toc_doc": "Atlantic Ocean, Cocoa Beach, FL",
+  "toc_subject": "Safety Zone",
+  "topics": [
+    "Harbors",
+    "Marine safety",
+    "Navigation (water)",
+    "Reporting and recordkeeping requirements",
+    "Security measures",
+    "Waterways"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08288"
+}

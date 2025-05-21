@@ -1,0 +1,179 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Ohio State Implementation Plan (SIP). On November 6, 2024, the Ohio Environmental Protection Agency (Ohio EPA) submitted the state's plans for maintaining the 2008 ozone National Ambient Air Quality Standard (NAAQS or standard) in the Columbus, Ohio; Cleveland-Akron-Lorain, Ohio; and Cincinnati, Ohio-Kentucky-Indiana areas. EPA is proposing to approve these maintenance plans because they provide for the maintenance of the 2008 ozone NAAQS for each area for 10 additional years as required by the Clean Air Act (CAA). EPA is also initiating the adequacy review process for motor vehicle emission budgets (Budgets) for each area. This action, if finalized, would make certain commitments related to maintenance of the 2008 ozone NAAQS in these areas federally enforceable as part of the Ohio SIP.",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08728.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 21254",
+  "comment_url": "http://www.regulations.gov/commenton/EPA-R05-OAR-2024-0538-0001",
+  "comments_close_on": "2025-06-18",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments must be received on or before June 18, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R05-OAR-2024-0537",
+    "EPA-R05-OAR-2024-0538",
+    "EPA-R05-OAR-2024-0539",
+    "FRL-12534-01-R5"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "Ohio 2008 Ozone Second Maintenance Plan for Cincinnati, On Road Mobile Source 11/19/2024 Email",
+          "document_id": "EPA-R05-OAR-2024-0537-0003"
+        },
+        {
+          "title": "Ohio 2008 Ozone Second Maintenance Plan for Cincinnati, 11/06/2024 submittal",
+          "document_id": "EPA-R05-OAR-2024-0537-0002"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T09:02:10.380-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R05-OAR-2024-0537-0001",
+          "allow_late_comments": false,
+          "id": "EPA-R05-OAR-2024-0537-0001",
+          "comment_end_date": "2025-06-19",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 2,
+      "id": "EPA-R05-OAR-2024-0537",
+      "title": "Ohio 2008 Ozone Second Maintenance Plan for Cincinnati"
+    },
+    {
+      "supporting_documents": [
+        {
+          "title": "Ohio 2008 Ozone Second Maintenance Plan for Cleveland-Akron-Lorain, 11/06/2024 submittal",
+          "document_id": "EPA-R05-OAR-2024-0538-0002"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 1,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-20T01:56:10.327-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R05-OAR-2024-0538-0001",
+          "allow_late_comments": false,
+          "id": "EPA-R05-OAR-2024-0538-0001",
+          "comment_end_date": "2025-06-19",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 1,
+      "id": "EPA-R05-OAR-2024-0538",
+      "title": "Ohio 2008 Ozone Second Maintenance Plan for Cleveland-Akron-Lorain"
+    },
+    {
+      "supporting_documents": [
+        {
+          "title": "Ohio 2008 Ozone Second Maintenance Plan for Columbus, 11/06/2024 submittal",
+          "document_id": "EPA-R05-OAR-2024-0539-0002"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T09:02:11.443-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R05-OAR-2024-0539-0001",
+          "allow_late_comments": false,
+          "id": "EPA-R05-OAR-2024-0539-0001",
+          "comment_end_date": "2025-06-19",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 1,
+      "id": "EPA-R05-OAR-2024-0539",
+      "title": "Ohio 2008 Ozone Second Maintenance Plan for Columbus"
+    }
+  ],
+  "document_number": "2025-08728",
+  "effective_on": null,
+  "end_page": 21263,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08728.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08728/air-plan-approval-ohio-second-maintenance-plan-for-2008-ozone-naaqs",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08728?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08728/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 10,
+  "page_views": {
+    "count": 54,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08728.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08728.pdf?1747399509",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08728.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "Ohio 2008 Ozone Second Maintenance Plan for Cleveland-Akron-Lorain, 11/06/2024 submittal",
+        "document_id": "EPA-R05-OAR-2024-0538-0002"
+      }
+    ],
+    "comments_count": 1,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R05-OAR-2024-0538",
+    "supporting_documents_count": 1,
+    "docket_id": "EPA-R05-OAR-2024-0538",
+    "document_id": "EPA-R05-OAR-2024-0538-0001",
+    "regulation_id_number": null,
+    "title": "Ohio 2008 Ozone Second Maintenance Plan for Cleveland-Akron-Lorain",
+    "checked_regulationsdotgov_at": "2025-05-21T02:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EPA-R05-OAR-2024-0538-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21254,
+  "subtype": null,
+  "title": "Air Plan Approval; Ohio; Second Maintenance Plan for 2008 Ozone NAAQS",
+  "toc_doc": "Ohio; Second Maintenance Plan for 2008 Ozone NAAQS",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Environmental protection",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Nitrogen oxides",
+    "Ozone",
+    "Reporting and recordkeeping requirements",
+    "Volatile organic compounds"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08728"
+}

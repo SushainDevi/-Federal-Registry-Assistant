@@ -1,0 +1,145 @@
+{
+  "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2020-06-18, which applies to all Airbus SAS Model A318 series airplanes; A319 series airplanes; A320-211, -212, -214, -216, -231, - 232, -233, -251N, -252N, -253N, -271N, -272N, and -273N airplanes; and A321 series airplanes. AD 2020-06-18 requires replacement of affected trimmable horizontal stabilizer actuators (THSAs) with serviceable THSAs. Since the FAA issued AD 2020-06-18, a new Airbus airplane model (A321-253NY) has been certified, on which affected parts could be installed in service. This proposed AD would continue to require the actions in AD 2020-06-18, would revise the applicability to include Model A321-253NY airplanes, and would prohibit the installation of affected parts, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference (IBR). The FAA is proposing this AD to address the unsafe condition on these products.",
+  "action": "Notice of proposed rulemaking (NPRM).",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08399.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 39,
+      "title": 14
+    }
+  ],
+  "citation": "90 FR 21242",
+  "comment_url": "http://www.regulations.gov/commenton/FAA-2025-0755-0001",
+  "comments_close_on": "2025-07-03",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "The FAA must receive comments on this proposed AD by July 3, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FAA-2025-0755",
+    "Project Identifier MCAI-2024-00633-T"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "U.S. DOT/FAA - Supplemental AD Documents",
+          "document_id": "FAA-2025-0755-0002"
+        }
+      ],
+      "agency_name": "FAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T09:56:28.764-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FAA-2025-0755-0001",
+          "allow_late_comments": false,
+          "id": "FAA-2025-0755-0001",
+          "comment_end_date": "2025-07-04",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 1,
+      "id": "FAA-2025-0755",
+      "title": "MCAI-2024-00633-T; Airbus S.A.S. Model A318, A319, A320 and A321 airplanes; revise airworthiness limitations; trimmable horizontal stabilizer actuators (THSAs)"
+    }
+  ],
+  "document_number": "2025-08399",
+  "effective_on": null,
+  "end_page": 21244,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08399.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08399/airworthiness-directives-airbus-sas-airplanes",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08399?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08399/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 58,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08399.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08399.pdf?1747399508",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08399.txt",
+  "regulation_id_number_info": {
+    "2120-AA64": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA64/airworthiness-directives",
+      "title": "Airworthiness Directives",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=2120-AA64&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "2120-AA64"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "U.S. DOT/FAA - Supplemental AD Documents",
+        "document_id": "FAA-2025-0755-0002"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA64/airworthiness-directives",
+      "title": "Airworthiness Directives"
+    },
+    "comments_count": 0,
+    "agency_id": "FAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FAA-2025-0755",
+    "supporting_documents_count": 1,
+    "docket_id": "FAA-2025-0755",
+    "document_id": "FAA-2025-0755-0001",
+    "regulation_id_number": "2120-AA64",
+    "title": "MCAI-2024-00633-T; Airbus S.A.S. Model A318, A319, A320 and A321 airplanes; revise airworthiness limitations; trimmable horizontal stabilizer actuators (THSAs)",
+    "checked_regulationsdotgov_at": "2025-05-21T02:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/FAA-2025-0755-0001",
+  "significant": false,
+  "signing_date": null,
+  "start_page": 21242,
+  "subtype": null,
+  "title": "Airworthiness Directives; Airbus SAS Airplanes",
+  "toc_doc": "Airbus SAS Airplanes",
+  "toc_subject": "Airworthiness Directives",
+  "topics": [
+    "Air transportation",
+    "Aircraft",
+    "Aviation safety",
+    "Incorporation by reference",
+    "Safety"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08399"
+}

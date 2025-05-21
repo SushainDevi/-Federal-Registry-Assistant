@@ -1,0 +1,160 @@
+{
+  "abstract": "This document is issued under the joint authority of OFPP, DoD, GSA, and NASA. This Small Entity Compliance Guide has been prepared in accordance with section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996. It consists of a summary of the rules appearing in Federal Acquisition Circular (FAC) 2025-04, which amends the Federal Acquisition Regulation (FAR). Interested parties may obtain further information regarding these rules by referring to FAC 2025-04, which precedes this document.",
+  "action": "Small Entity Compliance Guide (SECG).",
+  "agencies": [
+    {
+      "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
+      "name": "Management and Budget Office",
+      "id": 280,
+      "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
+      "parent_id": null,
+      "slug": "management-and-budget-office"
+    },
+    {
+      "raw_name": "Office of Federal Procurement Policy",
+      "name": "Federal Procurement Policy Office",
+      "id": 184,
+      "url": "https://www.federalregister.gov/agencies/federal-procurement-policy-office",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/184",
+      "parent_id": 280,
+      "slug": "federal-procurement-policy-office"
+    },
+    {
+      "raw_name": "DEPARTMENT OF DEFENSE",
+      "name": "Defense Department",
+      "id": 103,
+      "url": "https://www.federalregister.gov/agencies/defense-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
+      "parent_id": null,
+      "slug": "defense-department"
+    },
+    {
+      "raw_name": "GENERAL SERVICES ADMINISTRATION",
+      "name": "General Services Administration",
+      "id": 210,
+      "url": "https://www.federalregister.gov/agencies/general-services-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
+      "parent_id": null,
+      "slug": "general-services-administration"
+    },
+    {
+      "raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "name": "National Aeronautics and Space Administration",
+      "id": 301,
+      "url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/301",
+      "parent_id": null,
+      "slug": "national-aeronautics-and-space-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/12/2025-08024.html",
+  "cfr_references": [
+    {
+      "chapter": 1,
+      "citation_url": null,
+      "part": null,
+      "title": 48
+    }
+  ],
+  "citation": "90 FR 20224",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "May 12, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FAR-2025-0051, Sequence No. 1"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "DOD",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-12",
+          "updated_at": "2025-05-12T08:56:13.885-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/DOD_FRDOC_0001-5999",
+          "allow_late_comments": false,
+          "id": "DOD_FRDOC_0001-5999",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "DOD_FRDOC_0001",
+      "title": "Recently Posted DOD Rules and Notices."
+    },
+    {
+      "supporting_documents": [],
+      "agency_name": "OFPP",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-12",
+          "updated_at": "2025-05-12T08:56:14.226-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/OFPP_FRDOC_0001-0037",
+          "allow_late_comments": false,
+          "id": "OFPP_FRDOC_0001-0037",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "OFPP_FRDOC_0001",
+      "title": "Recently Posted OFPP Rules and Notices."
+    }
+  ],
+  "document_number": "2025-08024",
+  "effective_on": null,
+  "end_page": 20224,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/12/2025-08024.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08024/federal-acquisition-regulation-federal-acquisition-circular-2025-04-small-entity-compliance-guide",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08024?publication_date=2025-05-12",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-12/2025-08024/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 1,
+  "page_views": {
+    "count": 721,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08024.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08024.pdf?1746794716",
+  "publication_date": "2025-05-12",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/12/2025-08024.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "OFPP",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=OFPP_FRDOC_0001",
+    "supporting_documents_count": 0,
+    "docket_id": "OFPP_FRDOC_0001",
+    "document_id": "OFPP_FRDOC_0001-0037",
+    "regulation_id_number": null,
+    "title": "Recently Posted OFPP Rules and Notices.",
+    "checked_regulationsdotgov_at": "2025-05-13T14:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20224,
+  "subtype": null,
+  "title": "Federal Acquisition Regulation; Federal Acquisition Circular 2025-04; Small Entity Compliance Guide",
+  "toc_doc": "Federal Acquisition Circular 202504; Small Entity Compliance Guide",
+  "toc_subject": "Federal Acquisition Regulation",
+  "topics": [],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08024"
+}

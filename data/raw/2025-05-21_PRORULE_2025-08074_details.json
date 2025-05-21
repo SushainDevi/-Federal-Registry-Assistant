@@ -1,0 +1,169 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Missouri State Implementation Plan (SIP) related to the control of emissions during petroleum liquid storage, loading and transfer in the Kansas City metropolitan area. The revisions to this rule include adding incorporations by reference to other state rules, adding definitions specific to the rule, revising unnecessarily restrictive or duplicative language, and making administrative wording changes. These revisions do not impact the stringency of the SIP or have an adverse effect on air quality. The EPA's proposed approval of this rule revision is being done in accordance with the requirements of the Clean Air Act (CAA).",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/08/2025-08074.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 19460",
+  "comment_url": "http://www.regulations.gov/commenton/EPA-R07-OAR-2025-0175-0001",
+  "comments_close_on": "2025-06-09",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments must be received on or before June 9, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R07-OAR-2025-0175",
+    "FRL-12732-01-R7"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "MoDNR Presentation Analysis",
+          "document_id": "EPA-R07-OAR-2025-0175-0007"
+        },
+        {
+          "title": "MoDNR Notes for EPA",
+          "document_id": "EPA-R07-OAR-2025-0175-0006"
+        },
+        {
+          "title": "MO-407 2.260 TSD",
+          "document_id": "EPA-R07-OAR-2025-0175-0005"
+        },
+        {
+          "title": "electronic verification",
+          "document_id": "EPA-R07-OAR-2025-0175-0004"
+        },
+        {
+          "title": "complete EPA submittal 2.260",
+          "document_id": "EPA-R07-OAR-2025-0175-0003"
+        },
+        {
+          "title": "2.260 EPA Submittal Supplemental Letter",
+          "document_id": "EPA-R07-OAR-2025-0175-0002"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-08",
+          "updated_at": "2025-05-08T09:56:58.066-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R07-OAR-2025-0175-0001",
+          "allow_late_comments": false,
+          "id": "EPA-R07-OAR-2025-0175-0001",
+          "comment_end_date": "2025-06-10",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 6,
+      "id": "EPA-R07-OAR-2025-0175",
+      "title": "Air Plan Approval; Missouri; Control of Emissions During Petroleum Liquid Storage, Loading, and Transfer"
+    }
+  ],
+  "document_number": "2025-08074",
+  "effective_on": null,
+  "end_page": 19462,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/08/2025-08074.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08074/air-plan-approval-missouri-control-of-emissions-during-petroleum-liquid-storage-loading-and-transfer",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08074?publication_date=2025-05-08",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-08/2025-08074/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 72,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-08074.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08074.pdf?1746621936",
+  "publication_date": "2025-05-08",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/08/2025-08074.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "MoDNR Presentation Analysis",
+        "document_id": "EPA-R07-OAR-2025-0175-0007"
+      },
+      {
+        "title": "MoDNR Notes for EPA",
+        "document_id": "EPA-R07-OAR-2025-0175-0006"
+      },
+      {
+        "title": "MO-407 2.260 TSD",
+        "document_id": "EPA-R07-OAR-2025-0175-0005"
+      },
+      {
+        "title": "electronic verification",
+        "document_id": "EPA-R07-OAR-2025-0175-0004"
+      },
+      {
+        "title": "complete EPA submittal 2.260",
+        "document_id": "EPA-R07-OAR-2025-0175-0003"
+      },
+      {
+        "title": "2.260 EPA Submittal Supplemental Letter",
+        "document_id": "EPA-R07-OAR-2025-0175-0002"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R07-OAR-2025-0175",
+    "supporting_documents_count": 6,
+    "docket_id": "EPA-R07-OAR-2025-0175",
+    "document_id": "EPA-R07-OAR-2025-0175-0001",
+    "regulation_id_number": null,
+    "title": "Air Plan Approval; Missouri; Control of Emissions During Petroleum Liquid Storage, Loading, and Transfer",
+    "checked_regulationsdotgov_at": "2025-05-09T16:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EPA-R07-OAR-2025-0175-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 19460,
+  "subtype": null,
+  "title": "Air Plan Approval; Missouri; Control of Emissions During Petroleum Liquid Storage, Loading, and Transfer",
+  "toc_doc": "Missouri; Control of Emissions during Petroleum Liquid Storage, Loading, and Transfer",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Carbon monoxide",
+    "Environmental protection",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Lead",
+    "Nitrogen dioxide",
+    "Ozone",
+    "Particulate matter",
+    "Reporting and recordkeeping requirements",
+    "Sulfur oxides",
+    "Volatile organic compounds"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08074"
+}

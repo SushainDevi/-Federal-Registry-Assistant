@@ -1,0 +1,117 @@
+{
+  "abstract": "DOE is proposing to amend existing provisions regarding authorization to transmit electric energy to a foreign country.",
+  "action": "Notice of proposed rulemaking and request for comments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF ENERGY",
+      "name": "Energy Department",
+      "id": 136,
+      "url": "https://www.federalregister.gov/agencies/energy-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+      "parent_id": null,
+      "slug": "energy-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/16/2025-08555.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 205,
+      "title": 10
+    }
+  ],
+  "citation": "90 FR 20826",
+  "comment_url": "http://www.regulations.gov/commenton/DOE-HQ-2025-0019-0001",
+  "comments_close_on": "2025-07-15",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments must be received on or before July 15, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "DOE-HQ-2025-0019"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "DOE",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-16",
+          "updated_at": "2025-05-20T14:57:02.085-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/DOE-HQ-2025-0019-0001",
+          "allow_late_comments": false,
+          "id": "DOE-HQ-2025-0019-0001",
+          "comment_end_date": "2025-07-16",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "DOE-HQ-2025-0019",
+      "title": "Electric Power System Permits and Reports; Administrative Procedures and Sanctions"
+    }
+  ],
+  "document_number": "2025-08555",
+  "effective_on": null,
+  "end_page": 20828,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/16/2025-08555.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08555/application-for-authorization-to-transmit-electric-energy-to-a-foreign-country",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08555?publication_date=2025-05-16",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-16/2025-08555/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 116,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08555.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08555.pdf?1747056609",
+  "publication_date": "2025-05-16",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/16/2025-08555.txt",
+  "regulation_id_number_info": {
+    "1901-AB69": null
+  },
+  "regulation_id_numbers": [
+    "1901-AB69"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "DOE",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=DOE-HQ-2025-0019",
+    "supporting_documents_count": 0,
+    "docket_id": "DOE-HQ-2025-0019",
+    "document_id": "DOE-HQ-2025-0019-0001",
+    "regulation_id_number": "1901-AB69",
+    "title": "Electric Power System Permits and Reports; Administrative Procedures and Sanctions",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/DOE-HQ-2025-0019-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20826,
+  "subtype": null,
+  "title": "Application for Authorization To Transmit Electric Energy to a Foreign Country",
+  "toc_doc": "Application for Authorization to Transmit Electric Energy to a Foreign Country",
+  "toc_subject": null,
+  "topics": [
+    "Administrative practice and procedure",
+    "Electric power",
+    "Electric utilities",
+    "Energy",
+    "Environmental protection",
+    "Exports",
+    "Foreign relations"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08555"
+}

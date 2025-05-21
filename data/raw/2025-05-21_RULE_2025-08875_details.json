@@ -1,0 +1,198 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is taking final action to approve a revision to the Mojave Desert Air Quality Management District (MDAQMD) portion of the California State Implementation Plan (SIP). This revision concerns emissions of oxides of nitrogen (NO<INF>X</INF>) from industrial, institutional, and commercial boilers, steam generators, and process heaters. We are approving a local rule that regulates these emission sources under the Clean Air Act (CAA or \"Act\").",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08875.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 21236",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective June 18, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R09-OAR-2024-0563",
+    "FRL-12442-02-R9"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "MD 1157 Final SR 2023 25 Sep",
+          "document_id": "EPA-R09-OAR-2024-0563-0018"
+        },
+        {
+          "title": "Letter to EPA - 3Q 2023 District Rules Package v2",
+          "document_id": "EPA-R09-OAR-2024-0563-0017"
+        },
+        {
+          "title": "Executive Order S-23-018 v2",
+          "document_id": "EPA-R09-OAR-2024-0563-0016"
+        },
+        {
+          "title": "Attachment A to EO S-23-018 v2",
+          "document_id": "EPA-R09-OAR-2024-0563-0015"
+        },
+        {
+          "title": "Attachment B to EO S-23-018 v2",
+          "document_id": "EPA-R09-OAR-2024-0563-0014"
+        },
+        {
+          "title": "Ltr MD1157 SIP Submission 2023 17 Oct",
+          "document_id": "EPA-R09-OAR-2024-0563-0013"
+        },
+        {
+          "title": "MD1157 NOE RS 2023 25 Sep",
+          "document_id": "EPA-R09-OAR-2024-0563-0012"
+        },
+        {
+          "title": "MD1157 NOE SB 2023 25 Sep",
+          "document_id": "EPA-R09-OAR-2024-0563-0011"
+        },
+        {
+          "title": "POP 1157 2023 25 Aug",
+          "document_id": "EPA-R09-OAR-2024-0563-0010"
+        },
+        {
+          "title": "MD1157 2023 25 Sep",
+          "document_id": "EPA-R09-OAR-2024-0563-0009"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T11:55:50.456-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R09-OAR-2024-0563-0019",
+          "allow_late_comments": false,
+          "id": "EPA-R09-OAR-2024-0563-0019",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 16,
+      "id": "EPA-R09-OAR-2024-0563",
+      "title": "Air Plan Approval; California; Mojave Desert Air Quality Management District; Oxides of Nitrogen"
+    }
+  ],
+  "document_number": "2025-08875",
+  "effective_on": "2025-06-18",
+  "end_page": 21237,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08875.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08875/air-plan-approval-california-mojave-desert-air-quality-management-district-oxides-of-nitrogen",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08875?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08875/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 102,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08875.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08875.pdf?1747399517",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08875.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "MD 1157 Final SR 2023 25 Sep",
+        "document_id": "EPA-R09-OAR-2024-0563-0018"
+      },
+      {
+        "title": "Letter to EPA - 3Q 2023 District Rules Package v2",
+        "document_id": "EPA-R09-OAR-2024-0563-0017"
+      },
+      {
+        "title": "Executive Order S-23-018 v2",
+        "document_id": "EPA-R09-OAR-2024-0563-0016"
+      },
+      {
+        "title": "Attachment A to EO S-23-018 v2",
+        "document_id": "EPA-R09-OAR-2024-0563-0015"
+      },
+      {
+        "title": "Attachment B to EO S-23-018 v2",
+        "document_id": "EPA-R09-OAR-2024-0563-0014"
+      },
+      {
+        "title": "Ltr MD1157 SIP Submission 2023 17 Oct",
+        "document_id": "EPA-R09-OAR-2024-0563-0013"
+      },
+      {
+        "title": "MD1157 NOE RS 2023 25 Sep",
+        "document_id": "EPA-R09-OAR-2024-0563-0012"
+      },
+      {
+        "title": "MD1157 NOE SB 2023 25 Sep",
+        "document_id": "EPA-R09-OAR-2024-0563-0011"
+      },
+      {
+        "title": "POP 1157 2023 25 Aug",
+        "document_id": "EPA-R09-OAR-2024-0563-0010"
+      },
+      {
+        "title": "MD1157 2023 25 Sep",
+        "document_id": "EPA-R09-OAR-2024-0563-0009"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R09-OAR-2024-0563",
+    "supporting_documents_count": 16,
+    "docket_id": "EPA-R09-OAR-2024-0563",
+    "document_id": "EPA-R09-OAR-2024-0563-0019",
+    "regulation_id_number": null,
+    "title": "Air Plan Approval; California; Mojave Desert Air Quality Management District; Oxides of Nitrogen",
+    "checked_regulationsdotgov_at": "2025-05-20T18:55:06Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21236,
+  "subtype": null,
+  "title": "Air Plan Approval; California; Mojave Desert Air Quality Management District; Oxides of Nitrogen",
+  "toc_doc": "California; Mojave Desert Air Quality Management District; Oxides of Nitrogen",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Carbon monoxide",
+    "Environmental protection",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Nitrogen oxides",
+    "Ozone",
+    "Particulate matter",
+    "Reporting and recordkeeping requirements"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08875"
+}

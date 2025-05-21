@@ -1,0 +1,210 @@
+{
+  "abstract": "Pursuant to the Congressional Review Act, this document withdraws a disapproved final rule that was published in the Federal Register on December 26, 2024. The final rule would have established amended energy conservation standards for gas-fired instantaneous water heaters.",
+  "action": "Final rule; withdrawal.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF ENERGY",
+      "name": "Energy Department",
+      "id": 136,
+      "url": "https://www.federalregister.gov/agencies/energy-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+      "parent_id": null,
+      "slug": "energy-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/20/2025-09030.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 430,
+      "title": 10
+    }
+  ],
+  "citation": "90 FR 21390",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "As of May 20, 2025, the final rule on energy conservation standards for gas-fired instantaneous water heaters, published in the Federal Register on December 26, 2024, at 89 FR 105188, and delayed at 90 FR 13054 (Mar. 20, 2025), is withdrawn.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EERE-2017-BT-STD-0019"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "2024-12  Technical Support Document:  Energy Efficiency Program for Consumer Products and Commercial and Industrial Equipment:  Gas-fired Instantaneous Water Heaters",
+          "document_id": "EERE-2017-BT-STD-0019-1454"
+        },
+        {
+          "title": "2020-12-17  HTP High Efficiency Crossover Hybrid Water Heater (2.3 and 3.5 gal) Product Sheet",
+          "document_id": "EERE-2017-BT-STD-0019-1452"
+        },
+        {
+          "title": "2019-10  American Water Heaters Commercial-Grade Residential Gas Water Heaters (34 and 50 gal) Product Sheet",
+          "document_id": "EERE-2017-BT-STD-0019-1451"
+        },
+        {
+          "title": "Consumer Gas-fired Instantaneous Water Heaters Life-Cycle Cost (LCC) Results Final Rule Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0019-1449"
+        },
+        {
+          "title": "Consumer Gas-fired Instantaneous Water Heater Life-Cycle Cost and Payback Period Analysis Final Rule Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0019-1448"
+        },
+        {
+          "title": "Gas-fired Instantaneous Water Heaters National Impact Analysis Final Rule Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0019-1447"
+        },
+        {
+          "title": "2024-08-15  DOE response to the American Gas Association (AGA), American Public Gas Association (APGA), National Propane Gas Association (NPGA), and Rinnai America Corp. joint request for a comment period extension (xref. EERE-2017-BT-STD-0019-1433)",
+          "document_id": "EERE-2017-BT-STD-0019-1446"
+        },
+        {
+          "title": "Consumer Water Heater Life-Cycle Cost (LCC) and Payback Period Analysis (NODA) Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0019-1427"
+        },
+        {
+          "title": "Consumer Water Heater Life-Cycle Cost (LCC) Results Final Rule Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0019-1424"
+        },
+        {
+          "title": "Consumer Water Heater Life-Cycle Cost (LCC) and Payback Period Analysis Final Rule Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0019-1423"
+        }
+      ],
+      "agency_name": "EERE",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-05-20T09:58:39.164-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EERE-2017-BT-STD-0019-1470",
+          "allow_late_comments": false,
+          "id": "EERE-2017-BT-STD-0019-1470",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 39,
+      "id": "EERE-2017-BT-STD-0019",
+      "title": "Energy Conservation Standards for Consumer Water Heaters"
+    }
+  ],
+  "document_number": "2025-09030",
+  "effective_on": null,
+  "end_page": 21391,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/20/2025-09030.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-09030/energy-conservation-program-energy-conservation-standards-for-consumer-gas-fired-instantaneous-water",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09030?publication_date=2025-05-20",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-20/2025-09030/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 48,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-09030.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09030.pdf?1747658725",
+  "publication_date": "2025-05-20",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/20/2025-09030.txt",
+  "regulation_id_number_info": {
+    "1904-AF65": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/1904-AF65/energy-conservation-program-energy-conservation-standards-for-consumer-water-heaters-",
+      "title": "Energy Conservation Program:  Energy Conservation Standards for Consumer Water Heaters\n",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=1904-AF65&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "1904-AF65"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "2024-12  Technical Support Document:  Energy Efficiency Program for Consumer Products and Commercial and Industrial Equipment:  Gas-fired Instantaneous Water Heaters",
+        "document_id": "EERE-2017-BT-STD-0019-1454"
+      },
+      {
+        "title": "2020-12-17  HTP High Efficiency Crossover Hybrid Water Heater (2.3 and 3.5 gal) Product Sheet",
+        "document_id": "EERE-2017-BT-STD-0019-1452"
+      },
+      {
+        "title": "2019-10  American Water Heaters Commercial-Grade Residential Gas Water Heaters (34 and 50 gal) Product Sheet",
+        "document_id": "EERE-2017-BT-STD-0019-1451"
+      },
+      {
+        "title": "Consumer Gas-fired Instantaneous Water Heaters Life-Cycle Cost (LCC) Results Final Rule Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0019-1449"
+      },
+      {
+        "title": "Consumer Gas-fired Instantaneous Water Heater Life-Cycle Cost and Payback Period Analysis Final Rule Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0019-1448"
+      },
+      {
+        "title": "Gas-fired Instantaneous Water Heaters National Impact Analysis Final Rule Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0019-1447"
+      },
+      {
+        "title": "2024-08-15  DOE response to the American Gas Association (AGA), American Public Gas Association (APGA), National Propane Gas Association (NPGA), and Rinnai America Corp. joint request for a comment period extension (xref. EERE-2017-BT-STD-0019-1433)",
+        "document_id": "EERE-2017-BT-STD-0019-1446"
+      },
+      {
+        "title": "Consumer Water Heater Life-Cycle Cost (LCC) and Payback Period Analysis (NODA) Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0019-1427"
+      },
+      {
+        "title": "Consumer Water Heater Life-Cycle Cost (LCC) Results Final Rule Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0019-1424"
+      },
+      {
+        "title": "Consumer Water Heater Life-Cycle Cost (LCC) and Payback Period Analysis Final Rule Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0019-1423"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/1904-AD91/energy-conservation-standards-for-consumer-water-heaters",
+      "title": "Energy Conservation Standards for Consumer Water Heaters"
+    },
+    "comments_count": 0,
+    "agency_id": "EERE",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EERE-2017-BT-STD-0019",
+    "supporting_documents_count": 39,
+    "docket_id": "EERE-2017-BT-STD-0019",
+    "document_id": "EERE-2017-BT-STD-0019-1470",
+    "regulation_id_number": "1904-AD91",
+    "title": "Energy Conservation Standards for Consumer Water Heaters",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 21390,
+  "subtype": null,
+  "title": "Energy Conservation Program: Energy Conservation Standards for Consumer Gas-Fired Instantaneous Water Heaters",
+  "toc_doc": "Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters; Withdrawal",
+  "toc_subject": "Energy Conservation Program",
+  "topics": [
+    "Administrative practice and procedure",
+    "Confidential business information",
+    "Energy conservation",
+    "Household appliances",
+    "Imports",
+    "Intergovernmental relations",
+    "Reporting and recordkeeping requirements",
+    "Small businesses"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-09030"
+}

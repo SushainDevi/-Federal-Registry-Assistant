@@ -1,0 +1,115 @@
+{
+  "abstract": "In accordance with the requirements of the Privacy Act of 1974, as amended, the Department of the Treasury is issuing a final rule, exempting a new Internal Revenue Service (IRS) system of records (SOR) entitled \"Department of Treasury/Internal Revenue Service-- 34.018, Insider Risk Management Records\" from certain provisions of the Privacy Act. The IRS Insider Risk Management system was established for information collected in connection with the IRS Insider Risk program to identify potential threats to IRS resources and information assets and facilitate management of insider threat investigations, complaints, inquiries, and counterintelligence threat detection activities. Specifically, the Department exempts portions of this SOR from one or more provisions of the Privacy Act because of criminal, civil, and administrative enforcement requirements.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF THE TREASURY",
+      "name": "Treasury Department",
+      "id": 497,
+      "url": "https://www.federalregister.gov/agencies/treasury-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+      "parent_id": null,
+      "slug": "treasury-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/14/2025-08504.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 1,
+      "title": 31
+    }
+  ],
+  "citation": "90 FR 20394",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective on June 13, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "TREAS",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-14",
+          "updated_at": "2025-05-14T09:00:08.995-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/TREAS_FRDOC_0001-0482",
+          "allow_late_comments": false,
+          "id": "TREAS_FRDOC_0001-0482",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "TREAS_FRDOC_0001",
+      "title": "Financial Crimes Enforcement Network; Anti-Money Laundering Programs; Special Due Diligence Programs for Certain Foreign Accounts  RULES"
+    }
+  ],
+  "document_number": "2025-08504",
+  "effective_on": "2025-06-13",
+  "end_page": 20396,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/14/2025-08504.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08504/privacy-act-of-1974-exempting-a-system-of-records-from-certain-requirements",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08504?publication_date=2025-05-14",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-14/2025-08504/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 115,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08504.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08504.pdf?1747140322",
+  "publication_date": "2025-05-14",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/14/2025-08504.txt",
+  "regulation_id_number_info": {
+    "1505-AC84": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/1505-AC84/privacy-act-of-1974",
+      "title": "Privacy Act of 1974",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=1505-AC84&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "1505-AC84"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "TREAS",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=TREAS_FRDOC_0001",
+    "supporting_documents_count": 0,
+    "docket_id": "TREAS_FRDOC_0001",
+    "document_id": "TREAS_FRDOC_0001-0482",
+    "regulation_id_number": null,
+    "title": "Financial Crimes Enforcement Network; Anti-Money Laundering Programs; Special Due Diligence Programs for Certain Foreign Accounts  RULES",
+    "checked_regulationsdotgov_at": "2025-05-15T15:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20394,
+  "subtype": null,
+  "title": "Privacy Act of 1974; Exempting a System of Records From Certain Requirements",
+  "toc_doc": "Privacy Act; Exempting a System of Records from Certain Requirements",
+  "toc_subject": null,
+  "topics": [
+    "Privacy"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08504"
+}

@@ -1,0 +1,119 @@
+{
+  "abstract": "The Consumer Financial Protection Bureau (Bureau or CFPB) is withdrawing its Notice of Proposed Rule: Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA) (NPRM). The Bureau has determined that legislative rulemaking is not necessary or appropriate at this time to address the subject matter of the NPRM. The Bureau will not take any further action on the NPRM.",
+  "action": "Proposed rule; withdrawal.",
+  "agencies": [
+    {
+      "raw_name": "Consumer Financial Protection Bureau",
+      "name": "Consumer Financial Protection Bureau",
+      "id": 573,
+      "url": "https://www.federalregister.gov/agencies/consumer-financial-protection-bureau",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/573",
+      "parent_id": null,
+      "slug": "consumer-financial-protection-bureau"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/15/2025-08645.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 1027,
+      "title": 12
+    }
+  ],
+  "citation": "90 FR 20569",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "The notice of proposed rulemaking is withdrawn as of May 15, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. CFPB-2025-0002"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "CFPB",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-15",
+          "updated_at": "2025-05-15T08:56:10.096-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/CFPB-2025-0002-0029",
+          "allow_late_comments": false,
+          "id": "CFPB-2025-0002-0029",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "CFPB-2025-0002",
+      "title": "Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA)."
+    }
+  ],
+  "document_number": "2025-08645",
+  "effective_on": null,
+  "end_page": 20569,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/15/2025-08645.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08645/prohibited-terms-and-conditions-in-agreements-for-consumer-financial-products-or-services-regulation",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08645?publication_date=2025-05-15",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-15/2025-08645/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 1,
+  "page_views": {
+    "count": 919,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08645.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08645.pdf?1747226717",
+  "publication_date": "2025-05-15",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/15/2025-08645.txt",
+  "regulation_id_number_info": {
+    "3170-AB23": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/3170-AB23/regulation-aa",
+      "title": "Regulation AA",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=3170-AB23&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "3170-AB23"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/3170-AB23/regulation-aa",
+      "title": "Regulation AA"
+    },
+    "comments_count": 0,
+    "agency_id": "CFPB",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=CFPB-2025-0002",
+    "supporting_documents_count": 0,
+    "docket_id": "CFPB-2025-0002",
+    "document_id": "CFPB-2025-0002-0029",
+    "regulation_id_number": "3170-AB23",
+    "title": "Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA).",
+    "checked_regulationsdotgov_at": "2025-05-16T15:55:05Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20569,
+  "subtype": null,
+  "title": "Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA); Withdrawal of Proposed Rule",
+  "toc_doc": "Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA); Withdrawal",
+  "toc_subject": null,
+  "topics": [],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08645"
+}

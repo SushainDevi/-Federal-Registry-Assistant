@@ -1,0 +1,70 @@
+{
+  "abstract": "This is an amendment of the Presidential declaration of a major disaster for the Commonwealth of Kentucky (FEMA-4864-DR), dated April 24, 2025. Incident: Severe Storms, Straight-line Winds, Tornadoes, Flooding, Landslides, and Mudslides.",
+  "action": "Amendment 1.",
+  "agencies": [
+    {
+      "raw_name": "SMALL BUSINESS ADMINISTRATION",
+      "name": "Small Business Administration",
+      "id": 468,
+      "url": "https://www.federalregister.gov/agencies/small-business-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/468",
+      "parent_id": null,
+      "slug": "small-business-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-09117.html",
+  "cfr_references": [],
+  "citation": "90 FR 21817",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Issued on May 14, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Disaster Declaration #21061 and #21062",
+    "KENTUCKY Disaster Number KY-20019"
+  ],
+  "dockets": [],
+  "document_number": "2025-09117",
+  "effective_on": null,
+  "end_page": 21817,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-09117.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09117/presidential-declaration-amendment-of-a-major-disaster-for-the-commonwealth-of-kentucky",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09117?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-09117/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 1,
+  "page_views": {
+    "count": 2,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09117.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09117.pdf?1747745119",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-09117.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:19:22Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21817,
+  "subtype": null,
+  "title": "Presidential Declaration Amendment of a Major Disaster for the Commonwealth of Kentucky",
+  "toc_doc": "Kentucky",
+  "toc_subject": "Disaster Declaration",
+  "topics": [],
+  "type": "Notice",
+  "volume": 90,
+  "id": "fr-2025-09117"
+}

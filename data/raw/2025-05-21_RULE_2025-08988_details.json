@@ -1,0 +1,138 @@
+{
+  "abstract": "As directed by the Executive order of January 20, 2025, \"Restoring Names that Honor American Greatness,\" PHMSA is amending its regulations to change the name of the body of water known previously as the \"Gulf of Mexico\" to the \"Gulf of America.\"",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Pipeline and Hazardous Materials Safety Administration",
+      "name": "Pipeline and Hazardous Materials Safety Administration",
+      "id": 408,
+      "url": "https://www.federalregister.gov/agencies/pipeline-and-hazardous-materials-safety-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/408",
+      "parent_id": 492,
+      "slug": "pipeline-and-hazardous-materials-safety-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/20/2025-08988.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 191,
+      "title": 49
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 192,
+      "title": 49
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 195,
+      "title": 49
+    }
+  ],
+  "citation": "90 FR 21434",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective May 20, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. PHMSA-2025-0034",
+    "Amdt. Nos. 191-34",
+    "192-139",
+    "195-108"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "PHMSA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-20",
+          "updated_at": "2025-05-20T09:58:22.843-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/PHMSA-2025-0034-0001",
+          "allow_late_comments": false,
+          "id": "PHMSA-2025-0034-0001",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "PHMSA-2025-0034",
+      "title": "Pipeline Safety: Editorial Change to Reflect the Name Change of the Gulf of Mexico to the Gulf of America"
+    }
+  ],
+  "document_number": "2025-08988",
+  "effective_on": "2025-05-20",
+  "end_page": 21436,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/20/2025-08988.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-08988/pipeline-safety-editorial-change-to-reflect-the-name-change-of-the-gulf-of-mexico-to-the-gulf-of",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08988?publication_date=2025-05-20",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-20/2025-08988/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 140,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-08988.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08988.pdf?1747658720",
+  "publication_date": "2025-05-20",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/20/2025-08988.txt",
+  "regulation_id_number_info": {
+    "2137-AF72": null
+  },
+  "regulation_id_numbers": [
+    "2137-AF72"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "PHMSA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=PHMSA-2025-0034",
+    "supporting_documents_count": 0,
+    "docket_id": "PHMSA-2025-0034",
+    "document_id": "PHMSA-2025-0034-0001",
+    "regulation_id_number": "2137-AF72",
+    "title": "Pipeline Safety: Editorial Change to Reflect the Name Change of the Gulf of Mexico to the Gulf of America",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21434,
+  "subtype": null,
+  "title": "Pipeline Safety: Editorial Change To Reflect the Name Change of the Gulf of Mexico to the Gulf of America",
+  "toc_doc": "Editorial Change to Reflect the Name Change of the Gulf of Mexico to the Gulf of America",
+  "toc_subject": "Pipeline Safety",
+  "topics": [
+    "Carbon dioxide",
+    "Natural gas",
+    "Petroleum",
+    "Pipeline safety"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08988"
+}

@@ -1,0 +1,78 @@
+{
+  "abstract": "The U.S. Department of Commerce (Commerce) is rescinding the administrative review of the antidumping duty (AD) order on stainless steel butt-weld pipe fittings from Italy for the period of review (POR) February 1, 2024, through January 31, 2025.",
+  "action": null,
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "name": "Commerce Department",
+      "id": 54,
+      "url": "https://www.federalregister.gov/agencies/commerce-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "parent_id": null,
+      "slug": "commerce-department"
+    },
+    {
+      "raw_name": "International Trade Administration",
+      "name": "International Trade Administration",
+      "id": 261,
+      "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+      "parent_id": 54,
+      "slug": "international-trade-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-09118.html",
+  "cfr_references": [],
+  "citation": "90 FR 21750",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Applicable May 21, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "A-475-828"
+  ],
+  "dockets": [],
+  "document_number": "2025-09118",
+  "effective_on": null,
+  "end_page": 21751,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-09118.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09118/stainless-steel-butt-weld-pipe-fittings-from-italy-rescission-of-antidumping-duty-administrative",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09118?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-09118/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 10,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09118.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09118.pdf?1747745119",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-09118.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:50:38Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21750,
+  "subtype": null,
+  "title": "Stainless Steel Butt-Weld Pipe Fittings From Italy: Rescission of Antidumping Duty Administrative Review; 2024-2025",
+  "toc_doc": "Stainless Steel Butt-Weld Pipe Fittings from Italy",
+  "toc_subject": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews",
+  "topics": [],
+  "type": "Notice",
+  "volume": 90,
+  "id": "fr-2025-09118"
+}

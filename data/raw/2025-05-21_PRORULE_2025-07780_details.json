@@ -1,0 +1,234 @@
+{
+  "abstract": "NMFS has received a request from the U.S. Department of the Navy (including the U.S. Navy and the U.S. Marine Corps (Navy)) and on behalf of the U.S. Coast Guard (Coast Guard; hereafter, Navy and Coast Guard are collectively referred to as Action Proponents) for Incidental Take Regulations (ITR) and three associated Letters of Authorization (LOAs) pursuant to the Marine Mammal Protection Act (MMPA). The requested regulations would govern the authorization of take of marine mammals incidental to training and testing activities conducted in the Atlantic Fleet Training and Testing (AFTT) Study Area over the course of seven years from November 2025 through November 2032. NMFS requests comments on this proposed rule. NMFS will consider public comments prior to making any final decision on the promulgation of the requested ITR and issuance of the LOAs; agency responses to public comments will be summarized in the final rule, if issued. The Action Proponents' activities are considered military readiness activities pursuant to the MMPA, as amended by the National Defense Authorization Act for Fiscal Year 2004 (2004 NDAA).",
+  "action": "Proposed rule; proposed letters of authorization; request for comments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "name": "Commerce Department",
+      "id": 54,
+      "url": "https://www.federalregister.gov/agencies/commerce-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "parent_id": null,
+      "slug": "commerce-department"
+    },
+    {
+      "raw_name": "National Oceanic and Atmospheric Administration",
+      "name": "National Oceanic and Atmospheric Administration",
+      "id": 361,
+      "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+      "parent_id": 54,
+      "slug": "national-oceanic-and-atmospheric-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/09/2025-07780.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 218,
+      "title": 50
+    }
+  ],
+  "citation": "90 FR 19858",
+  "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2024-0115-0001",
+  "comments_close_on": "2025-06-09",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments and information must be received no later than June 9, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 250430-0074"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "AFTT IV Application",
+          "document_id": "NOAA-NMFS-2024-0115-0005"
+        },
+        {
+          "title": "References - AFTT IV Proposed Rule",
+          "document_id": "NOAA-NMFS-2024-0115-0004"
+        },
+        {
+          "title": "AFTT IV Application",
+          "document_id": "NOAA-NMFS-2024-0115-0003"
+        }
+      ],
+      "agency_name": "NOAA",
+      "documents": [
+        {
+          "comment_count": 1,
+          "comment_start_date": "2025-05-09",
+          "updated_at": "2025-05-13T01:56:07.258-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/NOAA-NMFS-2024-0115-0001",
+          "allow_late_comments": false,
+          "id": "NOAA-NMFS-2024-0115-0001",
+          "comment_end_date": "2025-06-10",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 3,
+      "id": "NOAA-NMFS-2024-0115",
+      "title": "Taking Marine Mammals Incidental to Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area"
+    }
+  ],
+  "document_number": "2025-07780",
+  "effective_on": null,
+  "end_page": 20077,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/09/2025-07780.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-07780/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to",
+  "images": {
+    "EP09MY25.001": {
+      "large": "https://img.federalregister.gov/EP09MY25.001/EP09MY25.001_large.png",
+      "medium": "https://img.federalregister.gov/EP09MY25.001/EP09MY25.001_medium.png",
+      "original_size": "https://img.federalregister.gov/EP09MY25.001/EP09MY25.001_original_size.png"
+    },
+    "EP09MY25.000": {
+      "large": "https://img.federalregister.gov/EP09MY25.000/EP09MY25.000_large.png",
+      "medium": "https://img.federalregister.gov/EP09MY25.000/EP09MY25.000_medium.png",
+      "original_size": "https://img.federalregister.gov/EP09MY25.000/EP09MY25.000_original_size.png"
+    }
+  },
+  "images_metadata": {
+    "EP09MY25.001": {
+      "large": {
+        "identifier": "EP09MY25.001",
+        "content_type": "image/png",
+        "size": 229768,
+        "width": 822,
+        "sha": "0b246e6c135fe28c9714d8c0537af8cd",
+        "url": "https://img.federalregister.gov/EP09MY25.001/EP09MY25.001_large.png",
+        "height": 1196
+      },
+      "medium": {
+        "identifier": "EP09MY25.001",
+        "content_type": "image/png",
+        "size": 49742,
+        "width": 465,
+        "sha": "a171ca4d28666a50a27660c3f22c6b01",
+        "url": "https://img.federalregister.gov/EP09MY25.001/EP09MY25.001_medium.png",
+        "height": 676
+      },
+      "original_size": {
+        "identifier": "EP09MY25.001",
+        "content_type": "image/png",
+        "size": 443036,
+        "width": 1754,
+        "sha": "84d1092039000c688c8d56b8af8ae41b",
+        "url": "https://img.federalregister.gov/EP09MY25.001/EP09MY25.001_original_size.png",
+        "height": 2551
+      }
+    },
+    "EP09MY25.000": {
+      "large": {
+        "identifier": "EP09MY25.000",
+        "content_type": "image/png",
+        "size": 225230,
+        "width": 823,
+        "sha": "d77dd702f5e3f7c8f3a0338dcb1969c2",
+        "url": "https://img.federalregister.gov/EP09MY25.000/EP09MY25.000_large.png",
+        "height": 1185
+      },
+      "medium": {
+        "identifier": "EP09MY25.000",
+        "content_type": "image/png",
+        "size": 65526,
+        "width": 475,
+        "sha": "0cff809a46ac8f99a9357c0cf817638d",
+        "url": "https://img.federalregister.gov/EP09MY25.000/EP09MY25.000_medium.png",
+        "height": 684
+      },
+      "original_size": {
+        "identifier": "EP09MY25.000",
+        "content_type": "image/png",
+        "size": 384155,
+        "width": 1791,
+        "sha": "7ad234cafc0c9e7699acd586ba4cebbf",
+        "url": "https://img.federalregister.gov/EP09MY25.000/EP09MY25.000_original_size.png",
+        "height": 2579
+      }
+    }
+  },
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-07780?publication_date=2025-05-09",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-09/2025-07780/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 220,
+  "page_views": {
+    "count": 166,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-07780.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07780.pdf?1746708312",
+  "publication_date": "2025-05-09",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/09/2025-07780.txt",
+  "regulation_id_number_info": {
+    "0648-BN17": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/0648-BN17/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-military-readiness-activitie",
+      "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=0648-BN17&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "0648-BN17"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "AFTT IV Application",
+        "document_id": "NOAA-NMFS-2024-0115-0005"
+      },
+      {
+        "title": "References - AFTT IV Proposed Rule",
+        "document_id": "NOAA-NMFS-2024-0115-0004"
+      },
+      {
+        "title": "AFTT IV Application",
+        "document_id": "NOAA-NMFS-2024-0115-0003"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0648-BN17/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-military-readiness-activitie",
+      "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area"
+    },
+    "comments_count": 1,
+    "agency_id": "NOAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NOAA-NMFS-2024-0115",
+    "supporting_documents_count": 3,
+    "docket_id": "NOAA-NMFS-2024-0115",
+    "document_id": "NOAA-NMFS-2024-0115-0001",
+    "regulation_id_number": "0648-BN17",
+    "title": "Taking Marine Mammals Incidental to Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2024-0115-0001",
+  "significant": false,
+  "signing_date": null,
+  "start_page": 19858,
+  "subtype": null,
+  "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area",
+  "toc_doc": "Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area",
+  "toc_subject": "Taking or Importing of Marine Mammals",
+  "topics": [
+    "Administrative practice and procedure",
+    "Endangered and threatened species",
+    "Fish",
+    "Fisheries",
+    "Marine mammals",
+    "Penalties",
+    "Reporting and recordkeeping requirements",
+    "Transportation",
+    "Wildlife"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-07780"
+}

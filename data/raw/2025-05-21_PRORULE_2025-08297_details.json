@@ -1,0 +1,133 @@
+{
+  "abstract": "This action proposes to establish Class E2 airspace extending upward from the surface above the New River Marine Corps Air Station (MCAS), Jacksonville, NC, as the air traffic control tower operates part-time. Controlled airspace is necessary for the safety and management of instrument flight rules (IFR) operations in the area. This action also proposes to remove the Class E4 airspace at New River MCAS (NCA), Jacksonville, NC, due to the current designated airspace no longer meeting the requirements of its designation.",
+  "action": "Notice of proposed rulemaking (NPRM).",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/13/2025-08297.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 71,
+      "title": 14
+    }
+  ],
+  "citation": "90 FR 20264",
+  "comment_url": "http://www.regulations.gov/commenton/FAA-2025-0931-0001",
+  "comments_close_on": "2025-06-27",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments must be received on or before June 27, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FAA-2025-0931",
+    "Airspace Docket No. 25-ASO-10"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "FAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-13",
+          "updated_at": "2025-05-13T09:58:40.936-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FAA-2025-0931-0001",
+          "allow_late_comments": false,
+          "id": "FAA-2025-0931-0001",
+          "comment_end_date": "2025-06-28",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "FAA-2025-0931",
+      "title": "Adding Class E2 Airspace and removing Class E4 Airspace over Jacksonville, NC (25-ASO-10)"
+    }
+  ],
+  "document_number": "2025-08297",
+  "effective_on": null,
+  "end_page": 20265,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/13/2025-08297.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08297/establishment-of-e2-and-removal-of-class-e4-airspace-over-jacksonville-nc",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08297?publication_date=2025-05-13",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-13/2025-08297/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 24,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08297.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08297.pdf?1747053908",
+  "publication_date": "2025-05-13",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/13/2025-08297.txt",
+  "regulation_id_number_info": {
+    "2120-AA66": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA66/airspace-actions",
+      "title": "Airspace Actions",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=2120-AA66&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "2120-AA66"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA66/airspace-actions",
+      "title": "Airspace Actions"
+    },
+    "comments_count": 0,
+    "agency_id": "FAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FAA-2025-0931",
+    "supporting_documents_count": 0,
+    "docket_id": "FAA-2025-0931",
+    "document_id": "FAA-2025-0931-0001",
+    "regulation_id_number": "2120-AA66",
+    "title": "Adding Class E2 Airspace and removing Class E4 Airspace over Jacksonville, NC (25-ASO-10)",
+    "checked_regulationsdotgov_at": "2025-05-21T02:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/FAA-2025-0931-0001",
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20264,
+  "subtype": null,
+  "title": "Establishment of E2 and Removal of Class E4 Airspace Over Jacksonville, NC",
+  "toc_doc": "Jacksonville, NC",
+  "toc_subject": "Airspace Designations and Reporting Points",
+  "topics": [
+    "Airspace",
+    "Incorporation by reference",
+    "Navigation (air)"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08297"
+}

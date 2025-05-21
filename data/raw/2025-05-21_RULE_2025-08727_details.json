@@ -1,0 +1,195 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is approving the State Implementation Plan (SIP) revision submitted by Michigan on December 20, 2022, and supplemented on February 21, 2023, December 14, 2023, and April 2, 2024, which amends a SIP submission previously submitted to EPA on May 31, 2016, and June 30, 2016, for attaining the 2010 sulfur dioxide (SO<INF>2</INF>) primary national ambient air quality standard (NAAQS) for the Detroit SO<INF>2</INF> nonattainment area. This action follows a prior action which found that Michigan had satisfied emission inventory and new source review (NSR) requirements for this area but had not met requirements under the Clean Air Act (CAA) for the elements that EPA is approving here. This action also follows the promulgation of the 2022 Federal Implementation Plan (FIP) for the Detroit SO<INF>2</INF> nonattainment area.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08727.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 21228",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This final rule is effective on June 18, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R05-OAR-2022-0976",
+    "FRL-10788-02-R5"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "AK Steel A8640 FINAL 1-19-17",
+          "document_id": "EPA-R05-OAR-2022-0976-0018"
+        },
+        {
+          "title": "EES Coke FGBH2 Notification of Installation",
+          "document_id": "EPA-R05-OAR-2022-0976-0017"
+        },
+        {
+          "title": "KDTW_WindRoseComparison",
+          "document_id": "EPA-R05-OAR-2022-0976-0016"
+        },
+        {
+          "title": "Michigan 2010 SO2 Attainment Demonstration for Wayne County, 05/31/2016 submittal",
+          "document_id": "EPA-R05-OAR-2022-0976-0015"
+        },
+        {
+          "title": "267-1_-_sierra_club_-_dte_separate_agreement",
+          "document_id": "EPA-R05-OAR-2022-0976-0011"
+        },
+        {
+          "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 4/29/2024 Completeness letter",
+          "document_id": "EPA-R05-OAR-2022-0976-0010"
+        },
+        {
+          "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 4/2/2024 supplement",
+          "document_id": "EPA-R05-OAR-2022-0976-0009"
+        },
+        {
+          "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 12/14/2023 supplement",
+          "document_id": "EPA-R05-OAR-2022-0976-0008"
+        },
+        {
+          "title": "Detroit Wayne Co, MI SO2 SIP Attainment Demonstration Final",
+          "document_id": "EPA-R05-OAR-2022-0976-0005"
+        },
+        {
+          "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 12/20/2022 submittal - cover letter to EPA",
+          "document_id": "EPA-R05-OAR-2022-0976-0004"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T09:03:16.301-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R05-OAR-2022-0976-0019",
+          "allow_late_comments": false,
+          "id": "EPA-R05-OAR-2022-0976-0019",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 11,
+      "id": "EPA-R05-OAR-2022-0976",
+      "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County"
+    }
+  ],
+  "document_number": "2025-08727",
+  "effective_on": "2025-06-18",
+  "end_page": 21232,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08727.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08727/air-plan-approval-michigan-attainment-plan-for-the-detroit-2010-sulfur-dioxide-nonattainment-area",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08727?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08727/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 5,
+  "page_views": {
+    "count": 75,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08727.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08727.pdf?1747399509",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08727.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "AK Steel A8640 FINAL 1-19-17",
+        "document_id": "EPA-R05-OAR-2022-0976-0018"
+      },
+      {
+        "title": "EES Coke FGBH2 Notification of Installation",
+        "document_id": "EPA-R05-OAR-2022-0976-0017"
+      },
+      {
+        "title": "KDTW_WindRoseComparison",
+        "document_id": "EPA-R05-OAR-2022-0976-0016"
+      },
+      {
+        "title": "Michigan 2010 SO2 Attainment Demonstration for Wayne County, 05/31/2016 submittal",
+        "document_id": "EPA-R05-OAR-2022-0976-0015"
+      },
+      {
+        "title": "267-1_-_sierra_club_-_dte_separate_agreement",
+        "document_id": "EPA-R05-OAR-2022-0976-0011"
+      },
+      {
+        "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 4/29/2024 Completeness letter",
+        "document_id": "EPA-R05-OAR-2022-0976-0010"
+      },
+      {
+        "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 4/2/2024 supplement",
+        "document_id": "EPA-R05-OAR-2022-0976-0009"
+      },
+      {
+        "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 12/14/2023 supplement",
+        "document_id": "EPA-R05-OAR-2022-0976-0008"
+      },
+      {
+        "title": "Detroit Wayne Co, MI SO2 SIP Attainment Demonstration Final",
+        "document_id": "EPA-R05-OAR-2022-0976-0005"
+      },
+      {
+        "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County, 12/20/2022 submittal - cover letter to EPA",
+        "document_id": "EPA-R05-OAR-2022-0976-0004"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R05-OAR-2022-0976",
+    "supporting_documents_count": 11,
+    "docket_id": "EPA-R05-OAR-2022-0976",
+    "document_id": "EPA-R05-OAR-2022-0976-0019",
+    "regulation_id_number": null,
+    "title": "Michigan 2010 (SO2) Detroit Attainment Demonstration for Wayne County",
+    "checked_regulationsdotgov_at": "2025-05-20T15:55:05Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21228,
+  "subtype": null,
+  "title": "Air Plan Approval; Michigan; Attainment Plan for the Detroit 2010 Sulfur Dioxide Nonattainment Area",
+  "toc_doc": "Michigan; Attainment Plan for the Detroit 2010 Sulfur Dioxide Nonattainment Area",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Environmental protection",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Reporting and recordkeeping requirements",
+    "Sulfur oxides"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08727"
+}

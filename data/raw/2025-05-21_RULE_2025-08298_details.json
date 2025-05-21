@@ -1,0 +1,93 @@
+{
+  "abstract": "The Farm Service Agency (FSA) is updating our regulations to remove the FSA Crop Assistance Program (CAP), which is obsolete. The changes in this rule will have no impacts on past or present FSA customers.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF AGRICULTURE",
+      "name": "Agriculture Department",
+      "id": 12,
+      "url": "https://www.federalregister.gov/agencies/agriculture-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+      "parent_id": null,
+      "slug": "agriculture-department"
+    },
+    {
+      "raw_name": "Farm Service Agency",
+      "name": "Farm Service Agency",
+      "id": 157,
+      "url": "https://www.federalregister.gov/agencies/farm-service-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/157",
+      "parent_id": 12,
+      "slug": "farm-service-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/13/2025-08298.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 760,
+      "title": 7
+    }
+  ],
+  "citation": "90 FR 20231",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective May 13, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [],
+  "document_number": "2025-08298",
+  "effective_on": "2025-05-13",
+  "end_page": 20232,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/13/2025-08298.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08298/removal-of-obsolete-crop-assistance-program-regulations",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08298?publication_date=2025-05-13",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-13/2025-08298/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 119,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08298.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08298.pdf?1747053908",
+  "publication_date": "2025-05-13",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/13/2025-08298.txt",
+  "regulation_id_number_info": {
+    "0560-AI74": null
+  },
+  "regulation_id_numbers": [
+    "0560-AI74"
+  ],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-13T08:00:46Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20231,
+  "subtype": null,
+  "title": "Removal of Obsolete Crop Assistance Program Regulations",
+  "toc_doc": "Removal of Obsolete Crop Assistance Program Regulations",
+  "toc_subject": null,
+  "topics": [
+    "Acreage allotments",
+    "Dairy products",
+    "Indemnity payments",
+    "Pesticides and pests",
+    "Reporting and recordkeeping requirements"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08298"
+}

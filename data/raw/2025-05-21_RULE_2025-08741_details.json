@@ -1,0 +1,128 @@
+{
+  "abstract": "Through this final rule, NMFS establishes fishery management measures for the ocean salmon fisheries off Washington, Oregon, and California for the season beginning May 16, 2025, and ending May 15, 2026 (the 2025 ocean salmon fishing season), under the authority of the Magnuson-Stevens Fishery Conservation and Management Act (MSA). The fishery management measures include fishing areas, seasons, quotas, legal gear, recreational fishing days and catch limits, harvest guidelines, possession and landing restrictions, and minimum lengths for salmon taken in the U.S. Exclusive Economic Zone (EEZ) off Washington, Oregon, and California. These measures are intended to prevent overfishing while achieving, on a continuing basis, the optimum yield from the fishery, to provide for the exercise of federally recognized fishing rights by West Coast Indian Tribes, to allow a portion of the salmon runs to escape the ocean fisheries in order to provide for spawning escapement, and to apportion the ocean harvest equitably among non-Indian commercial and recreational fisheries.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "name": "Commerce Department",
+      "id": 54,
+      "url": "https://www.federalregister.gov/agencies/commerce-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "parent_id": null,
+      "slug": "commerce-department"
+    },
+    {
+      "raw_name": "National Oceanic and Atmospheric Administration",
+      "name": "National Oceanic and Atmospheric Administration",
+      "id": 361,
+      "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+      "parent_id": 54,
+      "slug": "national-oceanic-and-atmospheric-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/16/2025-08741.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 660,
+      "title": 50
+    }
+  ],
+  "citation": "90 FR 20810",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This final rule is effective from 0001 hours Pacific Daylight Time, May 16, 2025, until the effective date of the 2026 management measures, as published in the Federal Register, which we expect to be 0001 hours Pacific Daylight Time, May 16, 2026.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 250512-0084"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "NOAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-16",
+          "updated_at": "2025-05-19T11:56:08.755-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/NOAA-NMFS-2025-0001-0002",
+          "allow_late_comments": false,
+          "id": "NOAA-NMFS-2025-0001-0002",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "NOAA-NMFS-2025-0001",
+      "title": "Fisheries Off West Coast States; West Coast Salmon Fisheries; 2025 Specifications and Management Measures"
+    }
+  ],
+  "document_number": "2025-08741",
+  "effective_on": "2025-05-16",
+  "end_page": 20824,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/16/2025-08741.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08741/fisheries-off-west-coast-states-west-coast-salmon-fisheries-2025-specifications-and-management",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08741?publication_date=2025-05-16",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-16/2025-08741/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 15,
+  "page_views": {
+    "count": 105,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08741.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08741.pdf?1747167310",
+  "publication_date": "2025-05-16",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/16/2025-08741.txt",
+  "regulation_id_number_info": {
+    "0648-BN19": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/0648-BN19/fisheries-off-west-coast-states-west-coast-salmon-fisheries-2025-2026-specifications-and-management-",
+      "title": "Fisheries Off West Coast States; West Coast Salmon Fisheries; 2025-2026 Specifications and Management Measures",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=0648-BN19&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "0648-BN19"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0648-BN19/fisheries-off-west-coast-states-west-coast-salmon-fisheries-2025-2026-specifications-and-management-",
+      "title": "Fisheries Off West Coast States; West Coast Salmon Fisheries; 2025-2026 Specifications and Management Measures"
+    },
+    "comments_count": 0,
+    "agency_id": "NOAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NOAA-NMFS-2025-0001",
+    "supporting_documents_count": 0,
+    "docket_id": "NOAA-NMFS-2025-0001",
+    "document_id": "NOAA-NMFS-2025-0001-0002",
+    "regulation_id_number": "0648-BN19",
+    "title": "Fisheries Off West Coast States; West Coast Salmon Fisheries; 2025 Specifications and Management Measures",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20810,
+  "subtype": null,
+  "title": "Fisheries Off West Coast States; West Coast Salmon Fisheries; 2025 Specifications and Management Measures",
+  "toc_doc": "West Coast Salmon Fisheries; 2025 Specifications and Management Measures",
+  "toc_subject": "Fisheries off West Coast States",
+  "topics": [],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08741"
+}

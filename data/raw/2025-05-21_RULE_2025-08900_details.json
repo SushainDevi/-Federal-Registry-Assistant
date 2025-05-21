@@ -1,0 +1,88 @@
+{
+  "abstract": "Notice is provided of the Commission's regulatory program fees and schedule of water charges for the fiscal year beginning July 1, 2025.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DELAWARE RIVER BASIN COMMISSION",
+      "name": "Delaware River Basin Commission",
+      "id": 112,
+      "url": "https://www.federalregister.gov/agencies/delaware-river-basin-commission",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/112",
+      "parent_id": null,
+      "slug": "delaware-river-basin-commission"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08900.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 401,
+      "title": 18
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 420,
+      "title": 18
+    }
+  ],
+  "citation": "90 FR 21218",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This final rule is effective July 1, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [],
+  "document_number": "2025-08900",
+  "effective_on": "2025-07-01",
+  "end_page": 21219,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08900.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08900/regulatory-program-fees-and-water-charges-rates",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08900?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08900/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 41,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08900.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08900.pdf?1747399520",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08900.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "comments_count": 0,
+    "agency_id": "DRBC",
+    "document_id": "DRBC-2025-0003-0001",
+    "checked_regulationsdotgov_at": "2025-05-20T15:55:05Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21218,
+  "subtype": null,
+  "title": "Regulatory Program Fees and Water Charges Rates",
+  "toc_doc": "Regulatory Program Fees and Water Charges Rates",
+  "toc_subject": null,
+  "topics": [
+    "Administrative practice and procedure",
+    "Water pollution control",
+    "Water resources",
+    "Water supply"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08900"
+}

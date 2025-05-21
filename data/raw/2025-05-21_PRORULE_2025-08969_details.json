@@ -1,0 +1,105 @@
+{
+  "abstract": "The Secretary proposes to waive the requirements in the Education Department General Administrative Regulations that generally prohibit project period extensions involving the obligation of additional Federal funds. The proposed waiver and extension would enable one project under Assistance Listing Number (ALN) 84.351A to receive funding for one additional period, not to exceed September 30, 2026.",
+  "action": "Proposed waiver and extension of project period with funding.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF EDUCATION",
+      "name": "Education Department",
+      "id": 126,
+      "url": "https://www.federalregister.gov/agencies/education-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+      "parent_id": null,
+      "slug": "education-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/20/2025-08969.html",
+  "cfr_references": [
+    {
+      "chapter": 0,
+      "citation_url": null,
+      "part": null,
+      "title": 34
+    }
+  ],
+  "citation": "90 FR 21441",
+  "comment_url": "http://www.regulations.gov/commenton/ED-2025-OESE-0021-0001",
+  "comments_close_on": "2025-06-20",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "We must receive your comments on or before June 20, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "ED-2025-OESE-0021"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "ED",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-20",
+          "updated_at": "2025-05-20T09:57:13.683-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/ED-2025-OESE-0021-0001",
+          "allow_late_comments": false,
+          "id": "ED-2025-OESE-0021-0001",
+          "comment_end_date": "2025-06-21",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "ED-2025-OESE-0021",
+      "title": "Proposed Waiver and Extension of the Project Period with Funding for Arts in Education National Program"
+    }
+  ],
+  "document_number": "2025-08969",
+  "effective_on": null,
+  "end_page": 21442,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/20/2025-08969.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-08969/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08969?publication_date=2025-05-20",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-20/2025-08969/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 88,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-08969.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08969.pdf?1747658718",
+  "publication_date": "2025-05-20",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/20/2025-08969.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "ED",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OESE-0021",
+    "supporting_documents_count": 0,
+    "docket_id": "ED-2025-OESE-0021",
+    "document_id": "ED-2025-OESE-0021-0001",
+    "regulation_id_number": null,
+    "title": "Proposed Waiver and Extension of the Project Period with Funding for Arts in Education National Program",
+    "checked_regulationsdotgov_at": "2025-05-21T12:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/ED-2025-OESE-0021-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21441,
+  "subtype": null,
+  "title": "Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program",
+  "toc_doc": "Funding for Arts in Education National Program",
+  "toc_subject": "Proposed Waiver and Extension of Project Period",
+  "topics": [],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08969"
+}

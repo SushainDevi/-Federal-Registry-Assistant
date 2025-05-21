@@ -1,0 +1,297 @@
+{
+  "abstract": null,
+  "action": null,
+  "agencies": [
+    {
+      "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+      "name": "Executive Office of the President",
+      "id": 538,
+      "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+      "parent_id": null,
+      "slug": "executive-office-of-the-president"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/04/03/2025-05930.html",
+  "cfr_references": [],
+  "citation": "90 FR 14705",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": null,
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [],
+  "document_number": "2025-05930",
+  "effective_on": null,
+  "end_page": 14714,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/04/03/2025-05930.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/04/03/2025-05930/adjusting-imports-of-automobiles-and-automobile-parts-into-the-united-states",
+  "images": {
+    "ED03AP25.004": {
+      "large": "https://img.federalregister.gov/ED03AP25.004/ED03AP25.004_large.png",
+      "medium": "https://img.federalregister.gov/ED03AP25.004/ED03AP25.004_medium.png",
+      "original_size": "https://img.federalregister.gov/ED03AP25.004/ED03AP25.004_original_size.png"
+    },
+    "ED03AP25.005": {
+      "large": "https://img.federalregister.gov/ED03AP25.005/ED03AP25.005_large.png",
+      "medium": "https://img.federalregister.gov/ED03AP25.005/ED03AP25.005_medium.png",
+      "original_size": "https://img.federalregister.gov/ED03AP25.005/ED03AP25.005_original_size.png"
+    },
+    "ED03AP25.002": {
+      "large": "https://img.federalregister.gov/ED03AP25.002/ED03AP25.002_large.png",
+      "medium": "https://img.federalregister.gov/ED03AP25.002/ED03AP25.002_medium.png",
+      "original_size": "https://img.federalregister.gov/ED03AP25.002/ED03AP25.002_original_size.png"
+    },
+    "ED03AP25.003": {
+      "large": "https://img.federalregister.gov/ED03AP25.003/ED03AP25.003_large.png",
+      "medium": "https://img.federalregister.gov/ED03AP25.003/ED03AP25.003_medium.png",
+      "original_size": "https://img.federalregister.gov/ED03AP25.003/ED03AP25.003_original_size.png"
+    },
+    "ED03AP25.000": {
+      "large": "https://img.federalregister.gov/ED03AP25.000/ED03AP25.000_large.png",
+      "medium": "https://img.federalregister.gov/ED03AP25.000/ED03AP25.000_medium.png",
+      "original_size": "https://img.federalregister.gov/ED03AP25.000/ED03AP25.000_original_size.png"
+    },
+    "TRUMP": {
+      "large": "https://img.federalregister.gov/TRUMP/TRUMP_large.png",
+      "original_size": "https://img.federalregister.gov/TRUMP/TRUMP_original_size.png"
+    },
+    "ED03AP25.001": {
+      "large": "https://img.federalregister.gov/ED03AP25.001/ED03AP25.001_large.png",
+      "medium": "https://img.federalregister.gov/ED03AP25.001/ED03AP25.001_medium.png",
+      "original_size": "https://img.federalregister.gov/ED03AP25.001/ED03AP25.001_original_size.png"
+    }
+  },
+  "images_metadata": {
+    "ED03AP25.004": {
+      "large": {
+        "identifier": "ED03AP25.004",
+        "content_type": "image/png",
+        "size": 85328,
+        "width": 823,
+        "sha": "cb38a765f2bf3a1d6f2b212d25be2c11",
+        "url": "https://img.federalregister.gov/ED03AP25.004/ED03AP25.004_large.png",
+        "height": 1069
+      },
+      "medium": {
+        "identifier": "ED03AP25.004",
+        "content_type": "image/png",
+        "size": 43125,
+        "width": 529,
+        "sha": "6f0e80244105a00305e952d8775c1eed",
+        "url": "https://img.federalregister.gov/ED03AP25.004/ED03AP25.004_medium.png",
+        "height": 687
+      },
+      "original_size": {
+        "identifier": "ED03AP25.004",
+        "content_type": "image/png",
+        "size": 53792,
+        "width": 1996,
+        "sha": "0d55f9fd757497238c5da5d16ab28029",
+        "url": "https://img.federalregister.gov/ED03AP25.004/ED03AP25.004_original_size.png",
+        "height": 2592
+      }
+    },
+    "ED03AP25.005": {
+      "large": {
+        "identifier": "ED03AP25.005",
+        "content_type": "image/png",
+        "size": 15419,
+        "width": 821,
+        "sha": "070a10f4ca122936b4f30a9c163144b3",
+        "url": "https://img.federalregister.gov/ED03AP25.005/ED03AP25.005_large.png",
+        "height": 141
+      },
+      "medium": {
+        "identifier": "ED03AP25.005",
+        "content_type": "image/png",
+        "size": 8484,
+        "width": 529,
+        "sha": "60006146694ab3e9337a56df2f0aca99",
+        "url": "https://img.federalregister.gov/ED03AP25.005/ED03AP25.005_medium.png",
+        "height": 91
+      },
+      "original_size": {
+        "identifier": "ED03AP25.005",
+        "content_type": "image/png",
+        "size": 11134,
+        "width": 1996,
+        "sha": "14cd42f99932f6a92cdf961aef11aca8",
+        "url": "https://img.federalregister.gov/ED03AP25.005/ED03AP25.005_original_size.png",
+        "height": 343
+      }
+    },
+    "ED03AP25.002": {
+      "large": {
+        "identifier": "ED03AP25.002",
+        "content_type": "image/png",
+        "size": 128194,
+        "width": 823,
+        "sha": "5899c38cba9639c8b58c4119081395fe",
+        "url": "https://img.federalregister.gov/ED03AP25.002/ED03AP25.002_large.png",
+        "height": 1120
+      },
+      "medium": {
+        "identifier": "ED03AP25.002",
+        "content_type": "image/png",
+        "size": 60042,
+        "width": 515,
+        "sha": "e0e4f4d701ff7248adc50d8e1606c257",
+        "url": "https://img.federalregister.gov/ED03AP25.002/ED03AP25.002_medium.png",
+        "height": 701
+      },
+      "original_size": {
+        "identifier": "ED03AP25.002",
+        "content_type": "image/png",
+        "size": 94304,
+        "width": 1947,
+        "sha": "bc3874b7ac91d8d2e181cdab579a7ba5",
+        "url": "https://img.federalregister.gov/ED03AP25.002/ED03AP25.002_original_size.png",
+        "height": 2649
+      }
+    },
+    "ED03AP25.003": {
+      "large": {
+        "identifier": "ED03AP25.003",
+        "content_type": "image/png",
+        "size": 103939,
+        "width": 823,
+        "sha": "ed5eabe92358ba4a6a1e77b111ab4b7e",
+        "url": "https://img.federalregister.gov/ED03AP25.003/ED03AP25.003_large.png",
+        "height": 1086
+      },
+      "medium": {
+        "identifier": "ED03AP25.003",
+        "content_type": "image/png",
+        "size": 50058,
+        "width": 515,
+        "sha": "6b28a34831644140d42689ce674e8172",
+        "url": "https://img.federalregister.gov/ED03AP25.003/ED03AP25.003_medium.png",
+        "height": 679
+      },
+      "original_size": {
+        "identifier": "ED03AP25.003",
+        "content_type": "image/png",
+        "size": 66857,
+        "width": 1946,
+        "sha": "ff6dd9fb59449b53f3c8bde9a30b813f",
+        "url": "https://img.federalregister.gov/ED03AP25.003/ED03AP25.003_original_size.png",
+        "height": 2567
+      }
+    },
+    "ED03AP25.000": {
+      "large": {
+        "identifier": "ED03AP25.000",
+        "content_type": "image/png",
+        "size": 117555,
+        "width": 823,
+        "sha": "a7c76c980f83b6b58370e5a26705a6cb",
+        "url": "https://img.federalregister.gov/ED03AP25.000/ED03AP25.000_large.png",
+        "height": 1128
+      },
+      "medium": {
+        "identifier": "ED03AP25.000",
+        "content_type": "image/png",
+        "size": 54137,
+        "width": 515,
+        "sha": "fd94ca222e09b93b4b2ee9290f937ce7",
+        "url": "https://img.federalregister.gov/ED03AP25.000/ED03AP25.000_medium.png",
+        "height": 706
+      },
+      "original_size": {
+        "identifier": "ED03AP25.000",
+        "content_type": "image/png",
+        "size": 75367,
+        "width": 1946,
+        "sha": "507060236be2bbfa9268dd9cd0926b4b",
+        "url": "https://img.federalregister.gov/ED03AP25.000/ED03AP25.000_original_size.png",
+        "height": 2667
+      }
+    },
+    "TRUMP": {
+      "large": {
+        "identifier": "TRUMP",
+        "content_type": "image/png",
+        "size": 4837,
+        "width": 278,
+        "sha": "e76cde96299eaa37d682560f39698be8",
+        "url": "https://img.federalregister.gov/TRUMP/TRUMP_large.png",
+        "height": 209
+      },
+      "original_size": {
+        "identifier": "TRUMP",
+        "content_type": "image/png",
+        "size": 2334,
+        "width": 494,
+        "sha": "11642e3879ff805f30105d2de6901584",
+        "url": "https://img.federalregister.gov/TRUMP/TRUMP_original_size.png",
+        "height": 371
+      }
+    },
+    "ED03AP25.001": {
+      "large": {
+        "identifier": "ED03AP25.001",
+        "content_type": "image/png",
+        "size": 124448,
+        "width": 823,
+        "sha": "e1e7450cb56f0380861064794c0b8968",
+        "url": "https://img.federalregister.gov/ED03AP25.001/ED03AP25.001_large.png",
+        "height": 1089
+      },
+      "medium": {
+        "identifier": "ED03AP25.001",
+        "content_type": "image/png",
+        "size": 60855,
+        "width": 515,
+        "sha": "15727a8b64c06825c6ebf8c6f7f4a2f6",
+        "url": "https://img.federalregister.gov/ED03AP25.001/ED03AP25.001_medium.png",
+        "height": 681
+      },
+      "original_size": {
+        "identifier": "ED03AP25.001",
+        "content_type": "image/png",
+        "size": 82703,
+        "width": 1946,
+        "sha": "a09f7baa08e5b8c57be922d4a279b9cc",
+        "url": "https://img.federalregister.gov/ED03AP25.001/ED03AP25.001_original_size.png",
+        "height": 2575
+      }
+    }
+  },
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-05930?publication_date=2025-04-03",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-04-03/2025-05930/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 10,
+  "page_views": {
+    "count": 59604,
+    "last_updated": "2025-05-21 06:15:03 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-03/pdf/2025-05930.pdf",
+  "presidential_document_number": "10908",
+  "proclamation_number": "10908",
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-05930.pdf?1743616811",
+  "publication_date": "2025-04-03",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/04/03/2025-05930.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-04-03T08:10:15Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": "2025-03-26",
+  "start_page": 14705,
+  "subtype": "Proclamation",
+  "title": "Adjusting Imports of Automobiles and Automobile Parts Into the United States",
+  "toc_doc": "Automobiles and Automobile Parts, Imports Into U.S.; Adjustment (Proc. 10908)",
+  "toc_subject": null,
+  "topics": [],
+  "type": "Presidential Document",
+  "volume": 90,
+  "id": "fr-2025-05930"
+}

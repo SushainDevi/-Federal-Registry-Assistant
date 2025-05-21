@@ -1,0 +1,147 @@
+{
+  "abstract": "The FAA is superseding Airworthiness Directive (AD) 2022-19- 09, which applied to all Airbus Canada Limited Partnership Model BD- 500-1A10 and BD-500-1A11 airplanes. AD 2022-19-09 required repetitive inspections of the left and right main landing gear (MLG) lower spindle pins to detect corrosion and applicable repair or replacement. This AD was prompted by reports of in-service findings of corrosion on the flange of the MLG lower spindle pin. This AD continues to require certain actions in AD 2022-19-09. This AD also requires changing the tracking of flight cycles for inspections from the usage of the MLG to the usage of MLG lower spindle assemblies and replacement of affected MLG lower spindle assemblies, removes airplanes from the applicability, and prohibits the installation of affected parts under certain conditions; as specified in a Transport Canada AD, which is incorporated by reference. The FAA is issuing this AD to address the unsafe condition on these products.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/14/2025-08338.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 39,
+      "title": 14
+    }
+  ],
+  "citation": "90 FR 20375",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This AD is effective June 18, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FAA-2024-2326",
+    "Project Identifier MCAI-2023-01048-T",
+    "Amendment 39-23023",
+    "AD 2025-09-02"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "U.S. DOT/FAA - Supplemental AD Documents",
+          "document_id": "FAA-2024-2326-0002"
+        }
+      ],
+      "agency_name": "FAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-14",
+          "updated_at": "2025-05-14T09:56:38.671-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FAA-2024-2326-0004",
+          "allow_late_comments": false,
+          "id": "FAA-2024-2326-0004",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 1,
+      "id": "FAA-2024-2326",
+      "title": "MCAI-2023-01048-T; Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500-1A11 airplanes; left and right main landing gear (MLG) lower spindle pins"
+    }
+  ],
+  "document_number": "2025-08338",
+  "effective_on": "2025-06-18",
+  "end_page": 20380,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/14/2025-08338.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08338/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08338?publication_date=2025-05-14",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-14/2025-08338/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 6,
+  "page_views": {
+    "count": 37,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08338.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08338.pdf?1747140308",
+  "publication_date": "2025-05-14",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/14/2025-08338.txt",
+  "regulation_id_number_info": {
+    "2120-AA64": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA64/airworthiness-directives",
+      "title": "Airworthiness Directives",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=2120-AA64&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "2120-AA64"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "U.S. DOT/FAA - Supplemental AD Documents",
+        "document_id": "FAA-2024-2326-0002"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA64/airworthiness-directives",
+      "title": "Airworthiness Directives"
+    },
+    "comments_count": 0,
+    "agency_id": "FAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FAA-2024-2326",
+    "supporting_documents_count": 1,
+    "docket_id": "FAA-2024-2326",
+    "document_id": "FAA-2024-2326-0004",
+    "regulation_id_number": "2120-AA64",
+    "title": "MCAI-2023-01048-T; Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500-1A11 airplanes; left and right main landing gear (MLG) lower spindle pins",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20375,
+  "subtype": null,
+  "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+  "toc_doc": "Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+  "toc_subject": "Airworthiness Directives",
+  "topics": [
+    "Air transportation",
+    "Aircraft",
+    "Aviation safety",
+    "Incorporation by reference",
+    "Safety"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08338"
+}

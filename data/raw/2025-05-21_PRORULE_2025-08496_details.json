@@ -1,0 +1,150 @@
+{
+  "abstract": "FAA invites public comments about our intention to publish an advisory circular. This Advisory Circular (AC) provides guidance to demonstrate compliance with the design, test, and documentation requirements for a Reduced Reliability Flight Safety System (RRFSS) of commercial space launch or reentry vehicles. This AC presents one acceptable means of compliance (MOC), but this is not the only acceptable MOC. Launch and reentry license applicants may use this AC to guide their internal processes, format their license applications, or both.",
+  "action": "Notification and request for comments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/14/2025-08496.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 450,
+      "title": 14
+    }
+  ],
+  "citation": "90 FR 20414",
+  "comment_url": "http://www.regulations.gov/commenton/FAA-2025-0798-0001",
+  "comments_close_on": "2025-06-13",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Written comments should be submitted by June 13, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FAA-2025-0798"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "FAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-14",
+          "updated_at": "2025-05-14T09:56:11.845-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FAA-2025-0798-0001",
+          "allow_late_comments": false,
+          "id": "FAA-2025-0798-0001",
+          "comment_end_date": "2025-06-14",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "FAA-2025-0798",
+      "title": "Reduced Reliability Flight Safety System Design, Test, and Documentation"
+    }
+  ],
+  "document_number": "2025-08496",
+  "effective_on": null,
+  "end_page": 20424,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/14/2025-08496.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08496/agency-advisory-circular-reduced-reliability-flight-safety-system-design-test-and-documentation",
+  "images": {
+    "EP14MY25.001": {
+      "large": "https://img.federalregister.gov/EP14MY25.001/EP14MY25.001_large.png",
+      "medium": "https://img.federalregister.gov/EP14MY25.001/EP14MY25.001_medium.png",
+      "original_size": "https://img.federalregister.gov/EP14MY25.001/EP14MY25.001_original_size.png"
+    }
+  },
+  "images_metadata": {
+    "EP14MY25.001": {
+      "large": {
+        "identifier": "EP14MY25.001",
+        "content_type": "image/png",
+        "size": 10072,
+        "width": 823,
+        "sha": "594c3394e08ac66acb35eac97d16fdfe",
+        "url": "https://img.federalregister.gov/EP14MY25.001/EP14MY25.001_large.png",
+        "height": 207
+      },
+      "medium": {
+        "identifier": "EP14MY25.001",
+        "content_type": "image/png",
+        "size": 5895,
+        "width": 530,
+        "sha": "9d54912ce1c18afdb5cc11057fd7f66c",
+        "url": "https://img.federalregister.gov/EP14MY25.001/EP14MY25.001_medium.png",
+        "height": 133
+      },
+      "original_size": {
+        "identifier": "EP14MY25.001",
+        "content_type": "image/png",
+        "size": 11262,
+        "width": 2000,
+        "sha": "804d8950e895d45ceac9adb1d1332da8",
+        "url": "https://img.federalregister.gov/EP14MY25.001/EP14MY25.001_original_size.png",
+        "height": 503
+      }
+    }
+  },
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08496?publication_date=2025-05-14",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-14/2025-08496/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 11,
+  "page_views": {
+    "count": 88,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08496.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08496.pdf?1747140321",
+  "publication_date": "2025-05-14",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/14/2025-08496.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "FAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FAA-2025-0798",
+    "supporting_documents_count": 0,
+    "docket_id": "FAA-2025-0798",
+    "document_id": "FAA-2025-0798-0001",
+    "regulation_id_number": null,
+    "title": "Reduced Reliability Flight Safety System Design, Test, and Documentation",
+    "checked_regulationsdotgov_at": "2025-05-21T04:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/FAA-2025-0798-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20414,
+  "subtype": null,
+  "title": "Agency Advisory Circular: Reduced Reliability Flight Safety System Design, Test, and Documentation",
+  "toc_doc": "Reduced Reliability Flight Safety System Design, Test, and Documentation",
+  "toc_subject": "Advisory Circular",
+  "topics": [],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08496"
+}

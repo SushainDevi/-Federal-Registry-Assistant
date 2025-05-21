@@ -1,0 +1,87 @@
+{
+  "abstract": "The Coast Guard is issuing a temporary interim rule from the operating schedule that governs the Eighth Street Bridge, mile 0.29 and the Tenth Street Bridge, mile 0.43, over the Manitowoc River, in the town of Manitowoc, Wisconsin. The City of Manitowoc has requested a full review of the current bridge regulations to alleviate vehicle congestion in downtown Manitowoc. The Coast Guard is seeking comments from the public regarding this deviation and specifically on whether we should make this drawbridge operation schedule permanent.",
+  "action": "Temporary Interim Rule; request for comments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "name": "Homeland Security Department",
+      "id": 227,
+      "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+      "parent_id": null,
+      "slug": "homeland-security-department"
+    },
+    {
+      "raw_name": "Coast Guard",
+      "name": "Coast Guard",
+      "id": 53,
+      "url": "https://www.federalregister.gov/agencies/coast-guard",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+      "parent_id": 227,
+      "slug": "coast-guard"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-09136.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 117,
+      "title": 33
+    }
+  ],
+  "citation": "90 FR 21694",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective May 22, 2025, 33 CFR 117.1089(a) is stayed until November 30, 2025. The revision of 33 CFR 117.1089(b) in this rule is also effective from May 22, 2025, until November 30, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. USCG-2024-0407"
+  ],
+  "dockets": [],
+  "document_number": "2025-09136",
+  "effective_on": "2025-05-22",
+  "end_page": 21697,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-09136.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09136/drawbridge-operation-regulation-manitowoc-river-manitowoc-wi",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09136?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-09136/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 8,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09136.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09136.pdf?1747745121",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-09136.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:59:12Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21694,
+  "subtype": null,
+  "title": "Drawbridge Operation Regulation; Manitowoc River, Manitowoc, WI",
+  "toc_doc": "Manitowoc River, Manitowoc, WI",
+  "toc_subject": "Drawbridge Operations",
+  "topics": [
+    "Bridges"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-09136"
+}

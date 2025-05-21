@@ -1,0 +1,210 @@
+{
+  "abstract": "Pursuant to the Congressional Review Act, this document withdraws a disapproved final rule that was published in the Federal Register on January 21, 2025. The final rule would have established amended energy conservation standards for commercial refrigerators, freezers, and refrigerator-freezers.",
+  "action": "Final rule; withdrawal.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF ENERGY",
+      "name": "Energy Department",
+      "id": 136,
+      "url": "https://www.federalregister.gov/agencies/energy-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+      "parent_id": null,
+      "slug": "energy-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/20/2025-09031.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 431,
+      "title": 10
+    }
+  ],
+  "citation": "90 FR 21392",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "As of May 20, 2025, the final rule on energy conservation standards for commercial refrigerators, freezers, and refrigerator- freezers, published in the Federal Register on January 21, 2025, at 90 FR 7464, and delayed at 90 FR 11466 (Mar. 7, 2025), is withdrawn.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EERE-2017-BT-TP-0007"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "Engineering Analysis Commercial Refrigeration Equipment Final Rule Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0007-0122"
+        },
+        {
+          "title": "Life-Cycle Cost (LCC) and Payback Period Analysis Commercial Refrigeration Equipment Final Rule Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0007-0120"
+        },
+        {
+          "title": "2024-2025  Government Regulatory Impact Model (GRIM) Commercial Refrigeration Equipment ECS Final Rule, Winter 2024-2025 Spreadsheet",
+          "document_id": "EERE-2017-BT-STD-0007-0119"
+        },
+        {
+          "title": "CRE NODA Engineering Spreadsheet Instructions and Troubleshooting Guide (Cross reference EERE-2017-BT-STD-0007-0091)",
+          "document_id": "EERE-2017-BT-STD-0007-0094"
+        },
+        {
+          "title": "CRE NODA Supporting Spreadsheets",
+          "document_id": "EERE-2017-BT-STD-0007-0091"
+        },
+        {
+          "title": "2023-12-06  DOE Response letter to the Air-conditioning, Heating, and Refrigeration Institute (AHRI) request for extension of the notice of proposed rulemaking (NOPR) comment due date (xref: EERE-2017-BT-STD-0007-0065)",
+          "document_id": "EERE-2017-BT-STD-0007-0069"
+        },
+        {
+          "title": "2023-11-07  Transcript of Proceedings in the Matter of:  Energy Conservation Standards Notice of Proposed Rulemaking for Commercial Refrigerators, Freezers, and Refrigerator-Freezers, Docket No. :  EERE-2017-BT-STD-0007",
+          "document_id": "EERE-2017-BT-STD-0007-0064"
+        },
+        {
+          "title": "2023-11-07  CRE Meeting Registration List, November 7, 2023",
+          "document_id": "EERE-2017-BT-STD-0007-0063"
+        },
+        {
+          "title": "2023-11-07  Meeting Attendee List (registration-20231106221459)",
+          "document_id": "EERE-2017-BT-STD-0007-0062"
+        },
+        {
+          "title": "2023-11-07  Meeting Presentation:  Energy Conservation Standards Notice of Proposed Rulemaking for Commercial Refrigerators, Freezers, and Refrigerator Freezers, November 7, 2023",
+          "document_id": "EERE-2017-BT-STD-0007-0060"
+        }
+      ],
+      "agency_name": "EERE",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-05-20T10:56:38.433-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EERE-2017-BT-STD-0007-0138",
+          "allow_late_comments": false,
+          "id": "EERE-2017-BT-STD-0007-0138",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 30,
+      "id": "EERE-2017-BT-STD-0007",
+      "title": "Energy Conservation Standards for Commercial Refrigeration Equipment"
+    }
+  ],
+  "document_number": "2025-09031",
+  "effective_on": null,
+  "end_page": 21392,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/20/2025-09031.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-09031/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09031?publication_date=2025-05-20",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-20/2025-09031/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 1,
+  "page_views": {
+    "count": 67,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-09031.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09031.pdf?1747658725",
+  "publication_date": "2025-05-20",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/20/2025-09031.txt",
+  "regulation_id_number_info": {
+    "1904-AD82": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/1904-AD82/energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers",
+      "title": "Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=1904-AD82&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Section 3(f)(1) Significant"
+    }
+  },
+  "regulation_id_numbers": [
+    "1904-AD82"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "Engineering Analysis Commercial Refrigeration Equipment Final Rule Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0007-0122"
+      },
+      {
+        "title": "Life-Cycle Cost (LCC) and Payback Period Analysis Commercial Refrigeration Equipment Final Rule Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0007-0120"
+      },
+      {
+        "title": "2024-2025  Government Regulatory Impact Model (GRIM) Commercial Refrigeration Equipment ECS Final Rule, Winter 2024-2025 Spreadsheet",
+        "document_id": "EERE-2017-BT-STD-0007-0119"
+      },
+      {
+        "title": "CRE NODA Engineering Spreadsheet Instructions and Troubleshooting Guide (Cross reference EERE-2017-BT-STD-0007-0091)",
+        "document_id": "EERE-2017-BT-STD-0007-0094"
+      },
+      {
+        "title": "CRE NODA Supporting Spreadsheets",
+        "document_id": "EERE-2017-BT-STD-0007-0091"
+      },
+      {
+        "title": "2023-12-06  DOE Response letter to the Air-conditioning, Heating, and Refrigeration Institute (AHRI) request for extension of the notice of proposed rulemaking (NOPR) comment due date (xref: EERE-2017-BT-STD-0007-0065)",
+        "document_id": "EERE-2017-BT-STD-0007-0069"
+      },
+      {
+        "title": "2023-11-07  Transcript of Proceedings in the Matter of:  Energy Conservation Standards Notice of Proposed Rulemaking for Commercial Refrigerators, Freezers, and Refrigerator-Freezers, Docket No. :  EERE-2017-BT-STD-0007",
+        "document_id": "EERE-2017-BT-STD-0007-0064"
+      },
+      {
+        "title": "2023-11-07  CRE Meeting Registration List, November 7, 2023",
+        "document_id": "EERE-2017-BT-STD-0007-0063"
+      },
+      {
+        "title": "2023-11-07  Meeting Attendee List (registration-20231106221459)",
+        "document_id": "EERE-2017-BT-STD-0007-0062"
+      },
+      {
+        "title": "2023-11-07  Meeting Presentation:  Energy Conservation Standards Notice of Proposed Rulemaking for Commercial Refrigerators, Freezers, and Refrigerator Freezers, November 7, 2023",
+        "document_id": "EERE-2017-BT-STD-0007-0060"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/1904-AD82/energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers",
+      "title": "Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers"
+    },
+    "comments_count": 0,
+    "agency_id": "EERE",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EERE-2017-BT-STD-0007",
+    "supporting_documents_count": 30,
+    "docket_id": "EERE-2017-BT-STD-0007",
+    "document_id": "EERE-2017-BT-STD-0007-0138",
+    "regulation_id_number": "1904-AD82",
+    "title": "Energy Conservation Standards for Commercial Refrigeration Equipment",
+    "checked_regulationsdotgov_at": "2025-05-21T12:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 21392,
+  "subtype": null,
+  "title": "Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers",
+  "toc_doc": "Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers; Withdrawal",
+  "toc_subject": "Energy Conservation Program",
+  "topics": [
+    "Administrative practice and procedure",
+    "Confidential business information",
+    "Energy conservation",
+    "Household appliances",
+    "Imports",
+    "Intergovernmental relations",
+    "Reporting and recordkeeping requirements",
+    "Small businesses"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-09031"
+}

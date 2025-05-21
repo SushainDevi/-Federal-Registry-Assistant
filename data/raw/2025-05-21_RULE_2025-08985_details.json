@@ -1,0 +1,114 @@
+{
+  "abstract": "This document announces the availability of ASTM International (ASTM) consensus standards for use as an FAA-accepted MOC to the applicable airworthiness standards for normal category airplanes. The FAA accepts ASTM F3264-24, \"Standard Specification for Normal Category Aeroplanes Certification,\" with changes identified in this document.",
+  "action": "Notification of availability (NOA).",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/20/2025-08985.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 23,
+      "title": 14
+    }
+  ],
+  "citation": "90 FR 21392",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Acceptance of the means of compliance is effective on May 20, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FAA-2025-0438"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "FAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-20",
+          "updated_at": "2025-05-20T10:56:44.490-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FAA-2025-0438-0001",
+          "allow_late_comments": false,
+          "id": "FAA-2025-0438-0001",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "FAA-2025-0438",
+      "title": "Accepted Means of Compliance (MOC); Airworthiness Standards: Normal Category Airplanes"
+    }
+  ],
+  "document_number": "2025-08985",
+  "effective_on": "2025-05-20",
+  "end_page": 21402,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/20/2025-08985.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-08985/accepted-means-of-compliance-moc-airworthiness-standards-normal-category-airplanes",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08985?publication_date=2025-05-20",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-20/2025-08985/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 11,
+  "page_views": {
+    "count": 57,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-08985.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08985.pdf?1747658720",
+  "publication_date": "2025-05-20",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/20/2025-08985.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "FAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FAA-2025-0438",
+    "supporting_documents_count": 0,
+    "docket_id": "FAA-2025-0438",
+    "document_id": "FAA-2025-0438-0001",
+    "regulation_id_number": null,
+    "title": "Accepted Means of Compliance (MOC); Airworthiness Standards: Normal Category Airplanes",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21392,
+  "subtype": null,
+  "title": "Accepted Means of Compliance (MOC); Airworthiness Standards: Normal Category Airplanes",
+  "toc_doc": "Airworthiness Standards: Normal Category Airplanes",
+  "toc_subject": "Accepted Means of Compliance",
+  "topics": [],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08985"
+}

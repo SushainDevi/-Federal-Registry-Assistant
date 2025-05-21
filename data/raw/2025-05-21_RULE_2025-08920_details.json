@@ -1,0 +1,101 @@
+{
+  "abstract": "This document makes nomenclature changes to sections of the Code of Federal Regulations (CFR) administered by the Transportation Security Administration (TSA). This action is necessary to conform with the Executive order of January 20, 2025 (Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government).",
+  "action": "Final rule; technical amendments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "name": "Homeland Security Department",
+      "id": 227,
+      "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+      "parent_id": null,
+      "slug": "homeland-security-department"
+    },
+    {
+      "raw_name": "Office of the Secretary"
+    },
+    {
+      "raw_name": "Transportation Security Administration",
+      "name": "Transportation Security Administration",
+      "id": 494,
+      "url": "https://www.federalregister.gov/agencies/transportation-security-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/494",
+      "parent_id": 227,
+      "slug": "transportation-security-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-08920.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 37,
+      "title": 6
+    },
+    {
+      "chapter": 0,
+      "citation_url": null,
+      "part": null,
+      "title": 49
+    }
+  ],
+  "citation": "90 FR 21688",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective as of May 21, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [],
+  "document_number": "2025-08920",
+  "effective_on": "2025-05-21",
+  "end_page": 21690,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-08920.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-08920/terminology-relating-to-sex-technical-amendments",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08920?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-08920/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 18,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-08920.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08920.pdf?1747745108",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-08920.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:50:33Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21688,
+  "subtype": null,
+  "title": "Terminology Relating to Sex; Technical Amendments",
+  "toc_doc": "Terminology Relating to Sex; Technical Amendments",
+  "toc_subject": null,
+  "topics": [
+    "Classified information",
+    "Freedom of information",
+    "Licensing and registration",
+    "Motor vehicle safety",
+    "Motor vehicles",
+    "Privacy",
+    "Reporting and recordkeeping requirements",
+    "Security measures"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08920"
+}

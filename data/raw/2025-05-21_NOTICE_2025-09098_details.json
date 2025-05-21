@@ -1,0 +1,78 @@
+{
+  "abstract": "The Administration for Children and Families (ACF) is proposing to reissue an information collection to request information from interested states for the Fiscal Responsibility Act of 2023 (FRA) Temporary Assistance for Needy Families (TANF) pilot program. This request is proposed under Office of Management and Budget (OMB) #: 0970-0531 and is a reissuing of a previously approved information collection to select states for the FRA pilot program.",
+  "action": "Request for public comments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "name": "Health and Human Services Department",
+      "id": 221,
+      "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+      "parent_id": null,
+      "slug": "health-and-human-services-department"
+    },
+    {
+      "raw_name": "Administration for Children and Families",
+      "name": "Children and Families Administration",
+      "id": 49,
+      "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+      "parent_id": 221,
+      "slug": "children-and-families-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-09098.html",
+  "cfr_references": [],
+  "citation": "90 FR 21776",
+  "comment_url": null,
+  "comments_close_on": "2025-06-20",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments due June 20, 2025. OMB will make a decision about the collection of information after this public comment period ends and comments have been considered.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "OMB #: 0970-0531"
+  ],
+  "dockets": [],
+  "document_number": "2025-09098",
+  "effective_on": null,
+  "end_page": 21777,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-09098.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09098/proposed-information-collection-and-submission-for-office-of-management-and-budget-review-fiscal",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09098?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-09098/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 4,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09098.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09098.pdf?1747745117",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-09098.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:54:38Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21776,
+  "subtype": null,
+  "title": "Proposed Information Collection and Submission for Office of Management and Budget Review; Fiscal Responsibility Act TANF Pilot Program 2025 Information Collection",
+  "toc_doc": "Fiscal Responsibility Act Temporary Assistance for Needy Families Pilot Program 2025",
+  "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+  "topics": [],
+  "type": "Notice",
+  "volume": 90,
+  "id": "fr-2025-09098"
+}

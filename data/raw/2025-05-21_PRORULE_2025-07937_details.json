@@ -1,0 +1,154 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is proposing to approve state implementation plan (SIP) submittals under the Clean Air Act (CAA) that address contingency measures requirements for the 2008 ozone National Ambient Air Quality Standards (NAAQS) for the Denver Metro/North Front Range (DMNFR) ozone nonattainment area. The requirements at issue relate to the area's previous Serious nonattainment classification. The EPA is proposing to find that the State has met the applicable CAA requirements for Serious area contingency measures and is proposing approval of the contingency measures SIP submittals, except that we are not taking action on one of the two identified contingency measures included in the submittals. In addition, the EPA is proposing to approve regulatory revisions that Colorado adopted to implement the submitted motor vehicle coating contingency measure. The EPA is taking this action pursuant to the CAA.",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/08/2025-07937.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 19447",
+  "comment_url": "http://www.regulations.gov/commenton/EPA-R08-OAR-2024-0622-0001",
+  "comments_close_on": "2025-06-09",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Written comments must be received on or before June 9, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R08-OAR-2024-0622",
+    "FRL-12746-01-R8"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "April2025SIPSubmittal_DocumentSet1of2",
+          "document_id": "EPA-R08-OAR-2024-0622-0006"
+        },
+        {
+          "title": "Blowdowns Control Strategy One Pager",
+          "document_id": "EPA-R08-OAR-2024-0622-0005"
+        },
+        {
+          "title": "May2024SIPSubmittal",
+          "document_id": "EPA-R08-OAR-2024-0622-0004"
+        },
+        {
+          "title": "June2023SIPSubmittal_DocumentSet1of7",
+          "document_id": "EPA-R08-OAR-2024-0622-0003"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-08",
+          "updated_at": "2025-05-08T17:57:23.188-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R08-OAR-2024-0622-0001",
+          "allow_late_comments": false,
+          "id": "EPA-R08-OAR-2024-0622-0001",
+          "comment_end_date": "2025-06-10",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 4,
+      "id": "EPA-R08-OAR-2024-0622",
+      "title": "CO Serious Area Contingency Measures"
+    }
+  ],
+  "document_number": "2025-07937",
+  "effective_on": null,
+  "end_page": 19459,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/08/2025-07937.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-07937/air-plan-approval-colorado-serious-attainment-plan-contingency-measures-for-the-2008-8-hour-ozone",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-07937?publication_date=2025-05-08",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-08/2025-07937/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 13,
+  "page_views": {
+    "count": 138,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-07937.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07937.pdf?1746621917",
+  "publication_date": "2025-05-08",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/08/2025-07937.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "April2025SIPSubmittal_DocumentSet1of2",
+        "document_id": "EPA-R08-OAR-2024-0622-0006"
+      },
+      {
+        "title": "Blowdowns Control Strategy One Pager",
+        "document_id": "EPA-R08-OAR-2024-0622-0005"
+      },
+      {
+        "title": "May2024SIPSubmittal",
+        "document_id": "EPA-R08-OAR-2024-0622-0004"
+      },
+      {
+        "title": "June2023SIPSubmittal_DocumentSet1of7",
+        "document_id": "EPA-R08-OAR-2024-0622-0003"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R08-OAR-2024-0622",
+    "supporting_documents_count": 4,
+    "docket_id": "EPA-R08-OAR-2024-0622",
+    "document_id": "EPA-R08-OAR-2024-0622-0001",
+    "regulation_id_number": null,
+    "title": "CO Serious Area Contingency Measures",
+    "checked_regulationsdotgov_at": "2025-05-09T23:55:03Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EPA-R08-OAR-2024-0622-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 19447,
+  "subtype": null,
+  "title": "Air Plan Approval; Colorado; Serious Attainment Plan Contingency Measures for the 2008 8-Hour Ozone National Ambient Air Quality Standards for the Denver Metro/North Front Range Nonattainment Area",
+  "toc_doc": "Colorado; Serious Attainment Plan Contingency Measures for the 2008 8-Hour Ozone National Ambient Air Quality Standards for the Denver Metro/North Front Range Nonattainment Area",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Carbon monoxide",
+    "Environmental protection",
+    "Greenhouse gases",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Lead",
+    "Nitrogen dioxide",
+    "Ozone",
+    "Particulate matter",
+    "Reporting and recordkeeping requirements",
+    "Sulfur oxides",
+    "Volatile organic compounds"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-07937"
+}

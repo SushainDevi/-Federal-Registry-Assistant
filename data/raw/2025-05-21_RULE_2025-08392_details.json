@@ -1,0 +1,133 @@
+{
+  "abstract": "NMFS is prohibiting directed fishing for Pacific cod by catcher/processors using hook-and-line (HAL) gear in the Central Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to prevent exceeding the A season allowance of the 2025 Pacific cod total allowable catch (TAC) apportioned to catcher/processors using HAL gear in the Central Regulatory Area of the GOA.",
+  "action": "Temporary rule; closure.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "name": "Commerce Department",
+      "id": 54,
+      "url": "https://www.federalregister.gov/agencies/commerce-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "parent_id": null,
+      "slug": "commerce-department"
+    },
+    {
+      "raw_name": "National Oceanic and Atmospheric Administration",
+      "name": "National Oceanic and Atmospheric Administration",
+      "id": 361,
+      "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+      "parent_id": 54,
+      "slug": "national-oceanic-and-atmospheric-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/13/2025-08392.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 679,
+      "title": 50
+    }
+  ],
+  "citation": "90 FR 20239",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective 1200 hours, Alaska local time (A.l.t.), May 8, 2025, through 1200 hours, A.l.t., June 10, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 250312-0037",
+    "RTID 0648-XE810"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "2025 Supplemental Information Report",
+          "document_id": "NOAA-NMFS-2024-0124-0006"
+        },
+        {
+          "title": "Groundfish FEIS",
+          "document_id": "NOAA-NMFS-2024-0124-0001"
+        }
+      ],
+      "agency_name": "NOAA",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-05-13T12:56:11.872-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/NOAA-NMFS-2024-0124-0012",
+          "allow_late_comments": false,
+          "id": "NOAA-NMFS-2024-0124-0012",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 2,
+      "id": "NOAA-NMFS-2024-0124",
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Gulf of Alaska; Proposed 2025 and 2026 Harvest Specifications for Groundfish"
+    }
+  ],
+  "document_number": "2025-08392",
+  "effective_on": "2025-05-08",
+  "end_page": 20240,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/13/2025-08392.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08392/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08392?publication_date=2025-05-13",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-13/2025-08392/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 45,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08392.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08392.pdf?1746735321",
+  "publication_date": "2025-05-13",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/13/2025-08392.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "2025 Supplemental Information Report",
+        "document_id": "NOAA-NMFS-2024-0124-0006"
+      },
+      {
+        "title": "Groundfish FEIS",
+        "document_id": "NOAA-NMFS-2024-0124-0001"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "NOAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NOAA-NMFS-2024-0124",
+    "supporting_documents_count": 2,
+    "docket_id": "NOAA-NMFS-2024-0124",
+    "document_id": "NOAA-NMFS-2024-0124-0012",
+    "regulation_id_number": null,
+    "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Gulf of Alaska; Proposed 2025 and 2026 Harvest Specifications for Groundfish",
+    "checked_regulationsdotgov_at": "2025-05-21T04:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20239,
+  "subtype": null,
+  "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher/Processors Using Hook-and-Line Gear in the Central Regulatory Area of the Gulf of Alaska",
+  "toc_doc": "Pacific Cod by Catcher/Processors Using Hook-and-Line Gear in the Central Regulatory Area of the Gulf of Alaska",
+  "toc_subject": "Fisheries of the Exclusive Economic Zone off Alaska",
+  "topics": [],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08392"
+}

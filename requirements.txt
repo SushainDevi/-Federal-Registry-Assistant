@@ -1,0 +1,40 @@
+# Web Framework
+fastapi==0.68.0
+uvicorn[standard]>=0.15.0
+websockets>=10.0
+
+# Database
+aiomysql>=0.1.1
+mysqlclient>=2.1.0
+
+# HTTP Client
+aiohttp>=3.8.0
+requests>=2.26.0
+
+# Data Processing
+python-dateutil>=2.8.2
+pytz>=2021.3
+
+# Environment and Configuration
+python-dotenv>=0.19.0
+pydantic>=1.8.2
+
+# Logging and Monitoring
+logging>=0.5.1.2
+
+# Development Tools
+black>=21.9b0
+pytest>=6.2.5
+pytest-asyncio>=0.15.1
+
+# Type Checking
+mypy>=0.910
+types-requests>=2.26.0
+
+# Documentation
+mkdocs>=1.2.3
+mkdocs-material>=7.3.0
+
+# Security
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4

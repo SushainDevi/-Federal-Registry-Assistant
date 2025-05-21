@@ -1,0 +1,156 @@
+{
+  "abstract": "This action announces the availability of the EPA's response to a petition received on February 11, 2025, from the Clean Air Council, Communities for a Better Environment, and Natural Resources Defense Council (petitioners). The petition requests that EPA establish a TSCA rule prohibiting the use of hydrogen fluoride (HF) in domestic oil refining to eliminate unreasonable risks to public health and the environment. After careful consideration, EPA has denied the TSCA petition for the reasons set forth in this notice.",
+  "action": "Petition; reasons for Agency response.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/15/2025-08658.html",
+  "cfr_references": [
+    {
+      "chapter": 0,
+      "citation_url": null,
+      "part": null,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 20575",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "EPA's response to this TSCA section 21 petition was signed May 9, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-HQ-OPPT-2025-0102",
+    "FRL-12651-01-OCSPP"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "Draft Scope of the Risk Evaluation for Vinyl Chloride (Ethene, chloro-) (CASRN 75-01-4)",
+          "document_id": "EPA-HQ-OPPT-2025-0102-0007"
+        },
+        {
+          "title": "Procedures for Chemical Risk Evaluation Under the Toxic Substances Control Act (TSCA) [EPA–HQ–OPPT–2023–0496]; EPA Response to Public Comments",
+          "document_id": "EPA-HQ-OPPT-2025-0102-0006"
+        },
+        {
+          "title": "AFPM-API Letter RE: Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining (April 7, 2025)",
+          "document_id": "EPA-HQ-OPPT-2025-0102-0005"
+        },
+        {
+          "title": "AFPM-API Letter RE: Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining (March 17, 2025)",
+          "document_id": "EPA-HQ-OPPT-2025-0102-0004"
+        },
+        {
+          "title": "Letter of Receipt: Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining",
+          "document_id": "EPA-HQ-OPPT-2025-0102-0003"
+        },
+        {
+          "title": "Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining",
+          "document_id": "EPA-HQ-OPPT-2025-0102-0002"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-05-15T08:56:15.894-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-HQ-OPPT-2025-0102-0001",
+          "allow_late_comments": false,
+          "id": "EPA-HQ-OPPT-2025-0102-0001",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 6,
+      "id": "EPA-HQ-OPPT-2025-0102",
+      "title": "Response to TSCA Section 21 Petition: Hydrogen Fluoride in Domestic Oil Refining"
+    }
+  ],
+  "document_number": "2025-08658",
+  "effective_on": null,
+  "end_page": 20578,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/15/2025-08658.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08658/hydrogen-fluoride-tsca-section-21-petition-for-rulemaking-under-tsca-section-6-reasons-for-agency",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08658?publication_date=2025-05-15",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-15/2025-08658/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 292,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08658.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08658.pdf?1747226718",
+  "publication_date": "2025-05-15",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/15/2025-08658.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "Draft Scope of the Risk Evaluation for Vinyl Chloride (Ethene, chloro-) (CASRN 75-01-4)",
+        "document_id": "EPA-HQ-OPPT-2025-0102-0007"
+      },
+      {
+        "title": "Procedures for Chemical Risk Evaluation Under the Toxic Substances Control Act (TSCA) [EPA–HQ–OPPT–2023–0496]; EPA Response to Public Comments",
+        "document_id": "EPA-HQ-OPPT-2025-0102-0006"
+      },
+      {
+        "title": "AFPM-API Letter RE: Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining (April 7, 2025)",
+        "document_id": "EPA-HQ-OPPT-2025-0102-0005"
+      },
+      {
+        "title": "AFPM-API Letter RE: Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining (March 17, 2025)",
+        "document_id": "EPA-HQ-OPPT-2025-0102-0004"
+      },
+      {
+        "title": "Letter of Receipt: Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining",
+        "document_id": "EPA-HQ-OPPT-2025-0102-0003"
+      },
+      {
+        "title": "Citizen Petition under TSCA Section 21 to Prohibit Hydrogen Fluoride in Domestic Oil Refining",
+        "document_id": "EPA-HQ-OPPT-2025-0102-0002"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-HQ-OPPT-2025-0102",
+    "supporting_documents_count": 6,
+    "docket_id": "EPA-HQ-OPPT-2025-0102",
+    "document_id": "EPA-HQ-OPPT-2025-0102-0001",
+    "regulation_id_number": null,
+    "title": "Response to TSCA Section 21 Petition: Hydrogen Fluoride in Domestic Oil Refining",
+    "checked_regulationsdotgov_at": "2025-05-16T15:55:05Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20575,
+  "subtype": null,
+  "title": "Hydrogen Fluoride; TSCA Section 21 Petition for Rulemaking Under TSCA Section 6; Reasons for Agency Response; Denial of Requested Rulemaking",
+  "toc_doc": "Hydrogen Fluoride; Denial of Requested Rulemaking",
+  "toc_subject": null,
+  "topics": [],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08658"
+}

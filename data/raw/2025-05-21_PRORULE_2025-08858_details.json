@@ -1,0 +1,135 @@
+{
+  "abstract": "The Coast Guard is proposing to establish a special local regulation for certain waters on the Western Branch of the Elizabeth River in Portsmouth, VA. This action is necessary to provide for the safety of life on these navigable waters during a high-speed boat race. This proposed rulemaking would prohibit persons and vessels from entering the regulated area unless authorized by the Captain of the Port, Sector Virginia or a designated representative. We invite your comments on this proposed rulemaking.",
+  "action": "Notice of proposed rulemaking.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "name": "Homeland Security Department",
+      "id": 227,
+      "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+      "parent_id": null,
+      "slug": "homeland-security-department"
+    },
+    {
+      "raw_name": "Coast Guard",
+      "name": "Coast Guard",
+      "id": 53,
+      "url": "https://www.federalregister.gov/agencies/coast-guard",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+      "parent_id": 227,
+      "slug": "coast-guard"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08858.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 100,
+      "title": 33
+    }
+  ],
+  "citation": "90 FR 21252",
+  "comment_url": "http://www.regulations.gov/commenton/USCG-2025-0404-0001",
+  "comments_close_on": "2025-06-03",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments and related material must be received by the Coast Guard on or before June 3, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket Number USCG-2025-0404"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "USCG",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T09:56:40.827-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/USCG-2025-0404-0001",
+          "allow_late_comments": false,
+          "id": "USCG-2025-0404-0001",
+          "comment_end_date": "2025-06-04",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "USCG-2025-0404",
+      "title": "Special Local Regulation; Elizabeth River, Western Branch, Portsmouth, VA"
+    }
+  ],
+  "document_number": "2025-08858",
+  "effective_on": null,
+  "end_page": 21254,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08858.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08858/special-local-regulation-elizabeth-river-western-branch-portsmouth-va",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08858?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08858/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 25,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08858.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08858.pdf?1747399515",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08858.txt",
+  "regulation_id_number_info": {
+    "1625-AA08": {
+      "issue": "201104",
+      "html_url": "https://www.federalregister.gov/regulations/1625-AA08/regatta-and-marine-parade-regulations",
+      "title": "Regatta and Marine Parade Regulations",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201104&RIN=1625-AA08&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "1625-AA08"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/1625-AA08/regatta-and-marine-parade-regulations",
+      "title": "Regatta and Marine Parade Regulations"
+    },
+    "comments_count": 0,
+    "agency_id": "USCG",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=USCG-2025-0404",
+    "supporting_documents_count": 0,
+    "docket_id": "USCG-2025-0404",
+    "document_id": "USCG-2025-0404-0001",
+    "regulation_id_number": "1625-AA08",
+    "title": "Special Local Regulation; Elizabeth River, Western Branch, Portsmouth, VA",
+    "checked_regulationsdotgov_at": "2025-05-20T15:55:05Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/USCG-2025-0404-0001",
+  "significant": false,
+  "signing_date": null,
+  "start_page": 21252,
+  "subtype": null,
+  "title": "Special Local Regulation; Elizabeth River, Western Branch, Portsmouth, VA",
+  "toc_doc": "Elizabeth River, Western Branch, Portsmouth, VA",
+  "toc_subject": "Special Local Regulation",
+  "topics": [
+    "Harbors",
+    "Marine safety",
+    "Navigation (water)",
+    "Reporting and recordkeeping requirements",
+    "Security measures",
+    "Waterways"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08858"
+}

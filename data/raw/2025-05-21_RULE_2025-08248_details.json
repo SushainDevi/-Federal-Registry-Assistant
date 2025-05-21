@@ -1,0 +1,162 @@
+{
+  "abstract": "The Food and Drug Administration (FDA or we) is amending the color additive regulations to provide for the expanded safe use of butterfly pea flower extract as a color additive in ready-to-eat cereals, crackers, snack mixes, hard pretzels, plain potato chips (restructured or baked), and plain corn chips, tortilla chips, and multigrain chips at levels consistent with good manufacturing practice (GMP). This action is in response to a color additive petition (CAP) submitted by Sensient Colors, LLC (Sensient or petitioner).",
+  "action": "Final amendment; order.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "name": "Health and Human Services Department",
+      "id": 221,
+      "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+      "parent_id": null,
+      "slug": "health-and-human-services-department"
+    },
+    {
+      "raw_name": "Food and Drug Administration",
+      "name": "Food and Drug Administration",
+      "id": 199,
+      "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+      "parent_id": 221,
+      "slug": "food-and-drug-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/12/2025-08248.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 73,
+      "title": 21
+    }
+  ],
+  "citation": "90 FR 20101",
+  "comment_url": "http://www.regulations.gov/commenton/FDA-2024-C-0971-0001",
+  "comments_close_on": "2025-06-11",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This order is effective June 26, 2025. See section X for further information on the filing of objections. Either electronic or written objections and requests for a hearing on the order must be submitted by June 11, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FDA-2024-C-0971"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "Reference 4 - Memorandum from Y. Zang, Toxicology Review Team, DFI, Office of Food Additive Safety (OFAS), Center for Food and Human Nutrition (CFSAN), FDA, to S. DiFranco, DFI, OFAS, CFSAN, FDA, June 9, 2021.",
+          "document_id": "FDA-2024-C-0971-0007"
+        },
+        {
+          "title": "Reference 3 - Memorandum from T. Thurmond, Toxicology Review Branch (TRB), DFI, OPMAS, HFP, FDA to S. DiFranco, RMB, DFI, OPMAS, HFP, FDA, April 21, 2025",
+          "document_id": "FDA-2024-C-0971-0006"
+        },
+        {
+          "title": "Reference 2 - Memorandum from H. Thapa, Chemistry Evaluation Branch, DFI, OPMAS, HFP, FDA to S. DiFranco, RMB, DFI, OPMAS, HFP, FDA, April 21, 2025.",
+          "document_id": "FDA-2024-C-0971-0005"
+        },
+        {
+          "title": "Reference 1 - Memorandum from B. Petigara-Harp, Color Technology Branch, Division of Color Certification and Technology, Office of\nCosmetics and Colors (OCAC), Office of Commissioner, Office of Chief Scientist, FDA to S. DiFranco, Regulatory Management Branch (RMB), Division of Food Ingredients (DFI), Office of Premarket Additive Safety (OPMAS), HFP, FDA, April 21, 2025.",
+          "document_id": "FDA-2024-C-0971-0004"
+        },
+        {
+          "title": "89 FR 8537",
+          "document_id": "FDA-2024-C-0971-0003"
+        }
+      ],
+      "agency_name": "FDA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-12",
+          "updated_at": "2025-05-12T08:55:29.479-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FDA-2024-C-0971-0001",
+          "allow_late_comments": false,
+          "id": "FDA-2024-C-0971-0001",
+          "comment_end_date": "2025-06-12",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 5,
+      "id": "FDA-2024-C-0971",
+      "title": "Sensient Colors, LLC; Filing of Color Additive Petition"
+    }
+  ],
+  "document_number": "2025-08248",
+  "effective_on": "2025-06-26",
+  "end_page": 20104,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/12/2025-08248.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08248/listing-of-color-additives-exempt-from-certification-butterfly-pea-flower-extract",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08248?publication_date=2025-05-12",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-12/2025-08248/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 787,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08248.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08248.pdf?1746794720",
+  "publication_date": "2025-05-12",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/12/2025-08248.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "Reference 4 - Memorandum from Y. Zang, Toxicology Review Team, DFI, Office of Food Additive Safety (OFAS), Center for Food and Human Nutrition (CFSAN), FDA, to S. DiFranco, DFI, OFAS, CFSAN, FDA, June 9, 2021.",
+        "document_id": "FDA-2024-C-0971-0007"
+      },
+      {
+        "title": "Reference 3 - Memorandum from T. Thurmond, Toxicology Review Branch (TRB), DFI, OPMAS, HFP, FDA to S. DiFranco, RMB, DFI, OPMAS, HFP, FDA, April 21, 2025",
+        "document_id": "FDA-2024-C-0971-0006"
+      },
+      {
+        "title": "Reference 2 - Memorandum from H. Thapa, Chemistry Evaluation Branch, DFI, OPMAS, HFP, FDA to S. DiFranco, RMB, DFI, OPMAS, HFP, FDA, April 21, 2025.",
+        "document_id": "FDA-2024-C-0971-0005"
+      },
+      {
+        "title": "Reference 1 - Memorandum from B. Petigara-Harp, Color Technology Branch, Division of Color Certification and Technology, Office of\nCosmetics and Colors (OCAC), Office of Commissioner, Office of Chief Scientist, FDA to S. DiFranco, Regulatory Management Branch (RMB), Division of Food Ingredients (DFI), Office of Premarket Additive Safety (OPMAS), HFP, FDA, April 21, 2025.",
+        "document_id": "FDA-2024-C-0971-0004"
+      },
+      {
+        "title": "89 FR 8537",
+        "document_id": "FDA-2024-C-0971-0003"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "FDA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FDA-2024-C-0971",
+    "supporting_documents_count": 5,
+    "docket_id": "FDA-2024-C-0971",
+    "document_id": "FDA-2024-C-0971-0001",
+    "regulation_id_number": null,
+    "title": "Sensient Colors, LLC; Filing of Color Additive Petition",
+    "checked_regulationsdotgov_at": "2025-05-21T04:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/FDA-2024-C-0971-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20101,
+  "subtype": null,
+  "title": "Listing of Color Additives Exempt From Certification; Butterfly Pea Flower Extract",
+  "toc_doc": "Butterfly Pea Flower Extract",
+  "toc_subject": "Listing of Color Additives Exempt from Certification",
+  "topics": [
+    "Color additives",
+    "Cosmetics",
+    "Drugs",
+    "Foods",
+    "Medical devices"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08248"
+}

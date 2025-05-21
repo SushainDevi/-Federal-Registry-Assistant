@@ -1,0 +1,80 @@
+{
+  "abstract": "The Postal Service is amending Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) in sections 235 and 240 to change the standards for First Class Mail and USPS Marketing Mail flats from a \"required\" 5-digit/scheme, 3-digit, and ADC preparation to an \"optional\" preparation.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "POSTAL SERVICE",
+      "name": "Postal Service",
+      "id": 410,
+      "url": "https://www.federalregister.gov/agencies/postal-service",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
+      "parent_id": null,
+      "slug": "postal-service"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/16/2025-08691.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 111,
+      "title": 39
+    }
+  ],
+  "citation": "90 FR 20799",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective Date: July 13, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [],
+  "dockets": [],
+  "document_number": "2025-08691",
+  "effective_on": "2025-07-13",
+  "end_page": 20801,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/16/2025-08691.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08691/optional-5-digit3-digitadc-sortation",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08691?publication_date=2025-05-16",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-16/2025-08691/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 48,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08691.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08691.pdf?1747313112",
+  "publication_date": "2025-05-16",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/16/2025-08691.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "comments_count": 0,
+    "agency_id": "USPS",
+    "document_id": "USPS-2025-0448-0001",
+    "checked_regulationsdotgov_at": "2025-05-17T15:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20799,
+  "subtype": null,
+  "title": "Optional 5-Digit/3-Digit/ADC Sortation",
+  "toc_doc": "Optional 5-Digit/3-Digit/ADC Sortation",
+  "toc_subject": null,
+  "topics": [
+    "Administrative practice and procedure",
+    "Postal Service"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08691"
+}

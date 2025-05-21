@@ -1,0 +1,297 @@
+{
+  "abstract": "DOE is proposing to withdraw its prior determination that miscellaneous refrigeration products qualify as covered products under Part A of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\").",
+  "action": "Notice of proposed withdrawal of determination; request for comments.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF ENERGY",
+      "name": "Energy Department",
+      "id": 136,
+      "url": "https://www.federalregister.gov/agencies/energy-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+      "parent_id": null,
+      "slug": "energy-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/16/2025-08584.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 429,
+      "title": 10
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 430,
+      "title": 10
+    }
+  ],
+  "citation": "90 FR 20840",
+  "comment_url": "http://www.regulations.gov/commenton/EERE-2025-BT-DET-0009-0001",
+  "comments_close_on": "2025-07-15",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments: Comments must be received on or before July 15, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EERE-2025-BT-DET-0009"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "EERE",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-16",
+          "updated_at": "2025-05-16T11:56:46.607-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EERE-2025-BT-DET-0009-0001",
+          "allow_late_comments": false,
+          "id": "EERE-2025-BT-DET-0009-0001",
+          "comment_end_date": "2025-07-16",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "EERE-2025-BT-DET-0009",
+      "title": "Energy Conservation Program:  Proposed Withdrawal of Determination of Miscellaneous Refrigeration Products as a Covered Consumer Product"
+    }
+  ],
+  "document_number": "2025-08584",
+  "effective_on": null,
+  "end_page": 20849,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/16/2025-08584.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08584/energy-conservation-program-proposed-withdrawal-of-determination-of-miscellaneous-refrigeration",
+  "images": {
+    "EP16MY25.009": {
+      "large": "https://img.federalregister.gov/EP16MY25.009/EP16MY25.009_large.png",
+      "medium": "https://img.federalregister.gov/EP16MY25.009/EP16MY25.009_medium.png",
+      "original_size": "https://img.federalregister.gov/EP16MY25.009/EP16MY25.009_original_size.png"
+    },
+    "EP16MY25.013": {
+      "large": "https://img.federalregister.gov/EP16MY25.013/EP16MY25.013_large.png",
+      "medium": "https://img.federalregister.gov/EP16MY25.013/EP16MY25.013_medium.png",
+      "original_size": "https://img.federalregister.gov/EP16MY25.013/EP16MY25.013_original_size.png"
+    },
+    "EP16MY25.012": {
+      "large": "https://img.federalregister.gov/EP16MY25.012/EP16MY25.012_large.png",
+      "medium": "https://img.federalregister.gov/EP16MY25.012/EP16MY25.012_medium.png",
+      "original_size": "https://img.federalregister.gov/EP16MY25.012/EP16MY25.012_original_size.png"
+    },
+    "EP16MY25.011": {
+      "large": "https://img.federalregister.gov/EP16MY25.011/EP16MY25.011_large.png",
+      "medium": "https://img.federalregister.gov/EP16MY25.011/EP16MY25.011_medium.png",
+      "original_size": "https://img.federalregister.gov/EP16MY25.011/EP16MY25.011_original_size.png"
+    },
+    "EP16MY25.010": {
+      "large": "https://img.federalregister.gov/EP16MY25.010/EP16MY25.010_large.png",
+      "medium": "https://img.federalregister.gov/EP16MY25.010/EP16MY25.010_medium.png",
+      "original_size": "https://img.federalregister.gov/EP16MY25.010/EP16MY25.010_original_size.png"
+    }
+  },
+  "images_metadata": {
+    "EP16MY25.009": {
+      "large": {
+        "identifier": "EP16MY25.009",
+        "content_type": "image/png",
+        "size": 9657,
+        "width": 614,
+        "sha": "a3239a5f1ada6b64413d19c5dd82b35d",
+        "url": "https://img.federalregister.gov/EP16MY25.009/EP16MY25.009_large.png",
+        "height": 114
+      },
+      "medium": {
+        "identifier": "EP16MY25.009",
+        "content_type": "image/png",
+        "size": 2926,
+        "width": 289,
+        "sha": "279e3ccd533d47a80478de14b44c3573",
+        "url": "https://img.federalregister.gov/EP16MY25.009/EP16MY25.009_medium.png",
+        "height": 54
+      },
+      "original_size": {
+        "identifier": "EP16MY25.009",
+        "content_type": "image/png",
+        "size": 8537,
+        "width": 1091,
+        "sha": "4c444b90fe456016bc422a7819994d91",
+        "url": "https://img.federalregister.gov/EP16MY25.009/EP16MY25.009_original_size.png",
+        "height": 203
+      }
+    },
+    "EP16MY25.013": {
+      "large": {
+        "identifier": "EP16MY25.013",
+        "content_type": "image/png",
+        "size": 11899,
+        "width": 678,
+        "sha": "b7ce048c81da5e028485aa84c216217c",
+        "url": "https://img.federalregister.gov/EP16MY25.013/EP16MY25.013_large.png",
+        "height": 124
+      },
+      "medium": {
+        "identifier": "EP16MY25.013",
+        "content_type": "image/png",
+        "size": 3691,
+        "width": 319,
+        "sha": "19014a3b6061e95f2d185e1c6b1fdd82",
+        "url": "https://img.federalregister.gov/EP16MY25.013/EP16MY25.013_medium.png",
+        "height": 58
+      },
+      "original_size": {
+        "identifier": "EP16MY25.013",
+        "content_type": "image/png",
+        "size": 10095,
+        "width": 1203,
+        "sha": "d990116917ffe423032a0ff917332682",
+        "url": "https://img.federalregister.gov/EP16MY25.013/EP16MY25.013_original_size.png",
+        "height": 220
+      }
+    },
+    "EP16MY25.012": {
+      "large": {
+        "identifier": "EP16MY25.012",
+        "content_type": "image/png",
+        "size": 11531,
+        "width": 821,
+        "sha": "847e8eacbd0f8a00ad0e72eade5dbeed",
+        "url": "https://img.federalregister.gov/EP16MY25.012/EP16MY25.012_large.png",
+        "height": 88
+      },
+      "medium": {
+        "identifier": "EP16MY25.012",
+        "content_type": "image/png",
+        "size": 5607,
+        "width": 513,
+        "sha": "07b67c2a526de05e4a49aab3c4fc93fa",
+        "url": "https://img.federalregister.gov/EP16MY25.012/EP16MY25.012_medium.png",
+        "height": 55
+      },
+      "original_size": {
+        "identifier": "EP16MY25.012",
+        "content_type": "image/png",
+        "size": 13744,
+        "width": 1950,
+        "sha": "49247517a7f743983a1dd708115e77d0",
+        "url": "https://img.federalregister.gov/EP16MY25.012/EP16MY25.012_original_size.png",
+        "height": 209
+      }
+    },
+    "EP16MY25.011": {
+      "large": {
+        "identifier": "EP16MY25.011",
+        "content_type": "image/png",
+        "size": 11743,
+        "width": 685,
+        "sha": "30fa17cf7539ff25fd454ae4f54b19f8",
+        "url": "https://img.federalregister.gov/EP16MY25.011/EP16MY25.011_large.png",
+        "height": 123
+      },
+      "medium": {
+        "identifier": "EP16MY25.011",
+        "content_type": "image/png",
+        "size": 3487,
+        "width": 322,
+        "sha": "16e18ac7e5b4a3bda07f490a15d3d3fb",
+        "url": "https://img.federalregister.gov/EP16MY25.011/EP16MY25.011_medium.png",
+        "height": 58
+      },
+      "original_size": {
+        "identifier": "EP16MY25.011",
+        "content_type": "image/png",
+        "size": 10037,
+        "width": 1216,
+        "sha": "9e37b3620158b1317e80c2673606fbb0",
+        "url": "https://img.federalregister.gov/EP16MY25.011/EP16MY25.011_original_size.png",
+        "height": 219
+      }
+    },
+    "EP16MY25.010": {
+      "large": {
+        "identifier": "EP16MY25.010",
+        "content_type": "image/png",
+        "size": 11569,
+        "width": 817,
+        "sha": "e2c18f4e1e631ac304c7c71554fc1428",
+        "url": "https://img.federalregister.gov/EP16MY25.010/EP16MY25.010_large.png",
+        "height": 88
+      },
+      "medium": {
+        "identifier": "EP16MY25.010",
+        "content_type": "image/png",
+        "size": 6197,
+        "width": 511,
+        "sha": "9298569e0c69060ea613a9cba900b9da",
+        "url": "https://img.federalregister.gov/EP16MY25.010/EP16MY25.010_medium.png",
+        "height": 55
+      },
+      "original_size": {
+        "identifier": "EP16MY25.010",
+        "content_type": "image/png",
+        "size": 13863,
+        "width": 1950,
+        "sha": "e929c0d01b63e42075e495a60fe4fc34",
+        "url": "https://img.federalregister.gov/EP16MY25.010/EP16MY25.010_original_size.png",
+        "height": 210
+      }
+    }
+  },
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08584?publication_date=2025-05-16",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-16/2025-08584/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 10,
+  "page_views": {
+    "count": 83,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08584.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08584.pdf?1747056612",
+  "publication_date": "2025-05-16",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/16/2025-08584.txt",
+  "regulation_id_number_info": {
+    "1904-AF79": null
+  },
+  "regulation_id_numbers": [
+    "1904-AF79"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "EERE",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EERE-2025-BT-DET-0009",
+    "supporting_documents_count": 0,
+    "docket_id": "EERE-2025-BT-DET-0009",
+    "document_id": "EERE-2025-BT-DET-0009-0001",
+    "regulation_id_number": "1904-AF79",
+    "title": "Energy Conservation Program:  Proposed Withdrawal of Determination of Miscellaneous Refrigeration Products as a Covered Consumer Product",
+    "checked_regulationsdotgov_at": "2025-05-17T18:55:03Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EERE-2025-BT-DET-0009-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20840,
+  "subtype": null,
+  "title": "Energy Conservation Program: Proposed Withdrawal of Determination of Miscellaneous Refrigeration Products as a Covered Consumer Product",
+  "toc_doc": "Withdrawal of Determination of Miscellaneous Refrigeration Products as a Covered Consumer Product",
+  "toc_subject": "Energy Conservation Program",
+  "topics": [
+    "Administrative practice and procedure",
+    "Confidential business information",
+    "Energy conservation",
+    "Household appliances",
+    "Imports",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Reporting and recordkeeping requirements",
+    "Small businesses"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08584"
+}

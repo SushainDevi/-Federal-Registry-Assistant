@@ -1,0 +1,143 @@
+{
+  "abstract": "AMS is proposing to rescind the rule and regulations issued on December 23, 2024, titled, \"National Organic Program; Market Development for Mushrooms and Pet Food.\"",
+  "action": "Notice of proposed rulemaking.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF AGRICULTURE",
+      "name": "Agriculture Department",
+      "id": 12,
+      "url": "https://www.federalregister.gov/agencies/agriculture-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+      "parent_id": null,
+      "slug": "agriculture-department"
+    },
+    {
+      "raw_name": "Agricultural Marketing Service",
+      "name": "Agricultural Marketing Service",
+      "id": 9,
+      "url": "https://www.federalregister.gov/agencies/agricultural-marketing-service",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/9",
+      "parent_id": 12,
+      "slug": "agricultural-marketing-service"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/12/2025-08219.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 205,
+      "title": 7
+    }
+  ],
+  "citation": "90 FR 20133",
+  "comment_url": "http://www.regulations.gov/commenton/AMS-NOP-22-0063-3399",
+  "comments_close_on": "2025-06-11",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments must be received by June 11, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Doc. No. AMS-NOP-22-0063"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "AMS",
+      "documents": [
+        {
+          "comment_count": 14,
+          "comment_start_date": "2025-05-12",
+          "updated_at": "2025-05-18T01:55:34.646-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/AMS-NOP-22-0063-3399",
+          "allow_late_comments": false,
+          "id": "AMS-NOP-22-0063-3399",
+          "comment_end_date": "2025-06-12",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "AMS-NOP-22-0063",
+      "title": "National Organic Program; Market Development"
+    }
+  ],
+  "document_number": "2025-08219",
+  "effective_on": null,
+  "end_page": 20134,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/12/2025-08219.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08219/rescinding-national-organic-program-market-development-for-mushrooms-and-pet-food",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08219?publication_date=2025-05-12",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-12/2025-08219/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 323,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08219.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08219.pdf?1746794717",
+  "publication_date": "2025-05-12",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/12/2025-08219.txt",
+  "regulation_id_number_info": {
+    "0581-AE13": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/0581-AE13/national-organic-program-market-development-for-mushrooms-and-pet-food-ams-nop-22-0063-",
+      "title": "National Organic Program; Market Development for Mushrooms and Pet Food  (AMS-NOP-22-0063)",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=0581-AE13&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "0581-AE13"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0581-AE13/national-organic-program-market-development-for-mushrooms-and-pet-food-ams-nop-22-0063-",
+      "title": "National Organic Program; Market Development for Mushrooms and Pet Food  (AMS-NOP-22-0063)"
+    },
+    "comments_count": 14,
+    "agency_id": "AMS",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=AMS-NOP-22-0063",
+    "supporting_documents_count": 0,
+    "docket_id": "AMS-NOP-22-0063",
+    "document_id": "AMS-NOP-22-0063-3399",
+    "regulation_id_number": "0581-AE13",
+    "title": "National Organic Program; Market Development",
+    "checked_regulationsdotgov_at": "2025-05-21T01:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/AMS-NOP-22-0063-3399",
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20133,
+  "subtype": null,
+  "title": "Rescinding National Organic Program; Market Development for Mushrooms and Pet Food",
+  "toc_doc": "Market Development for Mushrooms and Pet Food",
+  "toc_subject": "Rescinding National Organic Program",
+  "topics": [
+    "Administrative practice and procedure",
+    "Agricultural commodities",
+    "Agriculture",
+    "Animals",
+    "Archives and records",
+    "Fees",
+    "Imports",
+    "Labeling",
+    "Livestock",
+    "Organically produced products",
+    "Plants",
+    "Reporting and recordkeeping requirements",
+    "Seals and insignia",
+    "Soil conservation"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08219"
+}

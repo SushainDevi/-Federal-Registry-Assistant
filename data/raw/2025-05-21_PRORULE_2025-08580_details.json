@@ -1,0 +1,115 @@
+{
+  "abstract": "The Department of Energy (DOE or the Department) is proposing to amend the test procedure for commercial warm air furnaces adopted under the Energy Policy and Conservation Act by rescinding Appendix B, \"Uniform Test Method for Measurement of the Energy Efficiency of Commercial Warm Air Furnaces (Thermal Efficiency Two).\" Upon further evaluation, the Department has tentatively determined that Appendix B is unduly burdensome to conduct, thereby failing to meet the statutory criteria for adoption of a test procedure. Commercial warm air furnaces will continue to be subject to the testing requirements of Appendix A, \"Uniform Test Method for Measurement of the Energy Efficiency of Commercial Warm Air Furnaces (Thermal Efficiency).\" DOE invites public input on its proposal.",
+  "action": "Proposed rule; request for comment.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF ENERGY",
+      "name": "Energy Department",
+      "id": 136,
+      "url": "https://www.federalregister.gov/agencies/energy-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+      "parent_id": null,
+      "slug": "energy-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/16/2025-08580.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 431,
+      "title": 10
+    }
+  ],
+  "citation": "90 FR 20909",
+  "comment_url": "http://www.regulations.gov/commenton/EERE-2025-BT-TP-0035-0001",
+  "comments_close_on": "2025-07-15",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments: Written comments and information are requested and will be accepted on or before July 15, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EERE-2025-BT-TP-0035"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "EERE",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-16",
+          "updated_at": "2025-05-16T12:56:37.212-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EERE-2025-BT-TP-0035-0001",
+          "allow_late_comments": false,
+          "id": "EERE-2025-BT-TP-0035-0001",
+          "comment_end_date": "2025-07-16",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "EERE-2025-BT-TP-0035",
+      "title": "Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces"
+    }
+  ],
+  "document_number": "2025-08580",
+  "effective_on": null,
+  "end_page": 20915,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/16/2025-08580.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08580/energy-conservation-program-test-procedures-for-commercial-warm-air-furnaces",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08580?publication_date=2025-05-16",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-16/2025-08580/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 7,
+  "page_views": {
+    "count": 66,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08580.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08580.pdf?1747056611",
+  "publication_date": "2025-05-16",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/16/2025-08580.txt",
+  "regulation_id_number_info": {
+    "1904-AG06": null
+  },
+  "regulation_id_numbers": [
+    "1904-AG06"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "EERE",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EERE-2025-BT-TP-0035",
+    "supporting_documents_count": 0,
+    "docket_id": "EERE-2025-BT-TP-0035",
+    "document_id": "EERE-2025-BT-TP-0035-0001",
+    "regulation_id_number": "1904-AG06",
+    "title": "Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces",
+    "checked_regulationsdotgov_at": "2025-05-17T22:55:03Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EERE-2025-BT-TP-0035-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20909,
+  "subtype": null,
+  "title": "Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces",
+  "toc_doc": "Test Procedures for Commercial Warm Air Furnaces",
+  "toc_subject": "Energy Conservation Program",
+  "topics": [
+    "Administrative practice and procedure",
+    "Confidential business information",
+    "Energy conservation",
+    "Incorporation by reference",
+    "Reporting and recordkeeping requirements"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08580"
+}

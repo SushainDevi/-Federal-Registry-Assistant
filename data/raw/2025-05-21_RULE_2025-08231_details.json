@@ -1,0 +1,128 @@
+{
+  "abstract": "NMFS, upon request from the U.S. Army Corps of Engineers (USACE), issues regulations to govern the unintentional taking of marine mammals incidental to implementation of the Lower Columbia River Dredged Material Management Plan in Oregon and Washington over 5 years (2027-2032). These regulations, which allow for the issuance of a Letter of Authorization (LOA) for the incidental take of marine mammals during the specified activities and timeframes, prescribe the permissible methods of taking and effecting the least practicable adverse impact on marine mammal species or stocks and their habitat, as well as monitoring and reporting requirements.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF COMMERCE",
+      "name": "Commerce Department",
+      "id": 54,
+      "url": "https://www.federalregister.gov/agencies/commerce-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+      "parent_id": null,
+      "slug": "commerce-department"
+    },
+    {
+      "raw_name": "National Oceanic and Atmospheric Administration",
+      "name": "National Oceanic and Atmospheric Administration",
+      "id": 361,
+      "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+      "parent_id": 54,
+      "slug": "national-oceanic-and-atmospheric-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/12/2025-08231.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 217,
+      "title": 50
+    }
+  ],
+  "citation": "90 FR 20110",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This rule is effective from November 1, 2027 through February 29, 2032.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. 250505-0077"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "NOAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-12",
+          "updated_at": "2025-05-16T10:57:02.190-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/NOAA-NMFS-2024-0123-0008",
+          "allow_late_comments": false,
+          "id": "NOAA-NMFS-2024-0123-0008",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "NOAA-NMFS-2024-0123",
+      "title": "Taking Marine Mammals Incidental to the Lower Columbia River Dredged Material Management Plan, Oregon and Washington"
+    }
+  ],
+  "document_number": "2025-08231",
+  "effective_on": "2027-11-01",
+  "end_page": 20127,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/12/2025-08231.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08231/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08231?publication_date=2025-05-12",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-12/2025-08231/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 18,
+  "page_views": {
+    "count": 85,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08231.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08231.pdf?1746794719",
+  "publication_date": "2025-05-12",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/12/2025-08231.txt",
+  "regulation_id_number_info": {
+    "0648-BN12": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/0648-BN12/taking-marine-mammals-incidental-to-the-lower-columbia-river-dredged-material-management-plan-dmmp-o",
+      "title": "Taking Marine Mammals Incidental to the Lower Columbia River Dredged Material Management Plan (DMMP), Oregon and Washington",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=0648-BN12&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "0648-BN12"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/0648-BN12/taking-marine-mammals-incidental-to-the-lower-columbia-river-dredged-material-management-plan-dmmp-o",
+      "title": "Taking Marine Mammals Incidental to the Lower Columbia River Dredged Material Management Plan (DMMP), Oregon and Washington"
+    },
+    "comments_count": 0,
+    "agency_id": "NOAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NOAA-NMFS-2024-0123",
+    "supporting_documents_count": 0,
+    "docket_id": "NOAA-NMFS-2024-0123",
+    "document_id": "NOAA-NMFS-2024-0123-0008",
+    "regulation_id_number": "0648-BN12",
+    "title": "Taking Marine Mammals Incidental to the Lower Columbia River Dredged Material Management Plan, Oregon and Washington",
+    "checked_regulationsdotgov_at": "2025-05-21T02:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20110,
+  "subtype": null,
+  "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Lower Columbia River Dredged Material Management Plan, Oregon and Washington",
+  "toc_doc": "Lower Columbia River Dredged Material Management Plan, Oregon and Washington",
+  "toc_subject": "Taking or Importing of Marine Mammals",
+  "topics": [],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08231"
+}

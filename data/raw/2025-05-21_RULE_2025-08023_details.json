@@ -1,0 +1,135 @@
+{
+  "abstract": "This document amends the Federal Acquisition Regulation (FAR) to make needed editorial changes.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
+      "name": "Management and Budget Office",
+      "id": 280,
+      "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
+      "parent_id": null,
+      "slug": "management-and-budget-office"
+    },
+    {
+      "raw_name": "Office of Federal Procurement Policy",
+      "name": "Federal Procurement Policy Office",
+      "id": 184,
+      "url": "https://www.federalregister.gov/agencies/federal-procurement-policy-office",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/184",
+      "parent_id": 280,
+      "slug": "federal-procurement-policy-office"
+    },
+    {
+      "raw_name": "DEPARTMENT OF DEFENSE",
+      "name": "Defense Department",
+      "id": 103,
+      "url": "https://www.federalregister.gov/agencies/defense-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
+      "parent_id": null,
+      "slug": "defense-department"
+    },
+    {
+      "raw_name": "GENERAL SERVICES ADMINISTRATION",
+      "name": "General Services Administration",
+      "id": 210,
+      "url": "https://www.federalregister.gov/agencies/general-services-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
+      "parent_id": null,
+      "slug": "general-services-administration"
+    },
+    {
+      "raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "name": "National Aeronautics and Space Administration",
+      "id": 301,
+      "url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/301",
+      "parent_id": null,
+      "slug": "national-aeronautics-and-space-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/12/2025-08023.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 1,
+      "title": 48
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 17,
+      "title": 48
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 33,
+      "title": 48
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 48
+    }
+  ],
+  "citation": "90 FR 20223",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective June 11, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "FAC 2025-04",
+    "Item II",
+    "Docket No. FAR-2025-0052",
+    "Sequence No. 1"
+  ],
+  "dockets": [],
+  "document_number": "2025-08023",
+  "effective_on": "2025-06-11",
+  "end_page": 20224,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/12/2025-08023.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08023/federal-acquisition-regulation-technical-amendments",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08023?publication_date=2025-05-12",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-12/2025-08023/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 742,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08023.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08023.pdf?1746794716",
+  "publication_date": "2025-05-12",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/12/2025-08023.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-10T08:08:52Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20223,
+  "subtype": null,
+  "title": "Federal Acquisition Regulation; Technical Amendments",
+  "toc_doc": "Technical Amendments",
+  "toc_subject": "Federal Acquisition Regulation",
+  "topics": [
+    "Government procurement"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08023"
+}

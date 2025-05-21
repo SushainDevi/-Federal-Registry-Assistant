@@ -1,0 +1,202 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is proposing to approve the regional haze state implementation plan (SIP) submission submitted by the State of South Dakota on July 29, 2022 (South Dakota's 2022 SIP submission), under the Clean Air Act (CAA) and the EPA's Regional Haze Rule (RHR) for the program's second implementation period. South Dakota's 2022 SIP submission addresses the requirement that states revise their long-term strategies every implementation period to make reasonable progress towards the national goal of preventing any future, and remedying any existing, anthropogenic impairment of visibility, including regional haze, in mandatory Class I Federal areas. South Dakota's 2022 SIP submission also addresses other applicable requirements for the second implementation period of the regional haze program. The EPA is taking this action pursuant to the CAA.",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/14/2025-08072.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 20425",
+  "comment_url": "http://www.regulations.gov/commenton/EPA-R08-OAR-2024-0609-0001",
+  "comments_close_on": "2025-06-13",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Written comments must be received on or before June 13, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R08-OAR-2024-0609",
+    "FRL-12596-01-R8"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "WRAP_Threshold_Analysis",
+          "document_id": "EPA-R08-OAR-2024-0609-0017"
+        },
+        {
+          "title": "sncrcostmanualchapter7thedition20162017revisions",
+          "document_id": "EPA-R08-OAR-2024-0609-0016"
+        },
+        {
+          "title": "sncrcontrolcostmanual_costcalculationspreadsheetvf_march_2021",
+          "document_id": "EPA-R08-OAR-2024-0609-0015"
+        },
+        {
+          "title": "SD WRAP TSS Charts",
+          "document_id": "EPA-R08-OAR-2024-0609-0014"
+        },
+        {
+          "title": "scrcostmanualchapter7thedition_2016revisions2017",
+          "document_id": "EPA-R08-OAR-2024-0609-0013"
+        },
+        {
+          "title": "Response to Comments 2017 RHR_January 10 2017",
+          "document_id": "EPA-R08-OAR-2024-0609-0012"
+        },
+        {
+          "title": "Oldcastle TSD",
+          "document_id": "EPA-R08-OAR-2024-0609-0011"
+        },
+        {
+          "title": "mcs2022-nitrogen",
+          "document_id": "EPA-R08-OAR-2024-0609-0010"
+        },
+        {
+          "title": "mcs-2017-nitro",
+          "document_id": "EPA-R08-OAR-2024-0609-0009"
+        },
+        {
+          "title": "Electricity Cost EIA",
+          "document_id": "EPA-R08-OAR-2024-0609-0008"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-14",
+          "updated_at": "2025-05-14T09:56:22.823-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R08-OAR-2024-0609-0001",
+          "allow_late_comments": false,
+          "id": "EPA-R08-OAR-2024-0609-0001",
+          "comment_end_date": "2025-06-14",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 16,
+      "id": "EPA-R08-OAR-2024-0609",
+      "title": "South Dakota Regional Haze Round 2 SIP"
+    }
+  ],
+  "document_number": "2025-08072",
+  "effective_on": null,
+  "end_page": 20439,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/14/2025-08072.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08072/air-plan-approval-south-dakota-regional-haze-plan-for-the-second-implementation-period",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08072?publication_date=2025-05-14",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-14/2025-08072/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 15,
+  "page_views": {
+    "count": 174,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08072.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08072.pdf?1747140308",
+  "publication_date": "2025-05-14",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/14/2025-08072.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "WRAP_Threshold_Analysis",
+        "document_id": "EPA-R08-OAR-2024-0609-0017"
+      },
+      {
+        "title": "sncrcostmanualchapter7thedition20162017revisions",
+        "document_id": "EPA-R08-OAR-2024-0609-0016"
+      },
+      {
+        "title": "sncrcontrolcostmanual_costcalculationspreadsheetvf_march_2021",
+        "document_id": "EPA-R08-OAR-2024-0609-0015"
+      },
+      {
+        "title": "SD WRAP TSS Charts",
+        "document_id": "EPA-R08-OAR-2024-0609-0014"
+      },
+      {
+        "title": "scrcostmanualchapter7thedition_2016revisions2017",
+        "document_id": "EPA-R08-OAR-2024-0609-0013"
+      },
+      {
+        "title": "Response to Comments 2017 RHR_January 10 2017",
+        "document_id": "EPA-R08-OAR-2024-0609-0012"
+      },
+      {
+        "title": "Oldcastle TSD",
+        "document_id": "EPA-R08-OAR-2024-0609-0011"
+      },
+      {
+        "title": "mcs2022-nitrogen",
+        "document_id": "EPA-R08-OAR-2024-0609-0010"
+      },
+      {
+        "title": "mcs-2017-nitro",
+        "document_id": "EPA-R08-OAR-2024-0609-0009"
+      },
+      {
+        "title": "Electricity Cost EIA",
+        "document_id": "EPA-R08-OAR-2024-0609-0008"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R08-OAR-2024-0609",
+    "supporting_documents_count": 16,
+    "docket_id": "EPA-R08-OAR-2024-0609",
+    "document_id": "EPA-R08-OAR-2024-0609-0001",
+    "regulation_id_number": null,
+    "title": "South Dakota Regional Haze Round 2 SIP",
+    "checked_regulationsdotgov_at": "2025-05-15T16:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EPA-R08-OAR-2024-0609-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20425,
+  "subtype": null,
+  "title": "Air Plan Approval; South Dakota; Regional Haze Plan for the Second Implementation Period",
+  "toc_doc": "South Dakota; Regional Haze Plan for the Second Implementation Period",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Carbon monoxide",
+    "Environmental protection",
+    "Greenhouse gases",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Lead",
+    "Nitrogen dioxide",
+    "Ozone",
+    "Particulate matter",
+    "Reporting and recordkeeping requirements",
+    "Sulfur oxides",
+    "Volatile organic compounds"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08072"
+}

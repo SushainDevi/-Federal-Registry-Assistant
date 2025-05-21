@@ -1,0 +1,122 @@
+{
+  "abstract": "This document amends the U.S. Customs and Border Protection (CBP) regulations to reflect the imposition of emergency import restrictions on categories of archaeological and ethnological material of Lebanon, pursuant to a determination made by the United States Department of State under the terms of the Convention on Cultural Property Implementation Act. The emergency import restrictions will be in effect until January 23, 2029, unless extended. This document contains the Designated List of Archaeological and Ethnological Material of Lebanon that describes the types of objects or categories of archaeological and ethnological material to which the import restrictions apply.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "name": "Homeland Security Department",
+      "id": 227,
+      "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+      "parent_id": null,
+      "slug": "homeland-security-department"
+    },
+    {
+      "raw_name": "U.S. Customs and Border Protection",
+      "name": "U.S. Customs and Border Protection",
+      "id": 501,
+      "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
+      "parent_id": 227,
+      "slug": "u-s-customs-and-border-protection"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/14/2025-08615.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 12,
+      "title": 19
+    }
+  ],
+  "citation": "90 FR 20384",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective on May 13, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "CBP Dec. 25-05"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "USCBP",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-05-14T09:02:55.859-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/USCBP-2025-0022-0001",
+          "allow_late_comments": false,
+          "id": "USCBP-2025-0022-0001",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "USCBP-2025-0022",
+      "title": "Emergency Import Restrictions on Categories of Archaeological and Ethnological Material of Lebanon"
+    }
+  ],
+  "document_number": "2025-08615",
+  "effective_on": "2025-05-13",
+  "end_page": 20393,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/14/2025-08615.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08615/emergency-import-restrictions-on-categories-of-archaeological-and-ethnological-material-of-lebanon",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08615?publication_date=2025-05-14",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-14/2025-08615/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 10,
+  "page_views": {
+    "count": 129,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08615.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08615.pdf?1747140325",
+  "publication_date": "2025-05-14",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/14/2025-08615.txt",
+  "regulation_id_number_info": {
+    "1685-AA32": null
+  },
+  "regulation_id_numbers": [
+    "1685-AA32"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "USCBP",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=USCBP-2025-0022",
+    "supporting_documents_count": 0,
+    "docket_id": "USCBP-2025-0022",
+    "document_id": "USCBP-2025-0022-0001",
+    "regulation_id_number": "1685-AA32",
+    "title": "Emergency Import Restrictions on Categories of Archaeological and Ethnological Material of Lebanon",
+    "checked_regulationsdotgov_at": "2025-05-15T15:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20384,
+  "subtype": null,
+  "title": "Emergency Import Restrictions on Categories of Archaeological and Ethnological Material of Lebanon",
+  "toc_doc": "Archaeological and Ethnological Material of Lebanon",
+  "toc_subject": "Import Restrictions",
+  "topics": [
+    "Customs duties and inspection",
+    "Imports",
+    "Reporting and recordkeeping requirements"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08615"
+}

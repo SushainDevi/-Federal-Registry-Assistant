@@ -1,0 +1,148 @@
+{
+  "abstract": "The Food and Drug Administration (FDA) is announcing the revocation of the Emergency Use Authorizations (EUAs) (the Authorizations) issued to Fresenius Medical Care North America (Fresenius) for multiFiltrate PRO System and multiBic/multiPlus solutions (EUA 048), and to Baxter Healthcare Corp. (Baxter) for REGIOCIT (EUA 068). FDA revoked the Authorizations on January 16, 2025, under the Federal Food, Drug, and Cosmetic Act (FD&C Act). The revocations, including an explanation of the reasons for the revocations, are reprinted in this document.",
+  "action": "Notice.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "name": "Health and Human Services Department",
+      "id": 221,
+      "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+      "parent_id": null,
+      "slug": "health-and-human-services-department"
+    },
+    {
+      "raw_name": "Food and Drug Administration",
+      "name": "Food and Drug Administration",
+      "id": 199,
+      "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+      "parent_id": 221,
+      "slug": "food-and-drug-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-09065.html",
+  "cfr_references": [],
+  "citation": "90 FR 21782",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "These Authorizations are revoked as of January 16, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FDA-2025-N-0874"
+  ],
+  "dockets": [],
+  "document_number": "2025-09065",
+  "effective_on": null,
+  "end_page": 21784,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-09065.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09065/revocation-of-emergency-use-of-a-drug-product-during-the-covid-19-pandemic-availability",
+  "images": {
+    "EN21MY25.006": {
+      "large": "https://img.federalregister.gov/EN21MY25.006/EN21MY25.006_large.png",
+      "medium": "https://img.federalregister.gov/EN21MY25.006/EN21MY25.006_medium.png",
+      "original_size": "https://img.federalregister.gov/EN21MY25.006/EN21MY25.006_original_size.png"
+    },
+    "EN21MY25.005": {
+      "large": "https://img.federalregister.gov/EN21MY25.005/EN21MY25.005_large.png",
+      "medium": "https://img.federalregister.gov/EN21MY25.005/EN21MY25.005_medium.png",
+      "original_size": "https://img.federalregister.gov/EN21MY25.005/EN21MY25.005_original_size.png"
+    }
+  },
+  "images_metadata": {
+    "EN21MY25.006": {
+      "large": {
+        "identifier": "EN21MY25.006",
+        "content_type": "image/png",
+        "size": 98567,
+        "width": 788,
+        "sha": "aac5a39502182b896830d53d7427e83e",
+        "url": "https://img.federalregister.gov/EN21MY25.006/EN21MY25.006_large.png",
+        "height": 955
+      },
+      "medium": {
+        "identifier": "EN21MY25.006",
+        "content_type": "image/png",
+        "size": 25254,
+        "width": 371,
+        "sha": "3348902fa23681bf6446f98ba7b37823",
+        "url": "https://img.federalregister.gov/EN21MY25.006/EN21MY25.006_medium.png",
+        "height": 449
+      },
+      "original_size": {
+        "identifier": "EN21MY25.006",
+        "content_type": "image/png",
+        "size": 64079,
+        "width": 1398,
+        "sha": "c9c753c526c3f3e6df7d9e41c3a62484",
+        "url": "https://img.federalregister.gov/EN21MY25.006/EN21MY25.006_original_size.png",
+        "height": 1694
+      }
+    },
+    "EN21MY25.005": {
+      "large": {
+        "identifier": "EN21MY25.005",
+        "content_type": "image/png",
+        "size": 134987,
+        "width": 821,
+        "sha": "6532c408729dca450849c597dccc58c6",
+        "url": "https://img.federalregister.gov/EN21MY25.005/EN21MY25.005_large.png",
+        "height": 1197
+      },
+      "medium": {
+        "identifier": "EN21MY25.005",
+        "content_type": "image/png",
+        "size": 38195,
+        "width": 386,
+        "sha": "bcceda6c748e0b86be503f17b1cef4e6",
+        "url": "https://img.federalregister.gov/EN21MY25.005/EN21MY25.005_medium.png",
+        "height": 563
+      },
+      "original_size": {
+        "identifier": "EN21MY25.005",
+        "content_type": "image/png",
+        "size": 88495,
+        "width": 1459,
+        "sha": "5ca1169a4cd169003f11de5da8cebac6",
+        "url": "https://img.federalregister.gov/EN21MY25.005/EN21MY25.005_original_size.png",
+        "height": 2128
+      }
+    }
+  },
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09065?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-09065/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 8,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09065.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09065.pdf?1747745113",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-09065.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:18:53Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21782,
+  "subtype": null,
+  "title": "Revocation of Emergency Use of a Drug Product During the COVID-19 Pandemic; Availability",
+  "toc_doc": "Drug Product during the COVID-19 Pandemic; Revocation",
+  "toc_subject": "Emergency Use Authorization",
+  "topics": [],
+  "type": "Notice",
+  "volume": 90,
+  "id": "fr-2025-09065"
+}

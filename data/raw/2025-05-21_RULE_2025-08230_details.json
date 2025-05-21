@@ -1,0 +1,133 @@
+{
+  "abstract": "This action amends Jet Route J-538 and Very High Frequency Omnidirectional Range (VOR) Federal Airway V-129; establishes Canadian Area Navigation (RNAV) Routes Q-828, Q-945, Q-971, and T-797 within United States (U.S.) airspace; and revokes Jet Routes J-483 and J-562. The FAA is taking this action due to NAV CANADA's decommissioning of the Sioux Narrows (VBI), Ontario (ON), Canada, Very High Frequency Omnidirectional Range (VOR)/Distance Measuring Equipment (VOR/DME) navigational aid (NAVAID), and the planned decommissioning of the Lumsden (VLN), Saskatchewan (SK), Canada, VOR/Tactical Air Navigation (VORTAC) and Brandon (YBR), Manitoba (MB), Canada, VORTAC NAVAIDs. This action supports NAV CANADA's NAVAID Modernization Program.",
+  "action": "Final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/12/2025-08230.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 71,
+      "title": 14
+    }
+  ],
+  "citation": "90 FR 20094",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Effective date 0901 UTC, August 7, 2025. The Director of the Federal Register approves this incorporation by reference action under 1 CFR part 51, subject to the annual revision of FAA Order JO 7400.11 and publication of conforming amendments.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FAA-2024-2573",
+    "Airspace Docket No. 23-AGL-20"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "FAA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-12",
+          "updated_at": "2025-05-12T08:56:01.852-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FAA-2024-2573-0002",
+          "allow_late_comments": false,
+          "id": "FAA-2024-2573-0002",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "FAA-2024-2573",
+      "title": "Amendment of Jet Route J-538 and VOR Federal Airways V-129; Establishment of Canadian RNAV Routes Q-828, Q-945, Q-971, and T-797; and Revocation of Jet Routes J-483 and J-562; Northcentral United States (23-AGL-20)"
+    }
+  ],
+  "document_number": "2025-08230",
+  "effective_on": "2025-08-07",
+  "end_page": 20097,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/12/2025-08230.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08230/amendment-of-jet-route-j-538-and-vor-federal-airway-v-129-establishment-of-canadian-rnav-routes",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08230?publication_date=2025-05-12",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-12/2025-08230/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 24,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08230.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08230.pdf?1746794719",
+  "publication_date": "2025-05-12",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/12/2025-08230.txt",
+  "regulation_id_number_info": {
+    "2120-AA66": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA66/airspace-actions",
+      "title": "Airspace Actions",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=2120-AA66&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "2120-AA66"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/2120-AA66/airspace-actions",
+      "title": "Airspace Actions"
+    },
+    "comments_count": 0,
+    "agency_id": "FAA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FAA-2024-2573",
+    "supporting_documents_count": 0,
+    "docket_id": "FAA-2024-2573",
+    "document_id": "FAA-2024-2573-0002",
+    "regulation_id_number": "2120-AA66",
+    "title": "Amendment of Jet Route J-538 and VOR Federal Airways V-129; Establishment of Canadian RNAV Routes Q-828, Q-945, Q-971, and T-797; and Revocation of Jet Routes J-483 and J-562; Northcentral United States (23-AGL-20)",
+    "checked_regulationsdotgov_at": "2025-05-21T10:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20094,
+  "subtype": null,
+  "title": "Amendment of Jet Route J-538 and VOR Federal Airway V-129; Establishment of Canadian RNAV Routes Q-828, Q-945, Q-971, and T-797; and Revocation of Jet Routes J-483 and J-562; Northcentral United States",
+  "toc_doc": "Northcentral United States",
+  "toc_subject": "Airspace Designations and Reporting Points",
+  "topics": [
+    "Airspace",
+    "Incorporation by reference",
+    "Navigation (air)"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08230"
+}

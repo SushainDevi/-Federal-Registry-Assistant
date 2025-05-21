@@ -1,0 +1,242 @@
+{
+  "abstract": null,
+  "action": null,
+  "agencies": [
+    {
+      "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+      "name": "Securities and Exchange Commission",
+      "id": 466,
+      "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+      "parent_id": null,
+      "slug": "securities-and-exchange-commission"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-09071.html",
+  "cfr_references": [],
+  "citation": "90 FR 21805",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": null,
+  "disposition_notes": null,
+  "docket_ids": [
+    "Release No. 34-103048",
+    "File No. SR-ISE-2025-15"
+  ],
+  "dockets": [],
+  "document_number": "2025-09071",
+  "effective_on": null,
+  "end_page": 21814,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-09071.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09071/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the",
+  "images": {
+    "EN21MY25.000": {
+      "large": "https://img.federalregister.gov/EN21MY25.000/EN21MY25.000_large.png",
+      "medium": "https://img.federalregister.gov/EN21MY25.000/EN21MY25.000_medium.png",
+      "original_size": "https://img.federalregister.gov/EN21MY25.000/EN21MY25.000_original_size.png"
+    },
+    "EN21MY25.002": {
+      "large": "https://img.federalregister.gov/EN21MY25.002/EN21MY25.002_large.png",
+      "medium": "https://img.federalregister.gov/EN21MY25.002/EN21MY25.002_medium.png",
+      "original_size": "https://img.federalregister.gov/EN21MY25.002/EN21MY25.002_original_size.png"
+    },
+    "EN21MY25.001": {
+      "large": "https://img.federalregister.gov/EN21MY25.001/EN21MY25.001_large.png",
+      "medium": "https://img.federalregister.gov/EN21MY25.001/EN21MY25.001_medium.png",
+      "original_size": "https://img.federalregister.gov/EN21MY25.001/EN21MY25.001_original_size.png"
+    },
+    "EN21MY25.004": {
+      "large": "https://img.federalregister.gov/EN21MY25.004/EN21MY25.004_large.png",
+      "medium": "https://img.federalregister.gov/EN21MY25.004/EN21MY25.004_medium.png",
+      "original_size": "https://img.federalregister.gov/EN21MY25.004/EN21MY25.004_original_size.png"
+    },
+    "EN21MY25.003": {
+      "large": "https://img.federalregister.gov/EN21MY25.003/EN21MY25.003_large.png",
+      "medium": "https://img.federalregister.gov/EN21MY25.003/EN21MY25.003_medium.png",
+      "original_size": "https://img.federalregister.gov/EN21MY25.003/EN21MY25.003_original_size.png"
+    }
+  },
+  "images_metadata": {
+    "EN21MY25.000": {
+      "large": {
+        "identifier": "EN21MY25.000",
+        "content_type": "image/png",
+        "size": 69067,
+        "width": 585,
+        "sha": "36f2a6222f79513c00819e9875dddd9b",
+        "url": "https://img.federalregister.gov/EN21MY25.000/EN21MY25.000_large.png",
+        "height": 675
+      },
+      "medium": {
+        "identifier": "EN21MY25.000",
+        "content_type": "image/png",
+        "size": 8153,
+        "width": 276,
+        "sha": "3ee383cf83b0598ca91d02c3a2c64f52",
+        "url": "https://img.federalregister.gov/EN21MY25.000/EN21MY25.000_medium.png",
+        "height": 318
+      },
+      "original_size": {
+        "identifier": "EN21MY25.000",
+        "content_type": "image/png",
+        "size": 88819,
+        "width": 1040,
+        "sha": "bc94db590ca25270304f8d670059ed75",
+        "url": "https://img.federalregister.gov/EN21MY25.000/EN21MY25.000_original_size.png",
+        "height": 1200
+      }
+    },
+    "EN21MY25.002": {
+      "large": {
+        "identifier": "EN21MY25.002",
+        "content_type": "image/png",
+        "size": 48802,
+        "width": 823,
+        "sha": "f8ed0c9a301e781c73276846ebc52b2c",
+        "url": "https://img.federalregister.gov/EN21MY25.002/EN21MY25.002_large.png",
+        "height": 534
+      },
+      "medium": {
+        "identifier": "EN21MY25.002",
+        "content_type": "image/png",
+        "size": 14566,
+        "width": 416,
+        "sha": "3371e68a18df2430758211cd39a10fe7",
+        "url": "https://img.federalregister.gov/EN21MY25.002/EN21MY25.002_medium.png",
+        "height": 270
+      },
+      "original_size": {
+        "identifier": "EN21MY25.002",
+        "content_type": "image/png",
+        "size": 71080,
+        "width": 1572,
+        "sha": "49601ef4fb7d7afc989565655dfef3d7",
+        "url": "https://img.federalregister.gov/EN21MY25.002/EN21MY25.002_original_size.png",
+        "height": 1020
+      }
+    },
+    "EN21MY25.001": {
+      "large": {
+        "identifier": "EN21MY25.001",
+        "content_type": "image/png",
+        "size": 45354,
+        "width": 556,
+        "sha": "95fbd017952d5f8c0597eb80a338658b",
+        "url": "https://img.federalregister.gov/EN21MY25.001/EN21MY25.001_large.png",
+        "height": 593
+      },
+      "medium": {
+        "identifier": "EN21MY25.001",
+        "content_type": "image/png",
+        "size": 3706,
+        "width": 262,
+        "sha": "c6836fabcc20e00ef60f97022cf03050",
+        "url": "https://img.federalregister.gov/EN21MY25.001/EN21MY25.001_medium.png",
+        "height": 279
+      },
+      "original_size": {
+        "identifier": "EN21MY25.001",
+        "content_type": "image/png",
+        "size": 74090,
+        "width": 989,
+        "sha": "c167b686f5f915b84326705deb042a23",
+        "url": "https://img.federalregister.gov/EN21MY25.001/EN21MY25.001_original_size.png",
+        "height": 1055
+      }
+    },
+    "EN21MY25.004": {
+      "large": {
+        "identifier": "EN21MY25.004",
+        "content_type": "image/png",
+        "size": 49556,
+        "width": 793,
+        "sha": "e8d7f53aade5512fe47678fdbdaaacd5",
+        "url": "https://img.federalregister.gov/EN21MY25.004/EN21MY25.004_large.png",
+        "height": 586
+      },
+      "medium": {
+        "identifier": "EN21MY25.004",
+        "content_type": "image/png",
+        "size": 14977,
+        "width": 373,
+        "sha": "ae0351826a188b694ffeff7dc81d774a",
+        "url": "https://img.federalregister.gov/EN21MY25.004/EN21MY25.004_medium.png",
+        "height": 276
+      },
+      "original_size": {
+        "identifier": "EN21MY25.004",
+        "content_type": "image/png",
+        "size": 31890,
+        "width": 1409,
+        "sha": "1886d06bef962749942b9daa318b6a69",
+        "url": "https://img.federalregister.gov/EN21MY25.004/EN21MY25.004_original_size.png",
+        "height": 1042
+      }
+    },
+    "EN21MY25.003": {
+      "large": {
+        "identifier": "EN21MY25.003",
+        "content_type": "image/png",
+        "size": 79207,
+        "width": 820,
+        "sha": "eb1c70d335aa9a66f7d96caf2a641d86",
+        "url": "https://img.federalregister.gov/EN21MY25.003/EN21MY25.003_large.png",
+        "height": 532
+      },
+      "medium": {
+        "identifier": "EN21MY25.003",
+        "content_type": "image/png",
+        "size": 18356,
+        "width": 402,
+        "sha": "5506314f3d428024b9169712bece85bc",
+        "url": "https://img.federalregister.gov/EN21MY25.003/EN21MY25.003_medium.png",
+        "height": 261
+      },
+      "original_size": {
+        "identifier": "EN21MY25.003",
+        "content_type": "image/png",
+        "size": 101261,
+        "width": 1519,
+        "sha": "e03b39acc64066c1aa86110bc7812231",
+        "url": "https://img.federalregister.gov/EN21MY25.003/EN21MY25.003_original_size.png",
+        "height": 985
+      }
+    }
+  },
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09071?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-09071/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 10,
+  "page_views": {
+    "count": 3,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09071.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09071.pdf?1747745114",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-09071.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:35:56Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21805,
+  "subtype": null,
+  "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Short Term Option Series Program To List Qualifying Securities",
+  "toc_doc": "Nasdaq ISE, LLC",
+  "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes",
+  "topics": [],
+  "type": "Notice",
+  "volume": 90,
+  "id": "fr-2025-09071"
+}

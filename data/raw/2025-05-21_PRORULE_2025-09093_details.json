@@ -1,0 +1,76 @@
+{
+  "abstract": "The Secretary proposes three initial and urgent priorities and related definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use an entire priority for a grant program or a particular competition or use one or more of the priority's component parts. These priorities and definitions are intended to replace the Secretary's supplemental priorities published in the Federal Register on December 10, 2021 (86 FR 70612) and all other agency-wide supplemental priorities published prior to January 20, 2025. However, those priorities remain in effect for notices inviting applications (NIAs) published before the U.S. Department of Education (Department) finalizes the proposed priorities in this document.",
+  "action": "Proposed priorities and definitions.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF EDUCATION",
+      "name": "Education Department",
+      "id": 126,
+      "url": "https://www.federalregister.gov/agencies/education-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+      "parent_id": null,
+      "slug": "education-department"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/21/2025-09093.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 75,
+      "title": 34
+    }
+  ],
+  "citation": "90 FR 21710",
+  "comment_url": null,
+  "comments_close_on": "2025-06-20",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "We must receive your comments on or before June 20, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket ID ED-2025-OS-0020"
+  ],
+  "dockets": [],
+  "document_number": "2025-09093",
+  "effective_on": null,
+  "end_page": 21715,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/21/2025-09093.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09093/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-09093?publication_date=2025-05-21",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-21/2025-09093/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 6,
+  "page_views": {
+    "count": 28,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09093.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09093.pdf?1747745116",
+  "publication_date": "2025-05-21",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/21/2025-09093.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "checked_regulationsdotgov_at": "2025-05-21T08:54:32Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21710,
+  "subtype": null,
+  "title": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States",
+  "toc_doc": "Evidence-Based Literacy, Education Choice, and Returning Education to the States",
+  "toc_subject": "Priorities, Requirements, Definitions, and Selection Criteria",
+  "topics": [],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-09093"
+}

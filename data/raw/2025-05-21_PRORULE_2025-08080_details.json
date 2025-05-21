@@ -1,0 +1,162 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is proposing to approve Louisiana's State Implementation Plan (SIP) revision submitted to EPA on April 2, 2025, for the Evangeline Parish 2010 1-hour sulfur dioxide (SO<INF>2</INF>) primary national ambient air quality standard (NAAQS) nonattainment area. EPA is proposing approval of the following Clean Air Act (CAA) SIP elements: The attainment demonstration for the SO<INF>2</INF> NAAQS, which includes an Agreed Order on Consent (AOC) for the Cabot Corporation's Ville Platte Plant (Cabot) facility; the reasonable further progress (RFP) plan; the reasonably available control measures (RACM) and reasonably available control technology (RACT) demonstration; the emission inventories; and the contingency measures. The State has demonstrated that its current Nonattainment New Source Review (NNSR) program covers this NAAQS; therefore, no revision to the SIP is required for the NNSR element.",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/08/2025-08080.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 19437",
+  "comment_url": "http://www.regulations.gov/commenton/EPA-R06-OAR-2025-0173-0001",
+  "comments_close_on": "2025-06-09",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments must be received on or before June 9, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R06-OAR-2025-0173",
+    "FRL-12753-01-R6"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "LA071.07 Modeling Background Concentration Calculation Spreadsheet",
+          "document_id": "EPA-R06-OAR-2025-0173-0007"
+        },
+        {
+          "title": "LA071.06 EPA 2017 TSD for Louisiana Intended Round 3 Area Designations",
+          "document_id": "EPA-R06-OAR-2025-0173-0006"
+        },
+        {
+          "title": "LA071.05 EPA 2016 SO2 NAAQS Designations Technical Assistance Document",
+          "document_id": "EPA-R06-OAR-2025-0173-0005"
+        },
+        {
+          "title": "LA071.04 EPA 2014 Guidance for 1-Hour SO2 NAA SIP Submissions",
+          "document_id": "EPA-R06-OAR-2025-0173-0004"
+        },
+        {
+          "title": "LA071.03 Louisiana Evangeline Parish SO2 SIP and Attainment Demonstration submitted to EPA via cover letter dated March 21, 2025, EPA received April 2, 2025 (LA-155), 328 pages 28 MB f4b",
+          "document_id": "EPA-R06-OAR-2025-0173-0003"
+        },
+        {
+          "title": "LA071.02 EPA Technical Support Document for Louisiana’s SO2 Attainment Demonstration for Evangeline Parish",
+          "document_id": "EPA-R06-OAR-2025-0173-0002"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-08",
+          "updated_at": "2025-05-08T11:56:43.420-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R06-OAR-2025-0173-0001",
+          "allow_late_comments": false,
+          "id": "EPA-R06-OAR-2025-0173-0001",
+          "comment_end_date": "2025-06-10",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 6,
+      "id": "EPA-R06-OAR-2025-0173",
+      "title": "LA071 Louisiana Evangeline Parish SO2 SIP and Attainment Demonstration submitted to EPA via cover letter dated March 21, 2025, EPA received April 2, 2025 (LA-155)"
+    }
+  ],
+  "document_number": "2025-08080",
+  "effective_on": null,
+  "end_page": 19447,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/08/2025-08080.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08080/air-plan-approval-louisiana-nonattainment-plan-for-the-evangeline-parish-2010-sulfur-dioxide-primary",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08080?publication_date=2025-05-08",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-08/2025-08080/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 11,
+  "page_views": {
+    "count": 90,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-08080.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08080.pdf?1746621937",
+  "publication_date": "2025-05-08",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/08/2025-08080.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "LA071.07 Modeling Background Concentration Calculation Spreadsheet",
+        "document_id": "EPA-R06-OAR-2025-0173-0007"
+      },
+      {
+        "title": "LA071.06 EPA 2017 TSD for Louisiana Intended Round 3 Area Designations",
+        "document_id": "EPA-R06-OAR-2025-0173-0006"
+      },
+      {
+        "title": "LA071.05 EPA 2016 SO2 NAAQS Designations Technical Assistance Document",
+        "document_id": "EPA-R06-OAR-2025-0173-0005"
+      },
+      {
+        "title": "LA071.04 EPA 2014 Guidance for 1-Hour SO2 NAA SIP Submissions",
+        "document_id": "EPA-R06-OAR-2025-0173-0004"
+      },
+      {
+        "title": "LA071.03 Louisiana Evangeline Parish SO2 SIP and Attainment Demonstration submitted to EPA via cover letter dated March 21, 2025, EPA received April 2, 2025 (LA-155), 328 pages 28 MB f4b",
+        "document_id": "EPA-R06-OAR-2025-0173-0003"
+      },
+      {
+        "title": "LA071.02 EPA Technical Support Document for Louisiana’s SO2 Attainment Demonstration for Evangeline Parish",
+        "document_id": "EPA-R06-OAR-2025-0173-0002"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R06-OAR-2025-0173",
+    "supporting_documents_count": 6,
+    "docket_id": "EPA-R06-OAR-2025-0173",
+    "document_id": "EPA-R06-OAR-2025-0173-0001",
+    "regulation_id_number": null,
+    "title": "LA071 Louisiana Evangeline Parish SO2 SIP and Attainment Demonstration submitted to EPA via cover letter dated March 21, 2025, EPA received April 2, 2025 (LA-155)",
+    "checked_regulationsdotgov_at": "2025-05-09T18:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EPA-R06-OAR-2025-0173-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 19437,
+  "subtype": null,
+  "title": "Air Plan Approval; Louisiana; Nonattainment Plan for the Evangeline Parish 2010 Sulfur Dioxide Primary National Ambient Air Quality Standard Nonattainment Area",
+  "toc_doc": "Louisiana; Nonattainment Plan for the Evangeline Parish 2010 Sulfur Dioxide Primary National Ambient Air Quality Standard Nonattainment Area",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Environmental protection",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Sulfur oxides"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08080"
+}

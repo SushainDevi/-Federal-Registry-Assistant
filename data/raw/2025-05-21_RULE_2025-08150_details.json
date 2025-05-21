@@ -1,0 +1,118 @@
+{
+  "abstract": "The Food and Drug Administration (FDA, Agency, or we) is classifying the device to detect and identify microbial nucleic acids by fluorescence in situ hybridization (FISH) in clinical specimens into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for the device to detect and identify microbial nucleic acids by FISH in clinical specimens classification. We are taking this action because we have determined that classifying the device into class II (special controls) will provide a reasonable assurance of safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
+  "action": "Final amendment; final order.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "name": "Health and Human Services Department",
+      "id": 221,
+      "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+      "parent_id": null,
+      "slug": "health-and-human-services-department"
+    },
+    {
+      "raw_name": "Food and Drug Administration",
+      "name": "Food and Drug Administration",
+      "id": 199,
+      "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+      "parent_id": 221,
+      "slug": "food-and-drug-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/09/2025-08150.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 866,
+      "title": 21
+    }
+  ],
+  "citation": "90 FR 19636",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This order is effective May 9, 2025. The classification was applicable on August 18, 2017.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FDA-2025-N-0813"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "FDA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-09",
+          "updated_at": "2025-05-09T09:07:28.847-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FDA-2025-N-0813-0001",
+          "allow_late_comments": false,
+          "id": "FDA-2025-N-0813-0001",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "FDA-2025-N-0813",
+      "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Device to Detect and Identify Microbial Nucleic Acids by Fluorescence In Situ Hybridization in Clinical Specimens"
+    }
+  ],
+  "document_number": "2025-08150",
+  "effective_on": "2025-05-09",
+  "end_page": 19638,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/09/2025-08150.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-08150/medical-devices-immunology-and-microbiology-devices-classification-of-the-device-to-detect-and",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08150?publication_date=2025-05-09",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-09/2025-08150/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 149,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-08150.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08150.pdf?1746708319",
+  "publication_date": "2025-05-09",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/09/2025-08150.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "FDA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FDA-2025-N-0813",
+    "supporting_documents_count": 0,
+    "docket_id": "FDA-2025-N-0813",
+    "document_id": "FDA-2025-N-0813-0001",
+    "regulation_id_number": null,
+    "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Device to Detect and Identify Microbial Nucleic Acids by Fluorescence In Situ Hybridization in Clinical Specimens",
+    "checked_regulationsdotgov_at": "2025-05-21T04:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 19636,
+  "subtype": null,
+  "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Device To Detect and Identify Microbial Nucleic Acids by Fluorescence In Situ Hybridization in Clinical Specimens",
+  "toc_doc": "Immunology and Microbiology Devices; Classification of the Device to Detect and Identify Microbial Nucleic Acids by Fluorescence In Situ Hybridization in Clinical Specimens",
+  "toc_subject": "Medical Devices",
+  "topics": [
+    "Biologics",
+    "Laboratories",
+    "Medical devices"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08150"
+}

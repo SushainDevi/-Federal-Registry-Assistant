@@ -1,0 +1,227 @@
+{
+  "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) has received a complete Underground Injection Control (UIC) primacy application from the State of Arizona requesting primary enforcement responsibility (primacy) for Class I-VI injection wells under the Safe Drinking Water Act (SDWA) section 1422. The EPA's approval of the State's UIC program primacy application would allow the Arizona Department of Environmental Quality (ADEQ) to authorize underground injection for all underground injection wells regulated under the Federal SDWA and ensure compliance with UIC program requirements. The EPA proposes to issue a final rule approving Arizona's application to implement the UIC program for Class I-VI injection wells located within the State, except those on Indian lands. The EPA proposes amendments to reflect this proposed approval of Arizona's UIC program primacy application.",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/19/2025-08513.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 147,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 21264",
+  "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OW-2025-0087-0001",
+  "comments_close_on": "2025-07-03",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Comments must be received on or before July 3, 2025. Public hearing: The EPA will hold one virtual public hearing during the comment period. Please refer to the SUPPLEMENTARY INFORMATION section for additional information on the public hearing.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-HQ-OW-2025-0087",
+    "FRL 11786-01-OW"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "ADEQ UIC Program Description 40 CFR 145.23 March 2025",
+          "document_id": "EPA-HQ-OW-2025-0087-0009"
+        },
+        {
+          "title": "AZ SDWA Section 1422 UIC Program Statutes and Regulations to be Incorporated by Reference March 25, 2025",
+          "document_id": "EPA-HQ-OW-2025-0087-0008"
+        },
+        {
+          "title": "Copies of all applicable AZ state statute and regulations March 10, 2025",
+          "document_id": "EPA-HQ-OW-2025-0087-0007"
+        },
+        {
+          "title": "ADEQ AZ Public Participation Showing February 18, 2025",
+          "document_id": "EPA-HQ-OW-2025-0087-0006"
+        },
+        {
+          "title": "Attorney General's Statement September 5, 2024",
+          "document_id": "EPA-HQ-OW-2025-0087-0005"
+        },
+        {
+          "title": "MOA between EPA and ADEQ signed March 2025",
+          "document_id": "EPA-HQ-OW-2025-0087-0004"
+        },
+        {
+          "title": "Letter from Governor Katie Hobbs, February 16, 2024",
+          "document_id": "EPA-HQ-OW-2025-0087-0003"
+        },
+        {
+          "title": "Karen Peters Notice of Nomination- As Director of ADEQ",
+          "document_id": "EPA-HQ-OW-2025-0087-0002"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 2,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-20T01:56:04.449-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-HQ-OW-2025-0087-0001",
+          "allow_late_comments": false,
+          "id": "EPA-HQ-OW-2025-0087-0001",
+          "comment_end_date": "2025-07-04",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 8,
+      "id": "EPA-HQ-OW-2025-0087",
+      "title": "Arizona Underground Injection Control Program; Class I-VI Primacy"
+    },
+    {
+      "supporting_documents": [
+        {
+          "title": "Adequacy Status of the Cleveland/Akron, Ohio and the Columbus, Ohio Submitted 8-Hour Ozone Redesignation and Maintenance Plans for Transportation Conformity Purposes",
+          "document_id": "EPA_FRDOC_0001-6733"
+        },
+        {
+          "title": "DELETE",
+          "document_id": "EPA_FRDOC_0001-6642"
+        },
+        {
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "document_id": "EPA_FRDOC_0001-6334"
+        },
+        {
+          "title": "Literature Search for 2,3,7,8-Tetrachlorodibenzo-p-Dioxin(TCDD) Dose-Response Studies for Use in an Upcoming Expert Panel Workshop",
+          "document_id": "EPA_FRDOC_0001-6019"
+        },
+        {
+          "title": "Regulatory Agenda Semiannual Regulatory Agenda",
+          "document_id": "EPA_FRDOC_0001-6015"
+        },
+        {
+          "title": "Correction to MVEBs for the Indiana and Ohio Portions of the Cincinnati-Hamilton, Ohio/Kentucky/Indiana, Submitted 8-Hour Ozone Attainment Demonstration",
+          "document_id": "EPA_FRDOC_0001-5132"
+        },
+        {
+          "title": "Pesticides; tolerances in food, animal feeds, and raw agricultural commodities: Pyriproxyfen",
+          "document_id": "EPA_FRDOC_0001-3649"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-19",
+          "updated_at": "2025-05-19T08:56:24.153-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA_FRDOC_0001-31871",
+          "allow_late_comments": false,
+          "id": "EPA_FRDOC_0001-31871",
+          "comment_end_date": "2025-07-04",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 7,
+      "id": "EPA_FRDOC_0001",
+      "title": "Recently Posted EPA Rules and Notices from FR Feed."
+    }
+  ],
+  "document_number": "2025-08513",
+  "effective_on": null,
+  "end_page": 21269,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/19/2025-08513.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08513/arizona-underground-injection-control-uic-program-class-i-vi-primacy",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08513?publication_date=2025-05-19",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-19/2025-08513/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 6,
+  "page_views": {
+    "count": 117,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08513.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08513.pdf?1747399508",
+  "publication_date": "2025-05-19",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/19/2025-08513.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "ADEQ UIC Program Description 40 CFR 145.23 March 2025",
+        "document_id": "EPA-HQ-OW-2025-0087-0009"
+      },
+      {
+        "title": "AZ SDWA Section 1422 UIC Program Statutes and Regulations to be Incorporated by Reference March 25, 2025",
+        "document_id": "EPA-HQ-OW-2025-0087-0008"
+      },
+      {
+        "title": "Copies of all applicable AZ state statute and regulations March 10, 2025",
+        "document_id": "EPA-HQ-OW-2025-0087-0007"
+      },
+      {
+        "title": "ADEQ AZ Public Participation Showing February 18, 2025",
+        "document_id": "EPA-HQ-OW-2025-0087-0006"
+      },
+      {
+        "title": "Attorney General's Statement September 5, 2024",
+        "document_id": "EPA-HQ-OW-2025-0087-0005"
+      },
+      {
+        "title": "MOA between EPA and ADEQ signed March 2025",
+        "document_id": "EPA-HQ-OW-2025-0087-0004"
+      },
+      {
+        "title": "Letter from Governor Katie Hobbs, February 16, 2024",
+        "document_id": "EPA-HQ-OW-2025-0087-0003"
+      },
+      {
+        "title": "Karen Peters Notice of Nomination- As Director of ADEQ",
+        "document_id": "EPA-HQ-OW-2025-0087-0002"
+      }
+    ],
+    "comments_count": 2,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-HQ-OW-2025-0087",
+    "supporting_documents_count": 8,
+    "docket_id": "EPA-HQ-OW-2025-0087",
+    "document_id": "EPA-HQ-OW-2025-0087-0001",
+    "regulation_id_number": null,
+    "title": "Arizona Underground Injection Control Program; Class I-VI Primacy",
+    "checked_regulationsdotgov_at": "2025-05-21T12:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EPA-HQ-OW-2025-0087-0001",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 21264,
+  "subtype": null,
+  "title": "Arizona Underground Injection Control (UIC) Program; Class I-VI Primacy",
+  "toc_doc": "Class IVI Primacy",
+  "toc_subject": "Arizona Underground Injection Control Program",
+  "topics": [
+    "Environmental protection",
+    "Incorporation by reference",
+    "Indians-lands",
+    "Intergovernmental relations",
+    "Reporting and recordkeeping requirements",
+    "Water supply"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08513"
+}

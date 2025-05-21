@@ -1,0 +1,118 @@
+{
+  "abstract": "The FHWA is correcting a clerical error in a final rule that appeared in the Federal Register (FR) on April 18, 2025. The final rule repealed a requirement that State departments of transportation (State DOT) and metropolitan planning organizations (MPO) establish declining carbon dioxide (CO<INF>2</INF>) targets for the greenhouse gas (GHG) measure and report on progress toward the achievement of the target.",
+  "action": "Final rule; correction.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Highway Administration",
+      "name": "Federal Highway Administration",
+      "id": 170,
+      "url": "https://www.federalregister.gov/agencies/federal-highway-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/170",
+      "parent_id": 492,
+      "slug": "federal-highway-administration"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/13/2025-08352.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 490,
+      "title": 23
+    }
+  ],
+  "citation": "90 FR 20234",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "This final rule is effective May 19, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FHWA-2025-0001"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [],
+      "agency_name": "FHWA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-13",
+          "updated_at": "2025-05-13T11:56:27.469-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FHWA-2025-0001-0003",
+          "allow_late_comments": false,
+          "id": "FHWA-2025-0001-0003",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 0,
+      "id": "FHWA-2025-0001",
+      "title": "National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure"
+    }
+  ],
+  "document_number": "2025-08352",
+  "effective_on": "2025-05-19",
+  "end_page": 20235,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/13/2025-08352.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08352/national-performance-management-measures-assessing-performance-of-the-national-highway-system",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08352?publication_date=2025-05-13",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-13/2025-08352/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 2,
+  "page_views": {
+    "count": 107,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08352.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08352.pdf?1747053912",
+  "publication_date": "2025-05-13",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/13/2025-08352.txt",
+  "regulation_id_number_info": {
+    "2125-AG16": null
+  },
+  "regulation_id_numbers": [
+    "2125-AG16"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [],
+    "comments_count": 0,
+    "agency_id": "FHWA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FHWA-2025-0001",
+    "supporting_documents_count": 0,
+    "docket_id": "FHWA-2025-0001",
+    "document_id": "FHWA-2025-0001-0003",
+    "regulation_id_number": "2125-AG16",
+    "title": "National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure",
+    "checked_regulationsdotgov_at": "2025-05-14T17:55:04Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": null,
+  "signing_date": null,
+  "start_page": 20234,
+  "subtype": null,
+  "title": "National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure; Correction",
+  "toc_doc": "Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure; Correction",
+  "toc_subject": "National Performance Management Measures",
+  "topics": [],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08352"
+}

@@ -1,0 +1,176 @@
+{
+  "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to open or expand hunting or sport fishing opportunities on 16 National Wildlife Refuge System (NWRS) stations and 1 National Fish Hatchery System (NFHS) station. This includes inaugural hunting opportunities at Southern Maryland Woodlands National Wildlife Refuge (NWR), the newest addition to the NWRS, and the formal opening of hunting opportunities at Grasslands Wildlife Management Area (WMA), as well as inaugural sport fishing at North Attleboro National Fish Hatchery (NFH). These actions will open or expand 42 opportunities for hunting and fishing across more than 87,000 acres of Service lands and waters. In addition, at the request of the State of Minnesota and the White Earth Nation, Tamarac NWR proposes to end an experimental 5-day early teal hunt where the refuge overlaps with Tribal land to ensure safety for wild rice harvesting and to align with State regulations. We also propose to make administrative changes to existing station-specific regulations to improve the clarity and accuracy of regulations, reduce the regulatory burden on the public, and comply with a Presidential mandate for plain- language standards.",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF THE INTERIOR",
+      "name": "Interior Department",
+      "id": 253,
+      "url": "https://www.federalregister.gov/agencies/interior-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+      "parent_id": null,
+      "slug": "interior-department"
+    },
+    {
+      "raw_name": "Fish and Wildlife Service",
+      "name": "Fish and Wildlife Service",
+      "id": 197,
+      "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+      "parent_id": 253,
+      "slug": "fish-and-wildlife-service"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/15/2025-08621.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 32,
+      "title": 50
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 71,
+      "title": 50
+    }
+  ],
+  "citation": "90 FR 20600",
+  "comment_url": "http://www.regulations.gov/commenton/FWS-HQ-NWRS-2025-0031-0001",
+  "comments_close_on": "2025-06-30",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "We will accept comments received or postmarked on or before June 30, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket No. FWS-HQ-NWRS-2025-0031",
+    "FXRS12610900000-256-FF09R20000"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "National Wildlife Refuge System Station Documentation - See Attachments",
+          "document_id": "FWS-HQ-NWRS-2025-0031-0005"
+        },
+        {
+          "title": "Cumulative Impacts Report 2025-2026 National Wildlife Refuge Hunting and Sport Fishing Regulations U.S. Fish and Wildlife Service",
+          "document_id": "FWS-HQ-NWRS-2025-0031-0004"
+        },
+        {
+          "title": "Proposed Regulation Summary Table",
+          "document_id": "FWS-HQ-NWRS-2025-0031-0003"
+        },
+        {
+          "title": "Proposed Rule 100-word summary",
+          "document_id": "FWS-HQ-NWRS-2025-0031-0002"
+        }
+      ],
+      "agency_name": "FWS",
+      "documents": [
+        {
+          "comment_count": 6,
+          "comment_start_date": "2025-05-15",
+          "updated_at": "2025-05-21T02:02:08.077-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/FWS-HQ-NWRS-2025-0031-0001",
+          "allow_late_comments": false,
+          "id": "FWS-HQ-NWRS-2025-0031-0001",
+          "comment_end_date": "2025-07-01",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 4,
+      "id": "FWS-HQ-NWRS-2025-0031",
+      "title": "National Wildlife Refuge System; 2025–2026 Station-Specific Hunting and Sport Fishing Regulations"
+    }
+  ],
+  "document_number": "2025-08621",
+  "effective_on": null,
+  "end_page": 20618,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/15/2025-08621.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08621/national-wildlife-refuge-system-2025-2026-station-specific-hunting-and-sport-fishing-regulations",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08621?publication_date=2025-05-15",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-15/2025-08621/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 19,
+  "page_views": {
+    "count": 297,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08621.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08621.pdf?1747226715",
+  "publication_date": "2025-05-15",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/15/2025-08621.txt",
+  "regulation_id_number_info": {
+    "1018-BI01": {
+      "issue": "202410",
+      "html_url": "https://www.federalregister.gov/regulations/1018-BI01/national-wildlife-refuge-system-2025-2026-station-specific-hunting-and-sport-fishing-regulations-",
+      "title": "National Wildlife Refuge System; 2025–2026 Station-Specific Hunting and Sport Fishing Regulations ",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=1018-BI01&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Substantive, Nonsignificant"
+    }
+  },
+  "regulation_id_numbers": [
+    "1018-BI01"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "National Wildlife Refuge System Station Documentation - See Attachments",
+        "document_id": "FWS-HQ-NWRS-2025-0031-0005"
+      },
+      {
+        "title": "Cumulative Impacts Report 2025-2026 National Wildlife Refuge Hunting and Sport Fishing Regulations U.S. Fish and Wildlife Service",
+        "document_id": "FWS-HQ-NWRS-2025-0031-0004"
+      },
+      {
+        "title": "Proposed Regulation Summary Table",
+        "document_id": "FWS-HQ-NWRS-2025-0031-0003"
+      },
+      {
+        "title": "Proposed Rule 100-word summary",
+        "document_id": "FWS-HQ-NWRS-2025-0031-0002"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/1018-BI01/national-wildlife-refuge-system-2025-2026-station-specific-hunting-and-sport-fishing-regulations-",
+      "title": "National Wildlife Refuge System; 2025–2026 Station-Specific Hunting and Sport Fishing Regulations "
+    },
+    "comments_count": 6,
+    "agency_id": "FWS",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FWS-HQ-NWRS-2025-0031",
+    "supporting_documents_count": 4,
+    "docket_id": "FWS-HQ-NWRS-2025-0031",
+    "document_id": "FWS-HQ-NWRS-2025-0031-0001",
+    "regulation_id_number": "1018-BI01",
+    "title": "National Wildlife Refuge System; 2025–2026 Station-Specific Hunting and Sport Fishing Regulations",
+    "checked_regulationsdotgov_at": "2025-05-21T06:55:03Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/FWS-HQ-NWRS-2025-0031-0001",
+  "significant": false,
+  "signing_date": null,
+  "start_page": 20600,
+  "subtype": null,
+  "title": "National Wildlife Refuge System; 2025-2026 Station-Specific Hunting and Sport Fishing Regulations",
+  "toc_doc": "20252026 Station-Specific Hunting and Sport Fishing Regulations",
+  "toc_subject": "National Wildlife Refuge System",
+  "topics": [
+    "Fish",
+    "Fishing",
+    "Hunting",
+    "Reporting and recordkeeping requirements",
+    "Wildlife",
+    "Wildlife refuges"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08621"
+}

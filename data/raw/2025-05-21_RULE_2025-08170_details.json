@@ -1,0 +1,145 @@
+{
+  "abstract": "The Coast Guard is establishing a temporary safety zone for the navigable waterways surrounding Key West, Florida, during the Key West Paddle Classic event. This safety zone is necessary to ensure the safety of event participants and spectators from potential hazards associated with this event. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port Key West or a designated representative.",
+  "action": "Temporary final rule.",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "name": "Homeland Security Department",
+      "id": 227,
+      "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+      "parent_id": null,
+      "slug": "homeland-security-department"
+    },
+    {
+      "raw_name": "Coast Guard",
+      "name": "Coast Guard",
+      "id": 53,
+      "url": "https://www.federalregister.gov/agencies/coast-guard",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+      "parent_id": 227,
+      "slug": "coast-guard"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/09/2025-08170.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 165,
+      "title": 33
+    }
+  ],
+  "citation": "90 FR 19648",
+  "comment_url": null,
+  "comments_close_on": null,
+  "correction_of": null,
+  "corrections": [],
+  "dates": "DATES:This rule is effective from 6 a.m. through 5 p.m. on May 10, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "Docket Number USCG-2025-0302"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "REC_DSS_USCG_2025_22706",
+          "document_id": "USCG-2025-0302-0002"
+        }
+      ],
+      "agency_name": "USCG",
+      "documents": [
+        {
+          "comment_count": null,
+          "comment_start_date": null,
+          "updated_at": "2025-05-09T09:03:05.240-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/USCG-2025-0302-0001",
+          "allow_late_comments": false,
+          "id": "USCG-2025-0302-0001",
+          "comment_end_date": null,
+          "regulations_dot_gov_open_for_comment": false
+        }
+      ],
+      "supporting_documents_count": 1,
+      "id": "USCG-2025-0302",
+      "title": "Safety Zone; Key West Paddle Classic, Key West, FL"
+    }
+  ],
+  "document_number": "2025-08170",
+  "effective_on": "2025-05-10",
+  "end_page": 19650,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/09/2025-08170.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-08170/safety-zone-key-west-paddle-classic-key-west-fl",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08170?publication_date=2025-05-09",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-09/2025-08170/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 3,
+  "page_views": {
+    "count": 27,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-08170.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08170.pdf?1746708322",
+  "publication_date": "2025-05-09",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/09/2025-08170.txt",
+  "regulation_id_number_info": {
+    "1625-AA00": {
+      "issue": "201104",
+      "html_url": "https://www.federalregister.gov/regulations/1625-AA00/safety-zone-regulations",
+      "title": "Safety Zone Regulations",
+      "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201104&RIN=1625-AA00&operation=OPERATION_EXPORT_XML",
+      "priority_category": "Routine and Frequent"
+    }
+  },
+  "regulation_id_numbers": [
+    "1625-AA00"
+  ],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "REC_DSS_USCG_2025_22706",
+        "document_id": "USCG-2025-0302-0002"
+      }
+    ],
+    "regulatory_plan": {
+      "html_url": "https://www.federalregister.gov/regulations/1625-AA00/safety-zone-regulations",
+      "title": "Safety Zone Regulations"
+    },
+    "comments_count": 0,
+    "agency_id": "USCG",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=USCG-2025-0302",
+    "supporting_documents_count": 1,
+    "docket_id": "USCG-2025-0302",
+    "document_id": "USCG-2025-0302-0001",
+    "regulation_id_number": "1625-AA00",
+    "title": "Safety Zone; Key West Paddle Classic, Key West, FL",
+    "checked_regulationsdotgov_at": "2025-05-10T15:55:03Z"
+  },
+  "regulations_dot_gov_url": null,
+  "significant": false,
+  "signing_date": null,
+  "start_page": 19648,
+  "subtype": null,
+  "title": "Safety Zone; Key West Paddle Classic, Key West, FL",
+  "toc_doc": "Key West Paddle Classic, Key West, FL",
+  "toc_subject": "Safety Zone",
+  "topics": [
+    "Harbors",
+    "Marine safety",
+    "Navigation (water)",
+    "Reporting and recordkeeping requirements",
+    "Security measures",
+    "Waterways"
+  ],
+  "type": "Rule",
+  "volume": 90,
+  "id": "fr-2025-08170"
+}

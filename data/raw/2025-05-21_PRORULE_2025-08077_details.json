@@ -1,0 +1,198 @@
+{
+  "abstract": "The Environmental Protection Agency (EPA) is proposing to approve portions of the comprehensive State Implementation Plan (SIP) revisions submitted by New York that certify that the State has satisfied the requirements for an emission statement program for both the Serious and Moderate classifications of the 2008 and 2015 ozone National Ambient Air Quality Standards (NAAQS), respectively. These actions are being taken in accordance with the requirements of the Clean Air Act (CAA or Act).",
+  "action": "Proposed rule.",
+  "agencies": [
+    {
+      "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "name": "Environmental Protection Agency",
+      "id": 145,
+      "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+      "parent_id": null,
+      "slug": "environmental-protection-agency"
+    }
+  ],
+  "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/05/08/2025-08077.html",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 52,
+      "title": 40
+    }
+  ],
+  "citation": "90 FR 19434",
+  "comment_url": "http://www.regulations.gov/commenton/EPA-R02-OAR-2025-0040-0024",
+  "comments_close_on": "2025-06-09",
+  "correction_of": null,
+  "corrections": [],
+  "dates": "Written comments must be received on or before June 9, 2025.",
+  "disposition_notes": null,
+  "docket_ids": [
+    "EPA-R02-OAR-2025-0040",
+    "FRL-12733-01-R2"
+  ],
+  "dockets": [
+    {
+      "supporting_documents": [
+        {
+          "title": "2021-11-29 Assessment of Public Comments Serious NYMA SIP",
+          "document_id": "EPA-R02-OAR-2025-0040-0023"
+        },
+        {
+          "title": "2021-11-29 2008 NYMA Serious SIP Submission Letter",
+          "document_id": "EPA-R02-OAR-2025-0040-0022"
+        },
+        {
+          "title": "2021-Nov Final Serious NYMA Attainment SIP",
+          "document_id": "EPA-R02-OAR-2025-0040-0021"
+        },
+        {
+          "title": "Appx N - 2020 Airport SCC County data w Growth Factors and Facility Updates",
+          "document_id": "EPA-R02-OAR-2025-0040-0020"
+        },
+        {
+          "title": "Appx M - Airport Growth Factors MARAMA",
+          "document_id": "EPA-R02-OAR-2025-0040-0019"
+        },
+        {
+          "title": "Appx O - MARAMA Inv TSD 2011 to 2020 2023 2018-01-29",
+          "document_id": "EPA-R02-OAR-2025-0040-0018"
+        },
+        {
+          "title": "Appx G - MARAMA TSD 2011 2017 Emissions Beta2",
+          "document_id": "EPA-R02-OAR-2025-0040-0017"
+        },
+        {
+          "title": "Appx F - 2020 NYMA Nonroad Annual and OSD Emissions",
+          "document_id": "EPA-R02-OAR-2025-0040-0016"
+        },
+        {
+          "title": "Appx I-2 - TSD-2011-AppendixA-Final",
+          "document_id": "EPA-R02-OAR-2025-0040-0015"
+        },
+        {
+          "title": "Appx I-1 - Motor Vehicle Emissions Inventory MOVES TSD",
+          "document_id": "EPA-R02-OAR-2025-0040-0014"
+        }
+      ],
+      "agency_name": "EPA",
+      "documents": [
+        {
+          "comment_count": 0,
+          "comment_start_date": "2025-05-08",
+          "updated_at": "2025-05-08T09:56:42.679-04:00",
+          "comment_url": "https://www.regulations.gov/commenton/EPA-R02-OAR-2025-0040-0024",
+          "allow_late_comments": false,
+          "id": "EPA-R02-OAR-2025-0040-0024",
+          "comment_end_date": "2025-06-10",
+          "regulations_dot_gov_open_for_comment": true
+        }
+      ],
+      "supporting_documents_count": 22,
+      "id": "EPA-R02-OAR-2025-0040",
+      "title": "Approval and Promulgation of State Implementation Plans; New York; Emission Statement Certification of the 2008 and 2015 Ozone National Ambient Air Quality Standards"
+    }
+  ],
+  "document_number": "2025-08077",
+  "effective_on": null,
+  "end_page": 19437,
+  "executive_order_notes": null,
+  "executive_order_number": null,
+  "explanation": null,
+  "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/05/08/2025-08077.xml",
+  "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08077/approval-and-promulgation-of-state-implementation-plans-new-york-emission-statement-certification-of",
+  "images": {},
+  "images_metadata": {},
+  "json_url": "https://www.federalregister.gov/api/v1/documents/2025-08077?publication_date=2025-05-08",
+  "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2025-05-08/2025-08077/mods.xml",
+  "not_received_for_publication": null,
+  "page_length": 4,
+  "page_views": {
+    "count": 83,
+    "last_updated": "2025-05-21 08:15:04 -0400"
+  },
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-08077.pdf",
+  "presidential_document_number": null,
+  "proclamation_number": null,
+  "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08077.pdf?1746621936",
+  "publication_date": "2025-05-08",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2025/05/08/2025-08077.txt",
+  "regulation_id_number_info": {},
+  "regulation_id_numbers": [],
+  "regulations_dot_gov_info": {
+    "supporting_documents": [
+      {
+        "title": "2021-11-29 Assessment of Public Comments Serious NYMA SIP",
+        "document_id": "EPA-R02-OAR-2025-0040-0023"
+      },
+      {
+        "title": "2021-11-29 2008 NYMA Serious SIP Submission Letter",
+        "document_id": "EPA-R02-OAR-2025-0040-0022"
+      },
+      {
+        "title": "2021-Nov Final Serious NYMA Attainment SIP",
+        "document_id": "EPA-R02-OAR-2025-0040-0021"
+      },
+      {
+        "title": "Appx N - 2020 Airport SCC County data w Growth Factors and Facility Updates",
+        "document_id": "EPA-R02-OAR-2025-0040-0020"
+      },
+      {
+        "title": "Appx M - Airport Growth Factors MARAMA",
+        "document_id": "EPA-R02-OAR-2025-0040-0019"
+      },
+      {
+        "title": "Appx O - MARAMA Inv TSD 2011 to 2020 2023 2018-01-29",
+        "document_id": "EPA-R02-OAR-2025-0040-0018"
+      },
+      {
+        "title": "Appx G - MARAMA TSD 2011 2017 Emissions Beta2",
+        "document_id": "EPA-R02-OAR-2025-0040-0017"
+      },
+      {
+        "title": "Appx F - 2020 NYMA Nonroad Annual and OSD Emissions",
+        "document_id": "EPA-R02-OAR-2025-0040-0016"
+      },
+      {
+        "title": "Appx I-2 - TSD-2011-AppendixA-Final",
+        "document_id": "EPA-R02-OAR-2025-0040-0015"
+      },
+      {
+        "title": "Appx I-1 - Motor Vehicle Emissions Inventory MOVES TSD",
+        "document_id": "EPA-R02-OAR-2025-0040-0014"
+      }
+    ],
+    "comments_count": 0,
+    "agency_id": "EPA",
+    "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=EPA-R02-OAR-2025-0040",
+    "supporting_documents_count": 22,
+    "docket_id": "EPA-R02-OAR-2025-0040",
+    "document_id": "EPA-R02-OAR-2025-0040-0024",
+    "regulation_id_number": null,
+    "title": "Approval and Promulgation of State Implementation Plans; New York; Emission Statement Certification of the 2008 and 2015 Ozone National Ambient Air Quality Standards",
+    "checked_regulationsdotgov_at": "2025-05-09T15:55:04Z"
+  },
+  "regulations_dot_gov_url": "http://www.regulations.gov/commenton/EPA-R02-OAR-2025-0040-0024",
+  "significant": null,
+  "signing_date": null,
+  "start_page": 19434,
+  "subtype": null,
+  "title": "Approval and Promulgation of State Implementation Plans; New York; Emission Statement Certification of the 2008 and 2015 Ozone National Ambient Air Quality Standards",
+  "toc_doc": "New York; Emission Statement Certification of the 2008 and 2015 Ozone National Ambient Air Quality Standards",
+  "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations",
+  "topics": [
+    "Air pollution control",
+    "Environmental protection",
+    "Incorporation by reference",
+    "Intergovernmental relations",
+    "Nitrogen dioxide",
+    "Nitrogen oxides",
+    "Ozone",
+    "Reporting and recordkeeping requirements",
+    "Volatile organic compounds"
+  ],
+  "type": "Proposed Rule",
+  "volume": 90,
+  "id": "fr-2025-08077"
+}

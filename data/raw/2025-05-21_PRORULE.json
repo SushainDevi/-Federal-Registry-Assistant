@@ -1,0 +1,2634 @@
+{
+  "count": 144,
+  "description": "Documents published from 04/21/2025 to 05/21/2025 and of type Proposed Rule",
+  "total_pages": 2,
+  "next_page_url": "https://www.federalregister.gov/api/v1/documents?conditions%5Bpublication_date%5D%5Bgte%5D=2025-04-21&conditions%5Bpublication_date%5D%5Blte%5D=2025-05-21&conditions%5Btype%5D=PRORULE&format=json&order=newest&page=2&per_page=100",
+  "results": [
+    {
+      "title": "Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2026",
+      "type": "Proposed Rule",
+      "abstract": null,
+      "document_number": "C1-2025-06348",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/C1-2025-06348/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/C1-2025-06348.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/C1-2025-06348.pdf?1747426509",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Medicare Program; FY 2026 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+      "type": "Proposed Rule",
+      "abstract": null,
+      "document_number": "C1-2025-06317",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/C1-2025-06317/medicare-program-fy-2026-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/C1-2025-06317.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/C1-2025-06317.pdf?1747426509",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Special Local Regulation; Duluth Harbor, Duluth, MN",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary special local regulation for designated areas of the Duluth Harbor entrance to Superior Bay on Lake Superior during the Festival of Sail 2025 event in Duluth, MN. This action is necessary to provide for the safety of life on these navigable waters around the port of Duluth, MN during a sail festival with tall ships beginning on July 10, 2025, and ending the evening of July 13, 2025. This proposed rulemaking would prohibit persons and vessels from being in the designated areas unless authorized by the Captain of the Port Duluth or a designated representative. We invite your comments on this proposed rulemaking.",
+      "document_number": "2025-09149",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09149/special-local-regulation-duluth-harbor-duluth-mn",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09149.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09149.pdf?1747745123",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "excerpts": "The Coast Guard is proposing to establish a temporary special local regulation for designated areas of the Duluth Harbor entrance to Superior Bay on Lake Superior during the Festival of Sail 2025 event in Duluth, MN. This action is necessary to provide..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A350-941 and A350-1041 airplanes. This proposed AD was prompted by reports of mechanical noises originating from the nose landing gear (NLG) shock absorber during ground maneuvers. This proposed AD would require repetitive inspections (i.e., steering checks) of the NLG shock absorber and applicable on-condition actions and limit the installation of affected parts under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-09129",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09129/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09129.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09129.pdf?1747745120",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A350-941 and A350-1041 airplanes. This proposed AD was prompted by reports of mechanical noises originating from the nose landing gear (NLG) shock absorber during..."
+    },
+    {
+      "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Fish Lake Valley Tui Chub",
+      "type": "Proposed Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to list the Fish Lake Valley tui chub (Siphateles obesus ssp.), a fish found in Esmeralda County in southwestern Nevada, as an endangered species under the Endangered Species Act of 1973, as amended (Act). This determination also serves as our 12-month finding on a petition to list the Fish Lake Valley tui chub. After a review of the best scientific and commercial data available, we find that listing the Fish Lake Valley tui chub is warranted. If adopted as proposed, this rule would extend the Act's protections to the Fish Lake Valley tui chub.",
+      "document_number": "2025-09127",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09127/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-fish-lake-valley-tui",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09127.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09127.pdf?1747745120",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "excerpts": "We, the U.S. Fish and Wildlife Service (Service), propose to list the Fish Lake Valley tui chub (Siphateles obesus ssp.), a fish found in Esmeralda County in southwestern Nevada, as an endangered species under the Endangered Species Act of 1973, as..."
+    },
+    {
+      "title": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States",
+      "type": "Proposed Rule",
+      "abstract": "The Secretary proposes three initial and urgent priorities and related definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use an entire priority for a grant program or a particular competition or use one or more of the priority's component parts. These priorities and definitions are intended to replace the Secretary's supplemental priorities published in the Federal Register on December 10, 2021 (86 FR 70612) and all other agency-wide supplemental priorities published prior to January 20, 2025. However, those priorities remain in effect for notices inviting applications (NIAs) published before the U.S. Department of Education (Department) finalizes the proposed priorities in this document.",
+      "document_number": "2025-09093",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09093/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09093.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09093.pdf?1747745116",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "The Secretary proposes three initial and urgent priorities and related definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use an entire priority for a..."
+    },
+    {
+      "title": "Safety Zone; Kaneohe Bay, Oahu, HI",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary safety zone while the U.S. Navy Blue Angels Squadron conducts aerobatic performances over Kaneohe Bay, Oahu, Hawaii. This safety zone is necessary to protect watercrafts and the general public from hazards associated with the U.S. Navy Blue Angels aircraft performing low flying, high powered jet aerobatics over open water. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless authorized by the Captain of the Port (COTP) Sector Honolulu or a designated representative. We invite your comments on this proposed rulemaking.",
+      "document_number": "2025-09092",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09092/safety-zone-kaneohe-bay-oahu-hi",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09092.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09092.pdf?1747745116",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "excerpts": "The Coast Guard is proposing to establish a temporary safety zone while the U.S. Navy Blue Angels Squadron conducts aerobatic performances over Kaneohe Bay, Oahu, Hawaii. This safety zone is necessary to protect watercrafts and the general public from..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus Canada Limited Partnership Model BD-500-1A10 and BD- 500-1A11 airplanes. This proposed AD was prompted by reports that the interface pin of the secondary load path in the upper gimbal of the horizontal stabilizer trim actuator (HSTA) was incorrectly installed. This proposed AD would require a detailed visual inspection of the interface pin of the HSTA to determine if the interface pin is incorrectly installed, and applicable on-condition actions as specified in a Transport Canada AD, which is proposed for incorporation by reference (IBR). The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-09080",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09080/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09080.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09080.pdf?1747745115",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus Canada Limited Partnership Model BD-500-1A10 and BD- 500-1A11 airplanes. This proposed AD was prompted by reports that the interface pin of the secondary load path in the..."
+    },
+    {
+      "title": "Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines",
+      "type": "Proposed Rule",
+      "abstract": "PHMSA is publishing this advance notice of proposed rulemaking to solicit stakeholder feedback on potential opportunities to improve the cost-effectiveness of its repair requirements for gas transmission and hazardous liquid or carbon dioxide pipelines. PHMSA also seeks stakeholder feedback on authorizing a risk-based approach for determining the inspection interval for in-service breakout tanks.",
+      "document_number": "2025-09078",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/21/2025-09078/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-21/pdf/2025-09078.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-09078.pdf?1747745115",
+      "publication_date": "2025-05-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Pipeline and Hazardous Materials Safety Administration",
+          "name": "Pipeline and Hazardous Materials Safety Administration",
+          "id": 408,
+          "url": "https://www.federalregister.gov/agencies/pipeline-and-hazardous-materials-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/408",
+          "parent_id": 492,
+          "slug": "pipeline-and-hazardous-materials-safety-administration"
+        }
+      ],
+      "excerpts": "PHMSA is publishing this advance notice of proposed rulemaking to solicit stakeholder feedback on potential opportunities to improve the cost-effectiveness of its repair requirements for gas transmission and hazardous liquid or carbon dioxide..."
+    },
+    {
+      "title": "Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program",
+      "type": "Proposed Rule",
+      "abstract": "The Secretary proposes to waive the requirements in the Education Department General Administrative Regulations that generally prohibit project period extensions involving the obligation of additional Federal funds. The proposed waiver and extension would enable one project under Assistance Listing Number (ALN) 84.351A to receive funding for one additional period, not to exceed September 30, 2026.",
+      "document_number": "2025-08969",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-08969/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-08969.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08969.pdf?1747658718",
+      "publication_date": "2025-05-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "The Secretary proposes to waive the requirements in the Education Department General Administrative Regulations that generally prohibit project period extensions involving the obligation of additional Federal funds. The proposed waiver and extension..."
+    },
+    {
+      "title": "Airworthiness Directives; Bombardier, Inc., Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bombardier, Inc., Model BD-700-1A10 airplanes. This proposed AD was prompted by a report indicating that the clearance between therapeutic flexible oxygen hoses and electrical harnesses may be non-compliant to design requirements, and that positive separation mechanisms and appropriate protective barriers may not have been installed in accordance with the applicable installation standards. This proposed AD would require a detailed inspection of the therapeutic flexible oxygen hose for damage and protection, and the electrical harnesses for damage; a detailed inspection for the clearance between the therapeutic oxygen rigid tube to oxygen hose elbow fitting (also referred to as elbow fitting), if applicable, and the nearest electrical harness, and between the therapeutic flexible oxygen hose and electrical harness; and applicable related investigative and corrective actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08934",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-08934/airworthiness-directives-bombardier-inc-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-08934.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08934.pdf?1747658714",
+      "publication_date": "2025-05-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bombardier, Inc., Model BD-700-1A10 airplanes. This proposed AD was prompted by a report indicating that the clearance between therapeutic flexible oxygen hoses and electrical..."
+    },
+    {
+      "title": "Estate Tax Closing Letter User Fee Update",
+      "type": "Proposed Rule",
+      "abstract": "In the Rules and Regulations section of this issue of the Federal Register, the Department of the Treasury (Treasury Department) and the IRS are issuing interim final regulations that amend the current regulations to reduce the amount of the user fee imposed on authorized persons requesting the issuance of IRS Letter 627, also referred to as an estate tax closing letter. The text of the interim final regulations also serves as the text of these proposed regulations.",
+      "document_number": "2025-08929",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/20/2025-08929/estate-tax-closing-letter-user-fee-update",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-20/pdf/2025-08929.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08929.pdf?1747399522",
+      "publication_date": "2025-05-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "excerpts": "In the Rules and Regulations section of this issue of the Federal Register, the Department of the Treasury (Treasury Department) and the IRS are issuing interim final regulations that amend the current regulations to reduce the amount of the user fee..."
+    },
+    {
+      "title": "Special Local Regulation; Elizabeth River, Western Branch, Portsmouth, VA",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a special local regulation for certain waters on the Western Branch of the Elizabeth River in Portsmouth, VA. This action is necessary to provide for the safety of life on these navigable waters during a high-speed boat race. This proposed rulemaking would prohibit persons and vessels from entering the regulated area unless authorized by the Captain of the Port, Sector Virginia or a designated representative. We invite your comments on this proposed rulemaking.",
+      "document_number": "2025-08858",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08858/special-local-regulation-elizabeth-river-western-branch-portsmouth-va",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08858.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08858.pdf?1747399515",
+      "publication_date": "2025-05-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "excerpts": "The Coast Guard is proposing to establish a special local regulation for certain waters on the Western Branch of the Elizabeth River in Portsmouth, VA. This action is necessary to provide for the safety of life on these navigable waters during a..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A319-112 and -132 airplanes, and Model A320-214, -232, -233, -251N, and -271N airplanes. This proposed AD was prompted by rivet holes being left unplugged after bracket relocation or removal accomplished during certain modifications, potentially resulting in fatigue damage starting from those rivet holes. This proposed AD would require a one-time special detailed inspection (SDI) of the rivet holes and applicable corrective actions; and would also allow the installation of certain modifications, provided rivets are installed after the modification; as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference (IBR). The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08784",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08784/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08784.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08784.pdf?1747399509",
+      "publication_date": "2025-05-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A319-112 and -132 airplanes, and Model A320-214, -232, -233, -251N, and -271N airplanes. This proposed AD was prompted by rivet holes being left unplugged after..."
+    },
+    {
+      "title": "Modification of Class E Airspace; Battle Mountain Airport, Battle Mountain, NV",
+      "type": "Proposed Rule",
+      "abstract": "This action revises a notice of proposed rulemaking (NPRM) published in the Federal Register on January 7, 2025. As revised, this action proposes to modify the Class E airspace area designated as surface area, modify the Class E airspace area designated as an extension to a Class D or Class E surface area, and modify the Class E airspace extending upward from 700 feet or more above the surface of the earth at Battle Mountain Airport, Battle Mountain, NV. Additionally, this action proposes administrative amendments to update the airport's existing Class E airspace legal descriptions. These actions would support the safety and management of instrument flight rules (IFR) operations at the airport.",
+      "document_number": "2025-08763",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08763/modification-of-class-e-airspace-battle-mountain-airport-battle-mountain-nv",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08763.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08763.pdf?1747399509",
+      "publication_date": "2025-05-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "This action revises a notice of proposed rulemaking (NPRM) published in the Federal Register on January 7, 2025. As revised, this action proposes to modify the Class E airspace area designated as surface area, modify the Class E airspace area..."
+    },
+    {
+      "title": "Air Plan Approval; Ohio; Second Maintenance Plan for 2008 Ozone NAAQS",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Ohio State Implementation Plan (SIP). On November 6, 2024, the Ohio Environmental Protection Agency (Ohio EPA) submitted the state's plans for maintaining the 2008 ozone National Ambient Air Quality Standard (NAAQS or standard) in the Columbus, Ohio; Cleveland-Akron-Lorain, Ohio; and Cincinnati, Ohio-Kentucky-Indiana areas. EPA is proposing to approve these maintenance plans because they provide for the maintenance of the 2008 ozone NAAQS for each area for 10 additional years as required by the Clean Air Act (CAA). EPA is also initiating the adequacy review process for motor vehicle emission budgets (Budgets) for each area. This action, if finalized, would make certain commitments related to maintenance of the 2008 ozone NAAQS in these areas federally enforceable as part of the Ohio SIP.",
+      "document_number": "2025-08728",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08728/air-plan-approval-ohio-second-maintenance-plan-for-2008-ozone-naaqs",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08728.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08728.pdf?1747399509",
+      "publication_date": "2025-05-19",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Ohio State Implementation Plan (SIP). On November 6, 2024, the Ohio Environmental Protection Agency (Ohio EPA) submitted the state's plans for maintaining the 2008 ozone..."
+    },
+    {
+      "title": "Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Gulfstream Aerospace Corporation Model GVI airplanes. This proposed AD was prompted by a determination that new and more restrictive airworthiness limitations are necessary. This AD requires revising the existing maintenance or inspection program, as applicable, to incorporate new and more restrictive airworthiness limitations. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08567",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08567/airworthiness-directives-gulfstream-aerospace-corporation-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08567.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08567.pdf?1747399509",
+      "publication_date": "2025-05-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for all Gulfstream Aerospace Corporation Model GVI airplanes. This proposed AD was prompted by a determination that new and more restrictive airworthiness limitations are necessary. This AD..."
+    },
+    {
+      "title": "Arizona Underground Injection Control (UIC) Program; Class I-VI Primacy",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) has received a complete Underground Injection Control (UIC) primacy application from the State of Arizona requesting primary enforcement responsibility (primacy) for Class I-VI injection wells under the Safe Drinking Water Act (SDWA) section 1422. The EPA's approval of the State's UIC program primacy application would allow the Arizona Department of Environmental Quality (ADEQ) to authorize underground injection for all underground injection wells regulated under the Federal SDWA and ensure compliance with UIC program requirements. The EPA proposes to issue a final rule approving Arizona's application to implement the UIC program for Class I-VI injection wells located within the State, except those on Indian lands. The EPA proposes amendments to reflect this proposed approval of Arizona's UIC program primacy application.",
+      "document_number": "2025-08513",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08513/arizona-underground-injection-control-uic-program-class-i-vi-primacy",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08513.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08513.pdf?1747399508",
+      "publication_date": "2025-05-19",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The U.S. Environmental Protection Agency (EPA or Agency) has received a complete Underground Injection Control (UIC) primacy application from the State of Arizona requesting primary enforcement responsibility (primacy) for Class I-VI injection wells..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2020-06-18, which applies to all Airbus SAS Model A318 series airplanes; A319 series airplanes; A320-211, -212, -214, -216, -231, - 232, -233, -251N, -252N, -253N, -271N, -272N, and -273N airplanes; and A321 series airplanes. AD 2020-06-18 requires replacement of affected trimmable horizontal stabilizer actuators (THSAs) with serviceable THSAs. Since the FAA issued AD 2020-06-18, a new Airbus airplane model (A321-253NY) has been certified, on which affected parts could be installed in service. This proposed AD would continue to require the actions in AD 2020-06-18, would revise the applicability to include Model A321-253NY airplanes, and would prohibit the installation of affected parts, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference (IBR). The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08399",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/19/2025-08399/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-19/pdf/2025-08399.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08399.pdf?1747399508",
+      "publication_date": "2025-05-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to supersede Airworthiness Directive (AD) 2020-06-18, which applies to all Airbus SAS Model A318 series airplanes; A319 series airplanes; A320-211, -212, -214, -216, -231, - 232, -233, -251N, -252N, -253N, -271N, -272N, and -273N..."
+    },
+    {
+      "title": "Determination of Rates and Terms for Digital Performance of Sound Recordings and Making of Ephemeral Copies To Facilitate Those Performances (Web VI)",
+      "type": "Proposed Rule",
+      "abstract": "The Copyright Royalty Judges are publishing for comment proposed regulations governing the rates and terms for the nonsubscription digital performance of sound recordings by commercial broadcasters and for the making of ephemeral recordings necessary for the facilitation of such transmissions for the period commencing January 1, 2026, and ending on December 31, 2030.",
+      "document_number": "2025-08805",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08805/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-and-making-of-ephemeral",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08805.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08805.pdf?1747313125",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "LIBRARY OF CONGRESS",
+          "name": "Library of Congress",
+          "id": 277,
+          "url": "https://www.federalregister.gov/agencies/library-of-congress",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/277",
+          "parent_id": null,
+          "slug": "library-of-congress"
+        },
+        {
+          "raw_name": "Copyright Royalty Board",
+          "name": "Copyright Royalty Board",
+          "id": 88,
+          "url": "https://www.federalregister.gov/agencies/copyright-royalty-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/88",
+          "parent_id": 277,
+          "slug": "copyright-royalty-board"
+        }
+      ],
+      "excerpts": "The Copyright Royalty Judges are publishing for comment proposed regulations governing the rates and terms for the nonsubscription digital performance of sound recordings by commercial broadcasters and for the making of ephemeral recordings necessary..."
+    },
+    {
+      "title": "Supplemental Nutrition Assistance Program: Rescission of Changes to Civil Rights Data Collection Methods",
+      "type": "Proposed Rule",
+      "abstract": "FNS is proposing to rescind Supplemental Nutrition Assistance Program: Revision of Civil Rights Data Collection Methods regulations, issued as a final rule on December 14, 2023.",
+      "document_number": "2025-08797",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08797/supplemental-nutrition-assistance-program-rescission-of-changes-to-civil-rights-data-collection",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08797.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08797.pdf?1747319109",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Food and Nutrition Service",
+          "name": "Food and Nutrition Service",
+          "id": 200,
+          "url": "https://www.federalregister.gov/agencies/food-and-nutrition-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/200",
+          "parent_id": 12,
+          "slug": "food-and-nutrition-service"
+        }
+      ],
+      "excerpts": "FNS is proposing to rescind Supplemental Nutrition Assistance Program: Revision of Civil Rights Data Collection Methods regulations, issued as a final rule on December 14, 2023."
+    },
+    {
+      "title": "Previously Taxed Earnings and Profits and Related Basis Adjustments",
+      "type": "Proposed Rule",
+      "abstract": "This document reopens the period to submit comments for a notice of proposed rulemaking (REG-105479-18), which was published in the Federal Register on Monday, December 2, 2024. The proposed regulations address previously taxed earnings and profits of foreign corporations and related basis adjustments. The proposed regulations affect foreign corporations with previously taxed earnings and profits and their shareholders.",
+      "document_number": "2025-08743",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08743/previously-taxed-earnings-and-profits-and-related-basis-adjustments",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08743.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08743.pdf?1747313117",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "excerpts": "This document reopens the period to submit comments for a notice of proposed rulemaking (REG-105479-18), which was published in the Federal Register on Monday, December 2, 2024. The proposed regulations address previously taxed earnings and profits of..."
+    },
+    {
+      "title": "Administrative Rulemaking, Guidance, and Enforcement Procedures",
+      "type": "Proposed Rule",
+      "abstract": "This NPRM proposes to reinstate and expound upon procedural reforms for the Department's rulemakings, guidance documents, and enforcement actions rescinded by a final rule published by the Department on April 2, 2021, \"Administrative Rulemaking, Guidance, and Enforcement Procedures.\" Accordingly, this proposed rule would revise and update the Department's internal policies and procedures relating to the issuance of rulemaking documents. In addition, this NPRM proposes updates to the Department's procedural requirements governing the review and clearance of guidance documents, and the initiation and conduct of enforcement actions, including administrative enforcement proceedings and judicial enforcement actions brought in Federal court.",
+      "document_number": "2025-08724",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08724/administrative-rulemaking-guidance-and-enforcement-procedures",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08724.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08724.pdf?1747313116",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "excerpts": "This NPRM proposes to reinstate and expound upon procedural reforms for the Department's rulemakings, guidance documents, and enforcement actions rescinded by a final rule published by the Department on April 2, 2021, \"Administrative Rulemaking,..."
+    },
+    {
+      "title": "North Dakota: Approval of State Coal Combustion Residuals Permit Program",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA or the Agency) is proposing to approve North Dakota Coal Combustion Residuals (CCR) partial permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program application submitted by the North Dakota Department of Environmental Quality (NDDEQ), EPA has preliminarily determined that North Dakota's CCR permit program meets the standard for partial approval under RCRA. If approved, North Dakota's CCR permit program will operate in lieu of the Federal CCR program with the exception of the specific provisions noted below. EPA is seeking comment on this proposal during a 60-day public comment period and will be holding a hybrid in-person and virtual public hearing on EPA's preliminary approval of North Dakota's partial CCR permit program.",
+      "document_number": "2025-08705",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08705/north-dakota-approval-of-state-coal-combustion-residuals-permit-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08705.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08705.pdf?1747313113",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA or the Agency) is proposing to approve North Dakota Coal Combustion Residuals (CCR) partial permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2022-15-05, which applies to certain Airbus SAS Model A318 series airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, -216, -231, -232, and -233 airplanes; and Model A321-111, -112, -131, -211, -212, -213, -231, and -232 airplanes. AD 2022-15-05 requires repetitive high frequency eddy current (HFEC) inspections for cracks on the web horizontal flange and inner cap, and applicable corrective actions. Since the FAA issued AD 2022-15-05, additional cracks have been found at the door stop fitting number 1 holes at frame (FR) 68, after disassembly of the door stop fitting as part of the inspections required by AD 2022-15-05. This proposed AD would continue to require the actions in AD 2022-15-05, but with reduced compliances times for some inspections, and would require an additional inspection at door stop fitting number 1, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08664",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08664/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08664.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08664.pdf?1747313111",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to supersede Airworthiness Directive (AD) 2022-15-05, which applies to certain Airbus SAS Model A318 series airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, -216, -231,..."
+    },
+    {
+      "title": "Determination of Rates and Terms for Digital Performance of Sound Recordings and Making of Ephemeral Copies To Facilitate Those Performances (Web VI)",
+      "type": "Proposed Rule",
+      "abstract": "The Copyright Royalty Judges are publishing for comment proposed regulations governing the rates and terms for the digital performance of sound recordings by certain public radio stations and for the making of ephemeral recordings necessary for the facilitation of such transmissions for the period commencing January 1, 2026, and ending on December 31, 2030.",
+      "document_number": "2025-08631",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08631/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-and-making-of-ephemeral",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08631.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08631.pdf?1747313111",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "LIBRARY OF CONGRESS",
+          "name": "Library of Congress",
+          "id": 277,
+          "url": "https://www.federalregister.gov/agencies/library-of-congress",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/277",
+          "parent_id": null,
+          "slug": "library-of-congress"
+        },
+        {
+          "raw_name": "Copyright Royalty Board",
+          "name": "Copyright Royalty Board",
+          "id": 88,
+          "url": "https://www.federalregister.gov/agencies/copyright-royalty-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/88",
+          "parent_id": 277,
+          "slug": "copyright-royalty-board"
+        }
+      ],
+      "excerpts": "The Copyright Royalty Judges are publishing for comment proposed regulations governing the rates and terms for the digital performance of sound recordings by certain public radio stations and for the making of ephemeral recordings necessary for the..."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Conventional Ovens",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the amended design requirements for conventional ovens. This will return the design requirements for conventional ovens to the standards for kitchen ranges and ovens set by Congress: Gas kitchen ranges and ovens having an electrical supply cord shall not be equipped with a constant burning pilot for products manufactured on or after January 1, 1990.",
+      "document_number": "2025-08623",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08623/energy-conservation-program-energy-conservation-standards-for-conventional-ovens",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08623.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08623.pdf?1747070108",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the amended design requirements for conventional ovens. This will return the design requirements for conventional ovens to the standards for kitchen ranges and ovens set by Congress: Gas kitchen ranges and ovens having an..."
+    },
+    {
+      "title": "Energy Conservation Program: Rescinding the Amended Water Conservation Standards for Commercial Clothes Washers",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to repeal the amended water conservation standards for commercial clothes washers. This will return the standards for commercial clothes washers to the statutory baseline.",
+      "document_number": "2025-08599",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08599/energy-conservation-program-rescinding-the-amended-water-conservation-standards-for-commercial",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08599.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08599.pdf?1747056614",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to repeal the amended water conservation standards for commercial clothes washers. This will return the standards for commercial clothes washers to the statutory baseline."
+    },
+    {
+      "title": "Energy Conservation Program: Rescinding the Efficiency Standards for Battery Chargers",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the efficiency standards for battery chargers. This will effectively remove battery charges from the Energy Conservation Program.",
+      "document_number": "2025-08598",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08598/energy-conservation-program-rescinding-the-efficiency-standards-for-battery-chargers",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08598.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08598.pdf?1747056614",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the efficiency standards for battery chargers. This will effectively remove battery charges from the Energy Conservation Program."
+    },
+    {
+      "title": "Energy Conservation Program: Proposed Withdrawal of Determination of Air Cleaners as a Covered Consumer Product",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to withdraw its prior determination that portable air cleaners qualify as covered products under Part A of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\").",
+      "document_number": "2025-08596",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08596/energy-conservation-program-proposed-withdrawal-of-determination-of-air-cleaners-as-a-covered",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08596.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08596.pdf?1747056614",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to withdraw its prior determination that portable air cleaners qualify as covered products under Part A of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\")."
+    },
+    {
+      "title": "Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (Nondiscrimination on the Basis of Age)",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind certain regulatory provisions related to nondiscrimination based on age in federally assisted programs or activities.",
+      "document_number": "2025-08595",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08595/rescinding-regulations-related-to-nondiscrimination-in-federally-assisted-programs-or-activities",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08595.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08595.pdf?1747056613",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind certain regulatory provisions related to nondiscrimination based on age in federally assisted programs or activities."
+    },
+    {
+      "title": "Energy Conservation Program: Test Procedures for Small Electric Motors",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Energy (\"DOE\" or \"the Department\") is proposing to rescind its regulations establishing a small electric motor nationally recognized certification and testing laboratory accreditation program. The Department seeks comments on any reason to rescind or not rescind these regulations.",
+      "document_number": "2025-08592",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08592/energy-conservation-program-test-procedures-for-small-electric-motors",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08592.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08592.pdf?1747056613",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The Department of Energy (\"DOE\" or \"the Department\") is proposing to rescind its regulations establishing a small electric motor nationally recognized certification and testing laboratory accreditation program. The Department seeks comments on any..."
+    },
+    {
+      "title": "Rescinding the Amended Water Use Standards for Residential Dishwashers",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the amended water use standards for residential dishwashers. This will return the water use requirement for a standard size dishwasher to the statutory standard of 6.5 gallons per cycle and for a compact size dishwasher to the statutory standard of 4.5 gallons per cycle.",
+      "document_number": "2025-08591",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08591/rescinding-the-amended-water-use-standards-for-residential-dishwashers",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08591.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08591.pdf?1747056613",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the amended water use standards for residential dishwashers. This will return the water use requirement for a standard size dishwasher to the statutory standard of 6.5 gallons per cycle and for a compact size dishwasher to..."
+    },
+    {
+      "title": "Rescinding the Grant Programs for Schools and Hospitals and Buildings Owned by Units of Local Government and Public Care Institutions Regulations",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Energy is proposing to rescind the Grant Programs for Schools and Hospitals and Buildings Owned by Units of Local Government and Public Care Institutions regulations. The Department seeks comments on any reason to rescind or not rescind these regulations.",
+      "document_number": "2025-08590",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08590/rescinding-the-grant-programs-for-schools-and-hospitals-and-buildings-owned-by-units-of-local",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08590.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08590.pdf?1747056613",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The U.S. Department of Energy is proposing to rescind the Grant Programs for Schools and Hospitals and Buildings Owned by Units of Local Government and Public Care Institutions regulations. The Department seeks comments on any reason to rescind or not..."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Conventional Cooking Tops",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the amended design requirements for conventional cooking tops. This will return the design requirements for conventional cooking tops to the standards for kitchen ranges and ovens set by Congress: Gas kitchen ranges and ovens having an electrical supply cord shall not be equipped with a constant burning pilot for products manufactured on or after January 1, 1990.",
+      "document_number": "2025-08589",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08589/energy-conservation-program-energy-conservation-standards-for-conventional-cooking-tops",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08589.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08589.pdf?1747056613",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the amended design requirements for conventional cooking tops. This will return the design requirements for conventional cooking tops to the standards for kitchen ranges and ovens set by Congress: Gas kitchen ranges and..."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Program: Energy Conservation Standards for Microwave Ovens",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the energy conservation standards for microwave ovens. The rescission will eliminate the efficiency requirements for microwave ovens.",
+      "document_number": "2025-08588",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08588/energy-conservation-program-energy-conservation-program-energy-conservation-standards-for-microwave",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08588.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08588.pdf?1747056613",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the energy conservation standards for microwave ovens. The rescission will eliminate the efficiency requirements for microwave ovens."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for External Power Supplies",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind its existing regulations regarding the energy conservation standards for consumer external power supplies adopted under the Energy Policy and Conservation Act (EPCA).",
+      "document_number": "2025-08587",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08587/energy-conservation-program-energy-conservation-standards-for-external-power-supplies",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08587.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08587.pdf?1747056612",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind its existing regulations regarding the energy conservation standards for consumer external power supplies adopted under the Energy Policy and Conservation Act (EPCA)."
+    },
+    {
+      "title": "Compliance With Floodplain and Wetland Environmental Review Requirements",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Energy (DOE) is proposing to rescind certain regulations for compliance with floodplain and wetlands environmental review requirements. The Department seeks comments on any reason to rescind or not rescind these regulations. DOE expects to issue new procedures for discharging DOE's responsibilities under certain Executive orders published outside of the Code of Federal Regulations.",
+      "document_number": "2025-08586",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08586/compliance-with-floodplain-and-wetland-environmental-review-requirements",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08586.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08586.pdf?1747056612",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The U.S. Department of Energy (DOE) is proposing to rescind certain regulations for compliance with floodplain and wetlands environmental review requirements. The Department seeks comments on any reason to rescind or not rescind these regulations. DOE..."
+    },
+    {
+      "title": "Rescinding Reporting Requirements, Certification, Independent Verification, and DOE Review for Voluntary Greenhouse Gas Reporting",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Energy (DOE or the Department) is proposing to rescind reporting requirements, certification, independent verification, and DOE review for the Voluntary Greenhouse Gas Reporting Program. DOE seeks all comments on any aspects of this proposal.",
+      "document_number": "2025-08585",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08585/rescinding-reporting-requirements-certification-independent-verification-and-doe-review-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08585.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08585.pdf?1747056612",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The Department of Energy (DOE or the Department) is proposing to rescind reporting requirements, certification, independent verification, and DOE review for the Voluntary Greenhouse Gas Reporting Program. DOE seeks all comments on any aspects of this..."
+    },
+    {
+      "title": "Energy Conservation Program: Proposed Withdrawal of Determination of Miscellaneous Refrigeration Products as a Covered Consumer Product",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to withdraw its prior determination that miscellaneous refrigeration products qualify as covered products under Part A of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\").",
+      "document_number": "2025-08584",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08584/energy-conservation-program-proposed-withdrawal-of-determination-of-miscellaneous-refrigeration",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08584.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08584.pdf?1747056612",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to withdraw its prior determination that miscellaneous refrigeration products qualify as covered products under Part A of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\")."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Consumer Furnace Fans",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Energy (DOE or the Department) is considering whether to revise its existing regulations regarding the energy conservation standards for consumer furnace fans adopted under the Energy Policy and Conservation Act (EPCA). DOE is initiating this effort through this request for information (RFI) to invite public input on appropriate standard levels that are technologically feasible, economically justified, and result in significant conservation of energy.",
+      "document_number": "2025-08583",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08583/energy-conservation-program-energy-conservation-standards-for-consumer-furnace-fans",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08583.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08583.pdf?1747056612",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The Department of Energy (DOE or the Department) is considering whether to revise its existing regulations regarding the energy conservation standards for consumer furnace fans adopted under the Energy Policy and Conservation Act (EPCA). DOE is..."
+    },
+    {
+      "title": "Energy Conservation Program: Proposed Withdrawal of Determination of Compressors as a Covered Equipment",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to withdraw its prior determination that compressors qualify as covered equipment under Part A-1 of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\").",
+      "document_number": "2025-08582",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08582/energy-conservation-program-proposed-withdrawal-of-determination-of-compressors-as-a-covered",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08582.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08582.pdf?1747056612",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to withdraw its prior determination that compressors qualify as covered equipment under Part A-1 of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\")."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Compact Residential Clothes Washers",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the efficiency standards for compact residential clothes washers. If adopted, this will eliminate the efficiency standards for compact residential clothes washers completely, leaving the standards for standard size residential clothes washers.",
+      "document_number": "2025-08581",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08581/energy-conservation-program-energy-conservation-standards-for-compact-residential-clothes-washers",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08581.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08581.pdf?1747056612",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the efficiency standards for compact residential clothes washers. If adopted, this will eliminate the efficiency standards for compact residential clothes washers completely, leaving the standards for standard size..."
+    },
+    {
+      "title": "Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Energy (DOE or the Department) is proposing to amend the test procedure for commercial warm air furnaces adopted under the Energy Policy and Conservation Act by rescinding Appendix B, \"Uniform Test Method for Measurement of the Energy Efficiency of Commercial Warm Air Furnaces (Thermal Efficiency Two).\" Upon further evaluation, the Department has tentatively determined that Appendix B is unduly burdensome to conduct, thereby failing to meet the statutory criteria for adoption of a test procedure. Commercial warm air furnaces will continue to be subject to the testing requirements of Appendix A, \"Uniform Test Method for Measurement of the Energy Efficiency of Commercial Warm Air Furnaces (Thermal Efficiency).\" DOE invites public input on its proposal.",
+      "document_number": "2025-08580",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08580/energy-conservation-program-test-procedures-for-commercial-warm-air-furnaces",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08580.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08580.pdf?1747056611",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The Department of Energy (DOE or the Department) is proposing to amend the test procedure for commercial warm air furnaces adopted under the Energy Policy and Conservation Act by rescinding Appendix B, \"Uniform Test Method for Measurement of the Energy..."
+    },
+    {
+      "title": "Energy Conservation Program: Exempt Power Supplies Under the EPS Service Parts Act of 2014",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to revise its existing regulations regarding the reporting requirements imposed on exempt consumer external power supplies adopted under the Energy Policy and Conservation Act, as amended (\"EPCA\").",
+      "document_number": "2025-08579",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08579/energy-conservation-program-exempt-power-supplies-under-the-eps-service-parts-act-of-2014",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08579.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08579.pdf?1747056611",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to revise its existing regulations regarding the reporting requirements imposed on exempt consumer external power supplies adopted under the Energy Policy and Conservation Act, as amended (\"EPCA\")."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Residential Clothes Washers",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the amended water use standards for residential clothes washers. If finalized, this will return the water use requirement for clothes washers to the statutory water factor of not more than 9.5.",
+      "document_number": "2025-08578",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08578/energy-conservation-program-energy-conservation-standards-for-residential-clothes-washers",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08578.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08578.pdf?1747056611",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the amended water use standards for residential clothes washers. If finalized, this will return the water use requirement for clothes washers to the statutory water factor of not more than 9.5."
+    },
+    {
+      "title": "Energy Conservation Program: Proposed Withdrawal of Determination of Portable Air Conditioners as a Covered Consumer Product",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to withdraw its prior determination that portable air conditioners (\"portable ACs\") qualify as covered products under Part A of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\").",
+      "document_number": "2025-08577",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08577/energy-conservation-program-proposed-withdrawal-of-determination-of-portable-air-conditioners-as-a",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08577.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08577.pdf?1747056611",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to withdraw its prior determination that portable air conditioners (\"portable ACs\") qualify as covered products under Part A of Title III of the Energy Policy and Conservation Act, as amended (\"EPCA\")."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Automatic Commercial Ice Makers",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the amended water use standards for automatic commercial ice makers (ACIMs). This will return the water use standards for ACIMs to the statutory baseline.",
+      "document_number": "2025-08576",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08576/energy-conservation-program-energy-conservation-standards-for-automatic-commercial-ice-makers",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08576.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08576.pdf?1747056611",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the amended water use standards for automatic commercial ice makers (ACIMs). This will return the water use standards for ACIMs to the statutory baseline."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Faucets",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Energy (DOE) is proposing to rescind the amended water use standards for faucets. If finalized, this will reset existing water use requirements for faucets to the statutory standard.",
+      "document_number": "2025-08575",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08575/energy-conservation-program-energy-conservation-standards-for-faucets",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08575.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08575.pdf?1747056611",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The Department of Energy (DOE) is proposing to rescind the amended water use standards for faucets. If finalized, this will reset existing water use requirements for faucets to the statutory standard."
+    },
+    {
+      "title": "Energy Conservation Program: Energy Conservation Standards for Commercial Prerinse Spray Valves",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the amended water use standards for commercial prerinse spray valves (\"CPSVs\"). This proposal will return the water use standards for CPSVs to the statutory baseline.",
+      "document_number": "2025-08574",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08574/energy-conservation-program-energy-conservation-standards-for-commercial-prerinse-spray-valves",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08574.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08574.pdf?1747056611",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the amended water use standards for commercial prerinse spray valves (\"CPSVs\"). This proposal will return the water use standards for CPSVs to the statutory baseline."
+    },
+    {
+      "title": "Rescinding the Production Incentives for Cellulosic Biofuels",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Energy (DOE or Department) is proposing to rescind the Production Incentives for Cellulosic Biofuels regulations. The Department seeks comments on any reason to rescind or not rescind these regulations.",
+      "document_number": "2025-08572",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08572/rescinding-the-production-incentives-for-cellulosic-biofuels",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08572.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08572.pdf?1747056610",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The U.S. Department of Energy (DOE or Department) is proposing to rescind the Production Incentives for Cellulosic Biofuels regulations. The Department seeks comments on any reason to rescind or not rescind these regulations."
+    },
+    {
+      "title": "Renewable Energy Production Incentives",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Energy is proposing to rescind the Renewable Energy Production Incentives program regulations at the end of fiscal year 2026. DOE's proposal is intended to parallel the program's statutory sunset date. The Department seeks comments on any reason to rescind or not rescind these regulations.",
+      "document_number": "2025-08569",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08569/renewable-energy-production-incentives",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08569.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08569.pdf?1747056610",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The U.S. Department of Energy is proposing to rescind the Renewable Energy Production Incentives program regulations at the end of fiscal year 2026. DOE's proposal is intended to parallel the program's statutory sunset date. The Department seeks..."
+    },
+    {
+      "title": "Energy Conservation Program: Rescinding in Part the Amended Energy Conservation Standards for Dehumidifiers",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to rescind the amended energy conservation standards for all dehumidifiers (excluding whole-home dehumidifiers) hereinafter (\"dehumidifiers\" or \"non-whole-home dehumidifiers\"), which constitute a distinct class of dehumidifier for which energy conservation standards are not statutorily prescribed. This will return the energy conservation standards for dehumidifiers manufactured on or after October 1, 2012, to 1.35 liters/kWh for dehumidifiers with a capacity of up to 35.00 pints/day; 1.50 liters/kWh for dehumidifiers with a capacity of 35.01-45.00 pints/day; 1.60 liters/kWh for dehumidifiers with a capacity of 45.01-54.00 pints/day; 1.70 liters/kWh for dehumidifiers with a capacity of 54.01-75.00 pints/day; and 2.5 liters/kWh for dehumidifiers with a capacity of greater than 75.00 pints/day.",
+      "document_number": "2025-08558",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08558/energy-conservation-program-rescinding-in-part-the-amended-energy-conservation-standards-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08558.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08558.pdf?1747056610",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to rescind the amended energy conservation standards for all dehumidifiers (excluding whole-home dehumidifiers) hereinafter (\"dehumidifiers\" or \"non-whole-home dehumidifiers\"), which constitute a distinct class of dehumidifier for..."
+    },
+    {
+      "title": "Energy Conservation Program: Proposed Withdrawal of Determination of Fans and Blowers as Covered Equipment",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to withdraw its classification of certain fans and blowers as covered equipment under Part A-1 of Title III of the Energy Policy and Conservation Act (EPCA), as amended.",
+      "document_number": "2025-08556",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08556/energy-conservation-program-proposed-withdrawal-of-determination-of-fans-and-blowers-as-covered",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08556.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08556.pdf?1747056609",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to withdraw its classification of certain fans and blowers as covered equipment under Part A-1 of Title III of the Energy Policy and Conservation Act (EPCA), as amended."
+    },
+    {
+      "title": "Application for Authorization To Transmit Electric Energy to a Foreign Country",
+      "type": "Proposed Rule",
+      "abstract": "DOE is proposing to amend existing provisions regarding authorization to transmit electric energy to a foreign country.",
+      "document_number": "2025-08555",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/16/2025-08555/application-for-authorization-to-transmit-electric-energy-to-a-foreign-country",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-16/pdf/2025-08555.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08555.pdf?1747056609",
+      "publication_date": "2025-05-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "DOE is proposing to amend existing provisions regarding authorization to transmit electric energy to a foreign country."
+    },
+    {
+      "title": "Safety Zones; Rocket Launches in the Gulf of America and South Bay, Boca Chica Beach, TX",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard proposes to establish two permanent safety zones to protect personnel, vessels, and the marine environment from potential hazards created by commercial spaceflight activities. The proposed permanent safety zones are located in navigable waters of South Bay, TX and in navigable waters of the Gulf of America. This proposed rulemaking would prohibit persons and vessels from being in the safety zones during scheduled launches, unless authorized by the Captain of the Port, Sector Corpus Christi (COTP) or a designated representative. We invite your comments on this proposed rulemaking.",
+      "document_number": "2025-08686",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08686/safety-zones-rocket-launches-in-the-gulf-of-america-and-south-bay-boca-chica-beach-tx",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08686.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08686.pdf?1747226721",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "excerpts": "The Coast Guard proposes to establish two permanent safety zones to protect personnel, vessels, and the marine environment from potential hazards created by commercial spaceflight activities. The proposed permanent safety zones are located in navigable..."
+    },
+    {
+      "title": "Hydrogen Fluoride; TSCA Section 21 Petition for Rulemaking Under TSCA Section 6; Reasons for Agency Response; Denial of Requested Rulemaking",
+      "type": "Proposed Rule",
+      "abstract": "This action announces the availability of the EPA's response to a petition received on February 11, 2025, from the Clean Air Council, Communities for a Better Environment, and Natural Resources Defense Council (petitioners). The petition requests that EPA establish a TSCA rule prohibiting the use of hydrogen fluoride (HF) in domestic oil refining to eliminate unreasonable risks to public health and the environment. After careful consideration, EPA has denied the TSCA petition for the reasons set forth in this notice.",
+      "document_number": "2025-08658",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08658/hydrogen-fluoride-tsca-section-21-petition-for-rulemaking-under-tsca-section-6-reasons-for-agency",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08658.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08658.pdf?1747226718",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "This action announces the availability of the EPA's response to a petition received on February 11, 2025, from the Clean Air Council, Communities for a Better Environment, and Natural Resources Defense Council (petitioners). The petition requests that..."
+    },
+    {
+      "title": "Electronic Fund Transfers Through Accounts Established Primarily for Personal, Family, or Household Purposes Using Emerging Payment Mechanisms; Withdrawal",
+      "type": "Proposed Rule",
+      "abstract": "The Consumer Financial Protection Bureau (Bureau) is withdrawing a proposed interpretive rule, Electronic Fund Transfers Through Accounts Established Primarily for Personal, Family, or Household Purposes Using Emerging Payment Mechanisms. The Bureau will not take any further action on this proposed interpretive rule.",
+      "document_number": "2025-08646",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08646/electronic-fund-transfers-through-accounts-established-primarily-for-personal-family-or-household",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08646.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08646.pdf?1747226717",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "Consumer Financial Protection Bureau",
+          "name": "Consumer Financial Protection Bureau",
+          "id": 573,
+          "url": "https://www.federalregister.gov/agencies/consumer-financial-protection-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/573",
+          "parent_id": null,
+          "slug": "consumer-financial-protection-bureau"
+        }
+      ],
+      "excerpts": "The Consumer Financial Protection Bureau (Bureau) is withdrawing a proposed interpretive rule, Electronic Fund Transfers Through Accounts Established Primarily for Personal, Family, or Household Purposes Using Emerging Payment Mechanisms. The Bureau..."
+    },
+    {
+      "title": "Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA); Withdrawal of Proposed Rule",
+      "type": "Proposed Rule",
+      "abstract": "The Consumer Financial Protection Bureau (Bureau or CFPB) is withdrawing its Notice of Proposed Rule: Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA) (NPRM). The Bureau has determined that legislative rulemaking is not necessary or appropriate at this time to address the subject matter of the NPRM. The Bureau will not take any further action on the NPRM.",
+      "document_number": "2025-08645",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08645/prohibited-terms-and-conditions-in-agreements-for-consumer-financial-products-or-services-regulation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08645.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08645.pdf?1747226717",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "Consumer Financial Protection Bureau",
+          "name": "Consumer Financial Protection Bureau",
+          "id": 573,
+          "url": "https://www.federalregister.gov/agencies/consumer-financial-protection-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/573",
+          "parent_id": null,
+          "slug": "consumer-financial-protection-bureau"
+        }
+      ],
+      "excerpts": "The Consumer Financial Protection Bureau (Bureau or CFPB) is withdrawing its Notice of Proposed Rule: Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA) (NPRM). The Bureau has determined that..."
+    },
+    {
+      "title": "Protecting Americans From Harmful Data Broker Practices (Regulation V); Withdrawal of Proposed Rule",
+      "type": "Proposed Rule",
+      "abstract": "The Consumer Financial Protection Bureau (Bureau or CFPB) is withdrawing its Notice of Proposed Rule: Protecting Americans from Harmful Data Broker Practices (Regulation V) (NPRM). The Bureau has determined that legislative rulemaking is not necessary or appropriate at this time to address the subject matter of the NPRM. The Bureau will not take any further action on the NPRM.",
+      "document_number": "2025-08644",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08644/protecting-americans-from-harmful-data-broker-practices-regulation-v-withdrawal-of-proposed-rule",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08644.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08644.pdf?1747226717",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "Consumer Financial Protection Bureau",
+          "name": "Consumer Financial Protection Bureau",
+          "id": 573,
+          "url": "https://www.federalregister.gov/agencies/consumer-financial-protection-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/573",
+          "parent_id": null,
+          "slug": "consumer-financial-protection-bureau"
+        }
+      ],
+      "excerpts": "The Consumer Financial Protection Bureau (Bureau or CFPB) is withdrawing its Notice of Proposed Rule: Protecting Americans from Harmful Data Broker Practices (Regulation V) (NPRM). The Bureau has determined that legislative rulemaking is not necessary..."
+    },
+    {
+      "title": "National Wildlife Refuge System; 2025-2026 Station-Specific Hunting and Sport Fishing Regulations",
+      "type": "Proposed Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to open or expand hunting or sport fishing opportunities on 16 National Wildlife Refuge System (NWRS) stations and 1 National Fish Hatchery System (NFHS) station. This includes inaugural hunting opportunities at Southern Maryland Woodlands National Wildlife Refuge (NWR), the newest addition to the NWRS, and the formal opening of hunting opportunities at Grasslands Wildlife Management Area (WMA), as well as inaugural sport fishing at North Attleboro National Fish Hatchery (NFH). These actions will open or expand 42 opportunities for hunting and fishing across more than 87,000 acres of Service lands and waters. In addition, at the request of the State of Minnesota and the White Earth Nation, Tamarac NWR proposes to end an experimental 5-day early teal hunt where the refuge overlaps with Tribal land to ensure safety for wild rice harvesting and to align with State regulations. We also propose to make administrative changes to existing station-specific regulations to improve the clarity and accuracy of regulations, reduce the regulatory burden on the public, and comply with a Presidential mandate for plain- language standards.",
+      "document_number": "2025-08621",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08621/national-wildlife-refuge-system-2025-2026-station-specific-hunting-and-sport-fishing-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08621.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08621.pdf?1747226715",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "excerpts": "We, the U.S. Fish and Wildlife Service (Service), propose to open or expand hunting or sport fishing opportunities on 16 National Wildlife Refuge System (NWRS) stations and 1 National Fish Hatchery System (NFHS) station. This includes inaugural hunting..."
+    },
+    {
+      "title": "Medicaid Program; Preserving Medicaid Funding for Vulnerable Populations-Closing a Health Care-Related Tax Loophole Proposed Rule",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule is intended to address a loophole in a regulatory statistical test applied to State proposals for Medicaid tax waivers. The test is designed to ensure, as required by statute, that non-uniform or non-broad -based health care-related taxes, authorized under a waiver, are generally redistributive. The inadvertent loophole currently allows some health care-related taxes, especially taxes on managed care organizations, to be imposed at higher tax rates on Medicaid taxable units than non-Medicaid taxable units, contrary to statutory and regulatory intent for health care-related taxes to be generally redistributive. The proposed provisions would better implement the statutory requirements by adding additional safeguards to ensure that tax waivers that exploit the loophole because they pass the current statistical test, but are not generally redistributive, are not approvable.",
+      "document_number": "2025-08566",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08566/medicaid-program-preserving-medicaid-funding-for-vulnerable-populations-closing-a-health",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08566.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08566.pdf?1747080968",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "excerpts": "This proposed rule is intended to address a loophole in a regulatory statistical test applied to State proposals for Medicaid tax waivers. The test is designed to ensure, as required by statute, that non-uniform or non-broad -based health care-related..."
+    },
+    {
+      "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Dassault Aviation Model FALCON 2000EX airplanes. This proposed AD was prompted by reports of the incorrect installation of the very high frequency omnidirectional range and localizer (VOR/LOC) antenna coupler. This proposed AD would require implementing an operational limitation for Category (CAT) II and CAT III approaches, inspecting the VOR/LOC antenna coupler, and reinstalling the VOR/LOC antenna coupler if necessary, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference (IBR). The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08553",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/15/2025-08553/airworthiness-directives-dassault-aviation-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-15/pdf/2025-08553.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08553.pdf?1747226711",
+      "publication_date": "2025-05-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Dassault Aviation Model FALCON 2000EX airplanes. This proposed AD was prompted by reports of the incorrect installation of the very high frequency omnidirectional range and..."
+    },
+    {
+      "title": "Airworthiness Directives; Gulfstream Aerospace LP (Type Certificate Previously Held by Israel Aircraft Industries, Ltd.) Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Gulfstream Aerospace LP Model Gulfstream G150 airplanes. This proposed AD was prompted by a determination that a new airworthiness limitation is necessary. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate a new airworthiness limitation, as specified in a Civil Aviation Authority of Israel (CAAI) AD, which is proposed for incorporation by reference (IBR). The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08502",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08502/airworthiness-directives-gulfstream-aerospace-lp-type-certificate-previously-held-by-israel-aircraft",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08502.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08502.pdf?1747140321",
+      "publication_date": "2025-05-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for all Gulfstream Aerospace LP Model Gulfstream G150 airplanes. This proposed AD was prompted by a determination that a new airworthiness limitation is necessary. This proposed AD would..."
+    },
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-9 and 787-10 airplanes. This proposed AD was prompted by reports of multiple supplier notices of escapement (NOEs) documenting pressure deck splice fittings that were possibly manufactured with an incorrect titanium alloy material. This proposed AD would require an inspection of the attach fittings and upper splice fitting of the stub beam horizontal pressure deck (HPD) to determine the type of titanium alloy material, and applicable on- condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08501",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08501/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08501.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08501.pdf?1747140321",
+      "publication_date": "2025-05-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-9 and 787-10 airplanes. This proposed AD was prompted by reports of multiple supplier notices of escapement (NOEs) documenting pressure deck splice..."
+    },
+    {
+      "title": "Agency Advisory Circular: Reduced Reliability Flight Safety System Design, Test, and Documentation",
+      "type": "Proposed Rule",
+      "abstract": "FAA invites public comments about our intention to publish an advisory circular. This Advisory Circular (AC) provides guidance to demonstrate compliance with the design, test, and documentation requirements for a Reduced Reliability Flight Safety System (RRFSS) of commercial space launch or reentry vehicles. This AC presents one acceptable means of compliance (MOC), but this is not the only acceptable MOC. Launch and reentry license applicants may use this AC to guide their internal processes, format their license applications, or both.",
+      "document_number": "2025-08496",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08496/agency-advisory-circular-reduced-reliability-flight-safety-system-design-test-and-documentation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08496.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08496.pdf?1747140321",
+      "publication_date": "2025-05-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "FAA invites public comments about our intention to publish an advisory circular. This Advisory Circular (AC) provides guidance to demonstrate compliance with the design, test, and documentation requirements for a Reduced Reliability Flight Safety..."
+    },
+    {
+      "title": "Procedures for Supervisory Designation Proceedings",
+      "type": "Proposed Rule",
+      "abstract": "The Consumer Financial Protection Bureau (CFPB or Bureau) is proposing to rescind the amendments it adopted on April 29, 2022, November 21, 2022, and April 23, 2024, to the Procedures for Supervisory Designation Proceedings.",
+      "document_number": "2025-08347",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08347/procedures-for-supervisory-designation-proceedings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08347.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08347.pdf?1747140309",
+      "publication_date": "2025-05-14",
+      "agencies": [
+        {
+          "raw_name": "Consumer Financial Protection Bureau",
+          "name": "Consumer Financial Protection Bureau",
+          "id": 573,
+          "url": "https://www.federalregister.gov/agencies/consumer-financial-protection-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/573",
+          "parent_id": null,
+          "slug": "consumer-financial-protection-bureau"
+        }
+      ],
+      "excerpts": "The Consumer Financial Protection Bureau (CFPB or Bureau) is proposing to rescind the amendments it adopted on April 29, 2022, November 21, 2022, and April 23, 2024, to the Procedures for Supervisory Designation Proceedings."
+    },
+    {
+      "title": "Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders; Proposed Rescission",
+      "type": "Proposed Rule",
+      "abstract": "The Consumer Financial Protection Bureau (Bureau or CFPB) is proposing to rescind its rule requiring certain types of nonbank covered persons subject to certain final public orders obtained or issued by a government agency in connection with the offering or provision of a consumer financial product or service to report the existence of the orders and related information to a Bureau registry.",
+      "document_number": "2025-08345",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08345/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders-proposed-rescission",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08345.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08345.pdf?1747140308",
+      "publication_date": "2025-05-14",
+      "agencies": [
+        {
+          "raw_name": "Consumer Financial Protection Bureau",
+          "name": "Consumer Financial Protection Bureau",
+          "id": 573,
+          "url": "https://www.federalregister.gov/agencies/consumer-financial-protection-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/573",
+          "parent_id": null,
+          "slug": "consumer-financial-protection-bureau"
+        }
+      ],
+      "excerpts": "The Consumer Financial Protection Bureau (Bureau or CFPB) is proposing to rescind its rule requiring certain types of nonbank covered persons subject to certain final public orders obtained or issued by a government agency in connection with the..."
+    },
+    {
+      "title": "Air Plan Approval; South Dakota; Regional Haze Plan for the Second Implementation Period",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve the regional haze state implementation plan (SIP) submission submitted by the State of South Dakota on July 29, 2022 (South Dakota's 2022 SIP submission), under the Clean Air Act (CAA) and the EPA's Regional Haze Rule (RHR) for the program's second implementation period. South Dakota's 2022 SIP submission addresses the requirement that states revise their long-term strategies every implementation period to make reasonable progress towards the national goal of preventing any future, and remedying any existing, anthropogenic impairment of visibility, including regional haze, in mandatory Class I Federal areas. South Dakota's 2022 SIP submission also addresses other applicable requirements for the second implementation period of the regional haze program. The EPA is taking this action pursuant to the CAA.",
+      "document_number": "2025-08072",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/14/2025-08072/air-plan-approval-south-dakota-regional-haze-plan-for-the-second-implementation-period",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-14/pdf/2025-08072.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08072.pdf?1747140308",
+      "publication_date": "2025-05-14",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA) is proposing to approve the regional haze state implementation plan (SIP) submission submitted by the State of South Dakota on July 29, 2022 (South Dakota's 2022 SIP submission), under the Clean Air Act (CAA)..."
+    },
+    {
+      "title": "Fisheries of the Northeastern United States; 2025-2026 Specifications for the Mackerel, Squid, and Butterfish Fishery Management Plan",
+      "type": "Proposed Rule",
+      "abstract": "NMFS proposes 2025-2026 specifications for the Mackerel, Squid, and Butterfish Fishery Management Plan (FMP), as recommended by the Mid-Atlantic Fishery Management Council (Council). This action proposes new 2025 and projected 2026 butterfish fishery specifications, and reaffirmed 2025 chub mackerel, Illex squid, longfin squid, and Atlantic mackerel fishery specifications. The proposed specifications are intended to establish allowable harvest levels that will prevent overfishing, consistent with the most recent scientific information. This action would also adjust the minimum square mesh size for directed butterfish trawl trips; account for a 2024 Atlantic mackerel annual catch limit overage (if applicable); and correct existing regulations.",
+      "document_number": "2025-08368",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08368/fisheries-of-the-northeastern-united-states-2025-2026-specifications-for-the-mackerel-squid-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08368.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08368.pdf?1747053915",
+      "publication_date": "2025-05-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "NMFS proposes 2025-2026 specifications for the Mackerel, Squid, and Butterfish Fishery Management Plan (FMP), as recommended by the Mid-Atlantic Fishery Management Council (Council). This action proposes new 2025 and projected 2026 butterfish fishery..."
+    },
+    {
+      "title": "Rules of Practice for Adjudication Proceedings; Rescission",
+      "type": "Proposed Rule",
+      "abstract": "The Consumer Financial Protection Bureau (Bureau) is proposing to rescind the amendments it adopted to the Rules of Practice for Adjudication Proceedings (Rules of Practice) on February 22, 2022, and March 29, 2023.",
+      "document_number": "2025-08344",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08344/rules-of-practice-for-adjudication-proceedings-rescission",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08344.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08344.pdf?1747053913",
+      "publication_date": "2025-05-13",
+      "agencies": [
+        {
+          "raw_name": "Consumer Financial Protection Bureau",
+          "name": "Consumer Financial Protection Bureau",
+          "id": 573,
+          "url": "https://www.federalregister.gov/agencies/consumer-financial-protection-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/573",
+          "parent_id": null,
+          "slug": "consumer-financial-protection-bureau"
+        }
+      ],
+      "excerpts": "The Consumer Financial Protection Bureau (Bureau) is proposing to rescind the amendments it adopted to the Rules of Practice for Adjudication Proceedings (Rules of Practice) on February 22, 2022, and March 29, 2023."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2017-23-04, which applies to all Airbus SAS Model A300 B4-600R series airplanes; all Model A300 B4-603, B4-620, and B4-622 airplanes; all Model A300 C4-605R Variant F airplanes; and certain Model A300 F4-605R airplanes. AD 2017-23-04 requires an inspection of the upper wing skin and top stringer joints, and modification of the stringer joint couplings if necessary. Since the FAA issued AD 2017-23-04, it has been determined that additional airplanes may be subject to the identified unsafe condition. This proposed AD would continue to require the actions in AD 2017-23-04 and would add airplanes, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference (IBR). This proposed AD would also remove certain airplanes from the applicability. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08331",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08331/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08331.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08331.pdf?1747053911",
+      "publication_date": "2025-05-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to supersede Airworthiness Directive (AD) 2017-23-04, which applies to all Airbus SAS Model A300 B4-600R series airplanes; all Model A300 B4-603, B4-620, and B4-622 airplanes; all Model A300 C4-605R Variant F airplanes; and certain..."
+    },
+    {
+      "title": "Establishment of E2 and Removal of Class E4 Airspace Over Jacksonville, NC",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to establish Class E2 airspace extending upward from the surface above the New River Marine Corps Air Station (MCAS), Jacksonville, NC, as the air traffic control tower operates part-time. Controlled airspace is necessary for the safety and management of instrument flight rules (IFR) operations in the area. This action also proposes to remove the Class E4 airspace at New River MCAS (NCA), Jacksonville, NC, due to the current designated airspace no longer meeting the requirements of its designation.",
+      "document_number": "2025-08297",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/13/2025-08297/establishment-of-e2-and-removal-of-class-e4-airspace-over-jacksonville-nc",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-13/pdf/2025-08297.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08297.pdf?1747053908",
+      "publication_date": "2025-05-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "This action proposes to establish Class E2 airspace extending upward from the surface above the New River Marine Corps Air Station (MCAS), Jacksonville, NC, as the air traffic control tower operates part-time. Controlled airspace is necessary for the..."
+    },
+    {
+      "title": "Tribal Consultation for 8(a) Business Development Program and Mentor-Protégé Program Issues and Best Practices",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Small Business Administration (SBA) announces that it is holding a tribal consultation meeting in Anchorage, Alaska requesting comments and input on a variety of topics relating to the 8(a) program and the mentor-prot[eacute]g[eacute] program. SBA is requesting general comments and input on how the 8(a) program is working and is inviting suggestions on potential avenues for making the program more efficient or reducing the regulatory burden on participants in the program. Additionally, SBA requests comments and input on best practices for how entity-owned firms market their capabilities to procuring agencies. SBA is also requesting comments and input on how to ensure the mentor-prot[eacute]g[eacute] program is operating as intended.",
+      "document_number": "2025-08294",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08294/tribal-consultation-for-8a-business-development-program-and-mentor-protg-program-issues-and-best",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08294.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08294.pdf?1746794726",
+      "publication_date": "2025-05-12",
+      "agencies": [
+        {
+          "raw_name": "SMALL BUSINESS ADMINISTRATION",
+          "name": "Small Business Administration",
+          "id": 468,
+          "url": "https://www.federalregister.gov/agencies/small-business-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/468",
+          "parent_id": null,
+          "slug": "small-business-administration"
+        }
+      ],
+      "excerpts": "The U.S. Small Business Administration (SBA) announces that it is holding a tribal consultation meeting in Anchorage, Alaska requesting comments and input on a variety of topics relating to the 8(a) program and the mentor-prot[eacute]g[eacute] program...."
+    },
+    {
+      "title": "Establishment of Class E Airspace; Ekalaka Airport, Ekalaka, MT",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to establish Class E airspace extending upward from 700 feet above the surface at Ekalaka Airport, Ekalaka, MT. This action would support the airport's transition from visual flight rules (VFR) to instrument flight rules (IFR) operations.",
+      "document_number": "2025-08251",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08251/establishment-of-class-e-airspace-ekalaka-airport-ekalaka-mt",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08251.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08251.pdf?1746794721",
+      "publication_date": "2025-05-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "This action proposes to establish Class E airspace extending upward from 700 feet above the surface at Ekalaka Airport, Ekalaka, MT. This action would support the airport's transition from visual flight rules (VFR) to instrument flight rules (IFR)..."
+    },
+    {
+      "title": "Curing Missed Loan Payments",
+      "type": "Proposed Rule",
+      "abstract": "The Federal Retirement Thrift Investment Board (FRTIB) proposes to update its regulations regarding the methods available to participants to cure missed loan payments. The proposed change will also clarify the number of missed payments which must be brought back into compliance by the last day of the quarter following the quarter in which the payment was missed to avoid triggering a deemed distribution.",
+      "document_number": "2025-08221",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08221/curing-missed-loan-payments",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08221.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08221.pdf?1746794717",
+      "publication_date": "2025-05-12",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RETIREMENT THRIFT INVESTMENT BOARD",
+          "name": "Federal Retirement Thrift Investment Board",
+          "id": 189,
+          "url": "https://www.federalregister.gov/agencies/federal-retirement-thrift-investment-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/189",
+          "parent_id": null,
+          "slug": "federal-retirement-thrift-investment-board"
+        }
+      ],
+      "excerpts": "The Federal Retirement Thrift Investment Board (FRTIB) proposes to update its regulations regarding the methods available to participants to cure missed loan payments. The proposed change will also clarify the number of missed payments which must be..."
+    },
+    {
+      "title": "Rescinding National Organic Program; Market Development for Mushrooms and Pet Food",
+      "type": "Proposed Rule",
+      "abstract": "AMS is proposing to rescind the rule and regulations issued on December 23, 2024, titled, \"National Organic Program; Market Development for Mushrooms and Pet Food.\"",
+      "document_number": "2025-08219",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08219/rescinding-national-organic-program-market-development-for-mushrooms-and-pet-food",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08219.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08219.pdf?1746794717",
+      "publication_date": "2025-05-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Agricultural Marketing Service",
+          "name": "Agricultural Marketing Service",
+          "id": 9,
+          "url": "https://www.federalregister.gov/agencies/agricultural-marketing-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/9",
+          "parent_id": 12,
+          "slug": "agricultural-marketing-service"
+        }
+      ],
+      "excerpts": "AMS is proposing to rescind the rule and regulations issued on December 23, 2024, titled, \"National Organic Program; Market Development for Mushrooms and Pet Food.\""
+    },
+    {
+      "title": "RIN 2120-AA66",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to establish United States Area Navigation (RNAV) Routes Q-190 and T-497, and amend domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-1, V-70, and V- 194 in the eastern United States. The FAA is taking this action due to the planned decommissioning of the Cofield, NC (CVI), VOR/Tactical Air Navigation (VORTAC). This action is in support of the FAA's VOR Minimum Operational Network (MON) Program.",
+      "document_number": "2025-08203",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08203/rin-2120-aa66",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08203.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08203.pdf?1746794717",
+      "publication_date": "2025-05-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "This action proposes to establish United States Area Navigation (RNAV) Routes Q-190 and T-497, and amend domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-1, V-70, and V- 194 in the eastern United States. The FAA is taking this..."
+    },
+    {
+      "title": "Special Local Regulation; Allegheny River Mile Marker 20.5-21.5, Creighton, PA",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary special local regulation on the waters of the Allegheny River from mile marker 20.5 to mile marker 21.5 in Creighton, PA. This action is necessary to provide for the safety of life on these navigable waters from potential hazards during the powerboat regatta for the activities planned from June 7, 2025, through June 8, 2025. This proposed rulemaking would prohibit persons and vessels from being in the regulated area unless authorized by the Captain of the Port Pittsburgh or a designated representative. We invite your comments on this proposed rulemaking.",
+      "document_number": "2025-08193",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08193/special-local-regulation-allegheny-river-mile-marker-205-215-creighton-pa",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08193.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08193.pdf?1746794716",
+      "publication_date": "2025-05-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "excerpts": "The Coast Guard is proposing to establish a temporary special local regulation on the waters of the Allegheny River from mile marker 20.5 to mile marker 21.5 in Creighton, PA. This action is necessary to provide for the safety of life on these..."
+    },
+    {
+      "title": "Negotiated Rulemaking Committee; Negotiator Nominations and Schedule of Committee Meetings",
+      "type": "Proposed Rule",
+      "abstract": "We announce our intention to establish a negotiated rulemaking committee to prepare proposed regulations for the Federal Student Aid programs authorized under title IV of the Higher Education Act of 1965, as amended (HEA). The committee will include representatives of organizations or groups with interests that are significantly affected by the subject matter of the proposed regulations. We request nominations for individual negotiators who represent key stakeholder constituencies for the issues to be negotiated to serve on the committee.",
+      "document_number": "2025-08157",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08157/negotiated-rulemaking-committee-negotiator-nominations-and-schedule-of-committee-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08157.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08157.pdf?1746794716",
+      "publication_date": "2025-05-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "We announce our intention to establish a negotiated rulemaking committee to prepare proposed regulations for the Federal Student Aid programs authorized under title IV of the Higher Education Act of 1965, as amended (HEA). The committee will include..."
+    },
+    {
+      "title": "Food Labeling: Front-of-Package Nutrition Information; Extension of Comment Period",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA or we) is extending the comment period for the proposed rule entitled \"Food Labeling: Front- of-Package Nutrition Information\" that appeared in the Federal Register of January 16, 2025. We are taking this action in response to requests for an extension to allow interested parties additional time to submit comments.",
+      "document_number": "2025-08204",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-08204/food-labeling-front-of-package-nutrition-information-extension-of-comment-period",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-08204.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08204.pdf?1746708327",
+      "publication_date": "2025-05-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA or we) is extending the comment period for the proposed rule entitled \"Food Labeling: Front- of-Package Nutrition Information\" that appeared in the Federal Register of January 16, 2025. We are taking this action in..."
+    },
+    {
+      "title": "Security Zone; Upper Mississippi River, Saint Louis, MO",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard proposes establishing a permanent security zone for certain waters of the Upper Mississippi River adjacent to the Jefferson Barracks military installation, Saint Louis, MO. This proposed rulemaking would prohibit persons and vessels from operating or anchoring within the Security zone unless authorized by the Captain of the Port Sector Upper Mississippi River or a designated representative. This action is necessary to ensure no unauthorized entry into the waters adjacent to the military installation to safeguard the installation from sabotage or other subversive acts. We invite your comments on this proposed rulemaking.",
+      "document_number": "2025-08194",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-08194/security-zone-upper-mississippi-river-saint-louis-mo",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-08194.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08194.pdf?1746708326",
+      "publication_date": "2025-05-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "excerpts": "The Coast Guard proposes establishing a permanent security zone for certain waters of the Upper Mississippi River adjacent to the Jefferson Barracks military installation, Saint Louis, MO. This proposed rulemaking would prohibit persons and vessels..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Model EC 130 B4 and EC 130 T2 helicopters. This proposed AD was prompted by a report of heavy damage on the fenestron due to the loss of the tail rotor (TR) blade, which broke at the TR hub tension-torsion bar (tension-torsion bar). This proposed AD would require inspecting the tension-torsion bar and, depending on the inspection results, taking corrective actions. This proposed AD would also prohibit performing maintenance using certain maintenance manuals. These proposed actions are specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08078",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-08078/airworthiness-directives-airbus-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-08078.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08078.pdf?1746708310",
+      "publication_date": "2025-05-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Model EC 130 B4 and EC 130 T2 helicopters. This proposed AD was prompted by a report of heavy damage on the fenestron due to the loss of the tail rotor (TR) blade,..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus Helicopters Deutschland GmbH (AHD) Model MBB-BK 117 D-3 helicopters. This proposed AD was prompted by reports of momentary direct current (DC) power interruption in flight of both essential busses. This proposed AD would require revising the existing rotorcraft flight manual (RFM) for your helicopter, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-08075",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-08075/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-08075.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08075.pdf?1746708310",
+      "publication_date": "2025-05-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus Helicopters Deutschland GmbH (AHD) Model MBB-BK 117 D-3 helicopters. This proposed AD was prompted by reports of momentary direct current (DC) power interruption in flight..."
+    },
+    {
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area",
+      "type": "Proposed Rule",
+      "abstract": "NMFS has received a request from the U.S. Department of the Navy (including the U.S. Navy and the U.S. Marine Corps (Navy)) and on behalf of the U.S. Coast Guard (Coast Guard; hereafter, Navy and Coast Guard are collectively referred to as Action Proponents) for Incidental Take Regulations (ITR) and three associated Letters of Authorization (LOAs) pursuant to the Marine Mammal Protection Act (MMPA). The requested regulations would govern the authorization of take of marine mammals incidental to training and testing activities conducted in the Atlantic Fleet Training and Testing (AFTT) Study Area over the course of seven years from November 2025 through November 2032. NMFS requests comments on this proposed rule. NMFS will consider public comments prior to making any final decision on the promulgation of the requested ITR and issuance of the LOAs; agency responses to public comments will be summarized in the final rule, if issued. The Action Proponents' activities are considered military readiness activities pursuant to the MMPA, as amended by the National Defense Authorization Act for Fiscal Year 2004 (2004 NDAA).",
+      "document_number": "2025-07780",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/09/2025-07780/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-09/pdf/2025-07780.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07780.pdf?1746708312",
+      "publication_date": "2025-05-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "NMFS has received a request from the U.S. Department of the Navy (including the U.S. Navy and the U.S. Marine Corps (Navy)) and on behalf of the U.S. Coast Guard (Coast Guard; hereafter, Navy and Coast Guard are collectively referred to as Action..."
+    },
+    {
+      "title": "Air Plan Approval; Louisiana; Nonattainment Plan for the Evangeline Parish 2010 Sulfur Dioxide Primary National Ambient Air Quality Standard Nonattainment Area",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve Louisiana's State Implementation Plan (SIP) revision submitted to EPA on April 2, 2025, for the Evangeline Parish 2010 1-hour sulfur dioxide (SO<INF>2</INF>) primary national ambient air quality standard (NAAQS) nonattainment area. EPA is proposing approval of the following Clean Air Act (CAA) SIP elements: The attainment demonstration for the SO<INF>2</INF> NAAQS, which includes an Agreed Order on Consent (AOC) for the Cabot Corporation's Ville Platte Plant (Cabot) facility; the reasonable further progress (RFP) plan; the reasonably available control measures (RACM) and reasonably available control technology (RACT) demonstration; the emission inventories; and the contingency measures. The State has demonstrated that its current Nonattainment New Source Review (NNSR) program covers this NAAQS; therefore, no revision to the SIP is required for the NNSR element.",
+      "document_number": "2025-08080",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08080/air-plan-approval-louisiana-nonattainment-plan-for-the-evangeline-parish-2010-sulfur-dioxide-primary",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-08080.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08080.pdf?1746621937",
+      "publication_date": "2025-05-08",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA) is proposing to approve Louisiana's State Implementation Plan (SIP) revision submitted to EPA on April 2, 2025, for the Evangeline Parish 2010 1-hour sulfur dioxide (SO<INF>2</INF>) primary national ambient air..."
+    },
+    {
+      "title": "Approval and Promulgation of State Implementation Plans; New York; Emission Statement Certification of the 2008 and 2015 Ozone National Ambient Air Quality Standards",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve portions of the comprehensive State Implementation Plan (SIP) revisions submitted by New York that certify that the State has satisfied the requirements for an emission statement program for both the Serious and Moderate classifications of the 2008 and 2015 ozone National Ambient Air Quality Standards (NAAQS), respectively. These actions are being taken in accordance with the requirements of the Clean Air Act (CAA or Act).",
+      "document_number": "2025-08077",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08077/approval-and-promulgation-of-state-implementation-plans-new-york-emission-statement-certification-of",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-08077.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08077.pdf?1746621936",
+      "publication_date": "2025-05-08",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA) is proposing to approve portions of the comprehensive State Implementation Plan (SIP) revisions submitted by New York that certify that the State has satisfied the requirements for an emission statement program..."
+    },
+    {
+      "title": "Air Plan Approval; Missouri; Control of Emissions During Petroleum Liquid Storage, Loading, and Transfer",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Missouri State Implementation Plan (SIP) related to the control of emissions during petroleum liquid storage, loading and transfer in the Kansas City metropolitan area. The revisions to this rule include adding incorporations by reference to other state rules, adding definitions specific to the rule, revising unnecessarily restrictive or duplicative language, and making administrative wording changes. These revisions do not impact the stringency of the SIP or have an adverse effect on air quality. The EPA's proposed approval of this rule revision is being done in accordance with the requirements of the Clean Air Act (CAA).",
+      "document_number": "2025-08074",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08074/air-plan-approval-missouri-control-of-emissions-during-petroleum-liquid-storage-loading-and-transfer",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-08074.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08074.pdf?1746621936",
+      "publication_date": "2025-05-08",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Missouri State Implementation Plan (SIP) related to the control of emissions during petroleum liquid storage, loading and transfer in the Kansas City metropolitan area...."
+    },
+    {
+      "title": "Notice of Public Meetings and Request for Comment on the Modernization of Pilot Schools",
+      "type": "Proposed Rule",
+      "abstract": "The Federal Aviation Administration (FAA) announces public meetings to solicit input on the modernization of pilot school regulations.",
+      "document_number": "2025-08025",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08025/notice-of-public-meetings-and-request-for-comment-on-the-modernization-of-pilot-schools",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-08025.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08025.pdf?1746621926",
+      "publication_date": "2025-05-08",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The Federal Aviation Administration (FAA) announces public meetings to solicit input on the modernization of pilot school regulations."
+    },
+    {
+      "title": "Method of Correcting Errors Involving Retired Lifecycle Funds",
+      "type": "Proposed Rule",
+      "abstract": "The Federal Retirement Thrift Investment Board (FRTIB) is proposing to amend its regulation regarding the method for correcting errors involving Lifecycle Funds that no longer exist. Specifically, it is reverting to the use of a constructed share price to calculate breakage and the value of negative adjustments for errors involving Lifecycle Funds that no longer exist as of June 1, 2022.",
+      "document_number": "2025-07977",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-07977/method-of-correcting-errors-involving-retired-lifecycle-funds",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-07977.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07977.pdf?1746621917",
+      "publication_date": "2025-05-08",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RETIREMENT THRIFT INVESTMENT BOARD",
+          "name": "Federal Retirement Thrift Investment Board",
+          "id": 189,
+          "url": "https://www.federalregister.gov/agencies/federal-retirement-thrift-investment-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/189",
+          "parent_id": null,
+          "slug": "federal-retirement-thrift-investment-board"
+        }
+      ],
+      "excerpts": "The Federal Retirement Thrift Investment Board (FRTIB) is proposing to amend its regulation regarding the method for correcting errors involving Lifecycle Funds that no longer exist. Specifically, it is reverting to the use of a constructed share price..."
+    },
+    {
+      "title": "Air Plan Approval; Colorado; Serious Attainment Plan Contingency Measures for the 2008 8-Hour Ozone National Ambient Air Quality Standards for the Denver Metro/North Front Range Nonattainment Area",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve state implementation plan (SIP) submittals under the Clean Air Act (CAA) that address contingency measures requirements for the 2008 ozone National Ambient Air Quality Standards (NAAQS) for the Denver Metro/North Front Range (DMNFR) ozone nonattainment area. The requirements at issue relate to the area's previous Serious nonattainment classification. The EPA is proposing to find that the State has met the applicable CAA requirements for Serious area contingency measures and is proposing approval of the contingency measures SIP submittals, except that we are not taking action on one of the two identified contingency measures included in the submittals. In addition, the EPA is proposing to approve regulatory revisions that Colorado adopted to implement the submitted motor vehicle coating contingency measure. The EPA is taking this action pursuant to the CAA.",
+      "document_number": "2025-07937",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-07937/air-plan-approval-colorado-serious-attainment-plan-contingency-measures-for-the-2008-8-hour-ozone",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-07937.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07937.pdf?1746621917",
+      "publication_date": "2025-05-08",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA) is proposing to approve state implementation plan (SIP) submittals under the Clean Air Act (CAA) that address contingency measures requirements for the 2008 ozone National Ambient Air Quality Standards (NAAQS)..."
+    },
+    {
+      "title": "Air Plan Approval; Ohio; Nitrogen Oxide Budget Program",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Ohio State Implementation Plan (SIP) submitted by the Ohio Environmental Protection Agency (Ohio EPA) on November 4, 2024. The SIP revisions consist of revised Ohio Administrative Code (OAC) rules implementing the Nitrogen Oxide (NO<INF>X</INF>) Budget Program. The revised rules include non- substantive updates to rule language and updates to referenced material.",
+      "document_number": "2025-07860",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/08/2025-07860/air-plan-approval-ohio-nitrogen-oxide-budget-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-08/pdf/2025-07860.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07860.pdf?1746621916",
+      "publication_date": "2025-05-08",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Ohio State Implementation Plan (SIP) submitted by the Ohio Environmental Protection Agency (Ohio EPA) on November 4, 2024. The SIP revisions consist of revised Ohio..."
+    },
+    {
+      "title": "Establishment of Restricted Areas R-5305A, R-5305B, and R-5305C; Camp Lejeune, NC; and Restricted Areas R-5307A, R-5307B, and R-5307C; Cherry Point, NC",
+      "type": "Proposed Rule",
+      "abstract": "This action provides a second extension of the comment period for a NPRM that was originally published on March 20, 2025. In that document, the FAA proposed to establish restricted areas R-5305A, R- 5305B, and R-5305C at Camp Lejeune, NC; and restricted areas R-5307A, R-5307B, and R-5307C at Cherry Point, NC. A four-day extension to the comment period was previously issued on April 16, 2025. The present extension provides an additional two weeks for comments in response to a request by the Aircraft Owners and Pilots Association (AOPA) to extend the comment period to analyze newly provided supporting graphics.",
+      "document_number": "2025-07940",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/07/2025-07940/establishment-of-restricted-areas-r-5305a-r-5305b-and-r-5305c-camp-lejeune-nc-and-restricted-areas",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-07/pdf/2025-07940.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07940.pdf?1746535514",
+      "publication_date": "2025-05-07",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "This action provides a second extension of the comment period for a NPRM that was originally published on March 20, 2025. In that document, the FAA proposed to establish restricted areas R-5305A, R- 5305B, and R-5305C at Camp Lejeune, NC; and..."
+    },
+    {
+      "title": "Airworthiness Directives; Bombardier, Inc., Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Bombardier, Inc., Model BD-100-1A10 airplanes. This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-07929",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/07/2025-07929/airworthiness-directives-bombardier-inc-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-07/pdf/2025-07929.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07929.pdf?1746535513",
+      "publication_date": "2025-05-07",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for all Bombardier, Inc., Model BD-100-1A10 airplanes. This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD..."
+    },
+    {
+      "title": "Wireless E911 Location Accuracy Requirements",
+      "type": "Proposed Rule",
+      "abstract": "In this document, the Federal Communications Commission (the FCC or Commission) proposes rules to strengthen wireless 911 location accuracy rules and to put more actionable location information in the hands of Public Safety Answering Points (PSAPs) and first responders.",
+      "document_number": "2025-06865",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/07/2025-06865/wireless-e911-location-accuracy-requirements",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-07/pdf/2025-06865.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06865.pdf?1746535509",
+      "publication_date": "2025-05-07",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "excerpts": "In this document, the Federal Communications Commission (the FCC or Commission) proposes rules to strengthen wireless 911 location accuracy rules and to put more actionable location information in the hands of Public Safety Answering Points (PSAPs) and..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A318-111, -112, -121, and -122 airplanes; A319-111, -112, -113, -114, -115, -131, -132, -133, -151N, -153N, and - 171N airplanes; A320-211, -212, -214, -216, -231, -232, -233, -251N, - 252N, -253N, -271N, -272N, and -273N airplanes; and A321-111, -112, - 131, -211, -212, -213, -231, -232, -251N, -252N, -253N, -271N, -272N, - 251NX, -252NX, -253NX, -253NY, -271NX, and -272NX airplanes. This proposed AD was prompted by a determination that new airworthiness limitations are necessary. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate new airworthiness limitations, as specified in a European Union Aviation Safety Agency (EASA) AD, which is proposed for incorporation by reference (IBR). The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-07858",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/06/2025-07858/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-06/pdf/2025-07858.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07858.pdf?1746449122",
+      "publication_date": "2025-05-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A318-111, -112, -121, and -122 airplanes; A319-111, -112, -113, -114, -115, -131, -132, -133, -151N, -153N, and - 171N airplanes; A320-211, -212, -214, -216, -231,..."
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA is revising a notice of proposed rulemaking (NPRM) that applied to certain Airbus SAS Model A300 series airplanes; Model A300 B4-600, B4-600R, and F4-600R series airplanes, and Model A300 C4- 605R Variant F airplanes (collectively called Model A300-600 series airplanes); and Model A310 series airplanes. This action revises the NPRM by adding airplanes to the applicability. The FAA is proposing this airworthiness directive (AD) to address the unsafe condition on these products. Since this action would impose an additional burden over those in the NPRM, the FAA is requesting comments on this SNPRM.",
+      "document_number": "2025-07856",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/06/2025-07856/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-06/pdf/2025-07856.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07856.pdf?1746449122",
+      "publication_date": "2025-05-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA is revising a notice of proposed rulemaking (NPRM) that applied to certain Airbus SAS Model A300 series airplanes; Model A300 B4-600, B4-600R, and F4-600R series airplanes, and Model A300 C4- 605R Variant F airplanes (collectively called Model..."
+    },
+    {
+      "title": "Airworthiness Directives; Bombardier, Inc., Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bombardier, Inc., Model CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A, 601-3R, and 604 Variants) airplanes. This proposed AD was prompted by tail strikes that occurred during landing with partial flap configurations. This proposed AD would require revising the existing airplane flight manual (AFM) to provide the flightcrew with procedures to follow when landing under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-07753",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/06/2025-07753/airworthiness-directives-bombardier-inc-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-06/pdf/2025-07753.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07753.pdf?1746449111",
+      "publication_date": "2025-05-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bombardier, Inc., Model CL-600-1A11 (600), CL-600-2A12 (601), and CL-600-2B16 (601-3A, 601-3R, and 604 Variants) airplanes. This proposed AD was prompted by tail strikes that..."
+    },
+    {
+      "title": "Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern",
+      "type": "Proposed Rule",
+      "abstract": "FinCEN is issuing a notice of proposed rulemaking (NPRM), pursuant to section 311 of the USA PATRIOT Act, that proposes prohibiting the opening or maintaining of a correspondent account in the United States for, or on behalf of, Huione Group, a foreign financial institution based in Cambodia found to be of primary money laundering concern. The NPRM also would require covered financial institutions to apply special due diligence to their foreign correspondent accounts that is reasonably designed to guard against their use to process transactions involving Huione Group.",
+      "document_number": "2025-07837",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/05/2025-07837/special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary-money",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-05/pdf/2025-07837.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07837.pdf?1746189943",
+      "publication_date": "2025-05-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Financial Crimes Enforcement Network",
+          "name": "Financial Crimes Enforcement Network",
+          "id": 194,
+          "url": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/194",
+          "parent_id": 497,
+          "slug": "financial-crimes-enforcement-network"
+        }
+      ],
+      "excerpts": "FinCEN is issuing a notice of proposed rulemaking (NPRM), pursuant to section 311 of the USA PATRIOT Act, that proposes prohibiting the opening or maintaining of a correspondent account in the United States for, or on behalf of, Huione Group, a foreign..."
+    },
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 757-200 and -300 series airplanes. This proposed AD was prompted by cracking found during an inspection on an airplane equipped with Aviation Partners Boeing (APB) scimitar blended winglets (SBWs). This proposed AD would require performing a general visual inspection (GVI) or maintenance records check of certain stringers for an approved freeze plug repair, performing a high frequency eddy current (HFEC) inspection of the same area for any crack common to a certain stringer and a reinforcement strap, and applicable on-condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-07724",
+      "html_url": "https://www.federalregister.gov/documents/2025/05/05/2025-07724/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-05/pdf/2025-07724.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-07724.pdf?1746189935",
+      "publication_date": "2025-05-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 757-200 and -300 series airplanes. This proposed AD was prompted by cracking found during an inspection on an airplane equipped with Aviation Partners..."
+    }
+  ]
+}
